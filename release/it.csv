@@ -1301,6 +1301,106 @@
 118,5,en-us,MQ4_NightStart,,"Cosa c’è sulla mia lista di incombenze stanotte? Ah, sì, una cosa sola: «Non presentarti alla festa a The Art Hole»."
 118,6,en-us,MQ4_NightStart,,"Be’, è una di quelle rare notti in cui non ho niente da fare. Tanto vale farsi un giro per la città e vedere che aria tira."
 118,7,en-us,MQ4_NightStart,,"E magari prepararmi un bel drink, già che ci sono."
+119,1,en-us,MQ4_NightEnd,,Direi che di interazione umana per stanotte ne ho avuta abbastanza. 
+119,2,en-us,MQ4_NightEnd,,Ancora una volta al Big Beat Burger. Dentro l’ultimo fast food che conoscerò mai.
+119,3,en-us,MQ4_NightEnd,Player,Prendo il solito.
+119,4,en-us,MQ4_NightEnd,,"La prima volta che ho usato questa frase non ero sicura che funzionasse, ma ormai ho guadagnato abbastanza notorietà tra il personale. La cassiera sorride, annuisce e mi batte un caffè nero."
+119,5,en-us,MQ4_NightEnd,,Me li immagino mentre istruiscono i nuovi. «Vedi quella tipa emo strana? Funziona così: ordina sempre un solo caffè. Nient’altro. E non lo beve nemmeno.»
+119,6,en-us,MQ4_NightEnd,,Probabilmente non ne berrei un sorso nemmeno da viva. Questa roba è solo... spazzatura. Ma almeno essere una cliente pagante mi dà una scusa per restare seduta qui quanto voglio.
+119,7,en-us,MQ4_NightEnd,,"Vorrei poter usare uno di quei totem per le ordinazioni, così da ridurre al minimo il contatto umano, ma i touch screen non è che mi amino. Non molto tempo fa sono riuscita a mandarne dieci di fila in schermata blu."
+119,8,en-us,MQ4_NightEnd,,Vabbè. La buona notizia è che pare che stanotte non abbia niente da fare.
+119,9,en-us,MQ4_NightEnd,,La cattiva notizia è che il motivo è che ogni Fratello che conta si sta divertendo a The Art Hole proprio adesso.
+119,10,en-us,MQ4_NightEnd,,Non è che volessi andarci. Volevo solo che mi invitassero per poterli mandare affanculo.
+119,11,en-us,MQ4_NightEnd,,...
+119,12,en-us,MQ4_NightEnd,,Scruto l’ingresso del locale con la coda dell’occhio.
+119,13,en-us,MQ4_NightEnd,,Sto ingenuamente sperando che qualcuno venga a salvarmi da questa miseria? Direi di sì. 
+119,14,en-us,MQ4_NightEnd,,"Ti prego, ti prego, ti prego, che qualcuno venga a tirarmi fuori di qui."
+119,15,en-us,MQ4_NightEnd,,Un principe.
+119,16,en-us,MQ4_NightEnd,,Una principessa.
+119,17,en-us,MQ4_NightEnd,,Un cavaliere dalla lucente armatura. Una fata madrina. Un cacciatore di passaggio. Il lupo cattivo. Milla Jovovich. Vin Diesel. Azealia Banks. 
+119,18,en-us,MQ4_NightEnd,,"Cavolo, a questo punto mi va bene chiunque."
+119,19,en-us,MQ4_NightEnd,,…
+119,20,en-us,MQ4_NightEnd,,Visualizzo… attingo al potere del mio subconscio… materializzo i miei sogni...
+119,21,en-us,MQ4_NightEnd,,…
+119,22,en-us,MQ4_NightEnd,,No. Non funziona.
+119,23,en-us,MQ4_NightEnd,,"Pare che tu sia bloccata per l’eternità a fare la nessuno nell’angolo di un locale di merda, dolce piccola Julia. La non-vita è una stronza, e poi non muori nemmeno."
+119,24,en-us,MQ4_NightEnd,,Per un po’ fingo di leggere un libro di psicoanalisi che ho rubato a Dakota. 
+119,25,en-us,MQ4_NightEnd,,"Trovandolo troppo impegnativo, passo a fingere di leggere un libro di Stephen King, anche quello rubato a Dakota."
+119,26,en-us,MQ4_NightEnd,,"Dopo la terrificante scoperta che è stato scritto negli ultimi quindici anni e quindi non contiene divertenti sproloqui sotto acidi su infanzie difficili nel Maine, torno a fissare l’ingresso."
+119,27,en-us,MQ4_NightEnd,,"(Quella festa dev’essere soffocante, trash e noiosissima.)"
+119,28,en-us,MQ4_NightEnd,,A questo punto non cerco più la salvezza. Chiedo un po’ di divertimento.
+119,29,en-us,MQ4_NightEnd,,"Ma non arriva. Tutto quello che ottengo sono noiosi pagliacci vestiti normcore. Entrano, sbrigano le loro faccende senza fare niente che mi diverta, ed escono."
+119,30,en-us,MQ4_NightEnd,,"Qualche minuto dopo che ho perso ogni speranza, un uomo alto ed elegante entra a passo deciso."
+119,31,en-us,MQ4_NightEnd,,"Si guarda intorno, impaziente, irritato. Poi nota la persona che cercava e reagisce con evidente sollievo."
+119,32,en-us,MQ4_NightEnd,,"Si avvicina galantemente al mio tavolo, mi guarda e dice..."
+119,33,en-us,MQ4_NightEnd,QadirShadows,Eccoti.
+119,34,en-us,MQ4_NightEnd,,Ecco una cosa curiosa. Non dovrebbe essere qui.
+119,35,Menu Text en-us,MQ4_NightEnd,Julia_baseCross,...fata madrina?
+119,36,en-us,MQ4_NightEnd,Julia_baseCross,Che succede? Sei qui per fare la mia fata madrina?
+119,37,en-us,MQ4_NightEnd,,"Il mio stupido tentativo di divertirmi da sola non lo scalfisce minimamente. Non alza nemmeno gli occhi al cielo, mi fissa e basta, inespressivo."
+119,38,en-us,MQ4_NightEnd,QadirShadows,Prendi le tue cose e sali in macchina. Subito.
+119,39,en-us,MQ4_NightEnd,,Il tono non lascia spazio a dubbi. È successo qualcosa di brutto. 
+119,40,en-us,MQ4_NightEnd,,"Vorrei chiedere cosa, ma quando è in modalità «ignorerò semplicemente tutte le stupidaggini che dici» so che è meglio non fare domande."
+119,41,en-us,MQ4_NightEnd,,Invece lo seguo in silenzio verso l’uscita. Mi accompagna alla sua macchina.
+119,42,en-us,MQ4_NightEnd,,"Spero solo di non aver combinato niente. Di nuovo. Non credo, ma… l’ho fatto?"
+119,43,en-us,MQ4_NightEnd,,La macchina di Qadir. Come sempre mi ha messa dietro. È sempre a disagio quando il sedile del passeggero è occupato. Dice che non vuole nessuno a limitargli la visione periferica.
+119,44,en-us,MQ4_NightEnd,,"Di solito lo beccherei a osservarmi nello specchietto retrovisore, ma stavolta guarda le strade. Più teso del solito. Dev’essere successo qualcosa che l’ha colto alla sprovvista. "
+119,45,en-us,MQ4_NightEnd,PlayerNoPic,Cintura allacciata e popcorn pronti. Che succede?
+119,46,en-us,MQ4_NightEnd,,Il silenzio imbarazzato sembra destinato a durare per sempre.
+119,47,en-us,MQ4_NightEnd,,Alla fine trova le parole giuste e parla.
+119,48,en-us,MQ4_NightEnd,Qadir_nopic,Sei settimane fa il Principe mi ha detto di… trattare con gli [14;Anarchici] ai moli. Ricordi?
+119,49,en-us,MQ4_NightEnd,PlayerNoPic,"Sì, e mi hai fatta venire con te perché imparassi qualcosa di politica. A quanto pare «politica» voleva dire una cosa terribilmente simile a guardare i miei parenti ubriachi che si urlano addosso a un matrimonio."
+119,50,en-us,MQ4_NightEnd,Qadir_nopic,"C’era un uomo che non aveva bisogno di urlare per farmi ribollire il sangue. Il più cattivo nella stanza, il loro capo. Capelli bianchi, un monocolo, abiti stantii."
+119,51,en-us,MQ4_NightEnd,BossCallihan,...con questa cazzo di troia polacca...
+119,52,en-us,MQ4_NightEnd,PlayerNoPic,"Zio Paperone. Già, come dimenticarlo. Un sacco di pompa, spacconate d’altri tempi e insulti sessisti scagliati contro di me."
+119,53,en-us,MQ4_NightEnd,PlayerNoPic,"Come si chiamava? Qualcosa di britannico, mi faceva pensare a Hollywood... Callahan? "
+119,54,en-us,MQ4_NightEnd,Qadir_nopic,[49;Barone] Callihan. Douglas «Boss» Callihan. 
+119,55,en-us,MQ4_NightEnd,PlayerNoPic,"Giusto. Siamo nel 2020, ma le opinioni e le idee di quell’uomo erano ferme al 1920. Gli Anarchici non dovevano essere l’opzione progressista? Non ho mai capito perché lo sopportassero."
+119,56,en-us,MQ4_NightEnd,Qadir_nopic,"Ha i suoi modi per prevedere da che parte tirerà il vento. Ogni volta che la Camarilla o la SI colpivano gli Anarchici, a rimetterci erano le fazioni a lui contrarie. Il bastardo più fortunato del mondo."
+119,57,en-us,MQ4_NightEnd,PlayerNoPic,Pensavo non credessi nella fortuna.
+119,58,en-us,MQ4_NightEnd,Qadir_nopic,Infatti no. Ma pare proprio che stanotte la sua fortuna sia finita.
+119,59,en-us,MQ4_NightEnd,,Eh.
+119,60,en-us,MQ4_NightEnd,PlayerNoPic,Aspetta. Non dirmi che…
+119,61,Menu Text en-us,MQ4_NightEnd,PlayerNoPic,Andiamo a ucciderlo?
+119,64,en-us,MQ4_NightEnd,PlayerNoPic,Quindi mi stai dicendo che stiamo andando nel suo ufficio… per ucciderlo?
+119,65,en-us,MQ4_NightEnd,Qadir_nopic,Cosa? Ma... Cosa? No. Assolutamente no.
+119,66,en-us,MQ4_NightEnd,,Pare che abbia sbagliato bersaglio. Di parecchio.
+119,67,en-us,MQ4_NightEnd,Qadir_nopic,"Anche se, e sarebbe un grosso «se», un’idea del genere non fosse completamente opposta a tutto quello che il Principe Panhard ha fatto negli ultimi anni…"
+119,68,en-us,MQ4_NightEnd,,Il tono suona come se si stesse rivolgendo a una bambina particolarmente ottusa. Il bello è che probabilmente me lo merito.
+119,69,en-us,MQ4_NightEnd,Qadir_nopic,...non ce ne sarebbe alcun bisogno. Quell’uomo ha cessato di esistere.
+119,70,en-us,MQ4_NightEnd,PlayerNoPic,Aspetta. È morto? Più morto di morto?
+119,71,en-us,MQ4_NightEnd,Qadir_nopic,Al 99% quel bastardo ha incontrato la sua Morte Ultima.
+119,77,en-us,MQ4_NightEnd,PlayerNoPic,Come fai a saperlo?
+119,78,en-us,MQ4_NightEnd,Qadir_nopic,Abbiamo fonti affidabili nelle cerchie interne degli Anarchici. Pare che stia per scatenarsi l’inferno. C’è una riunione d’emergenza a The Art Hole.
+119,79,en-us,MQ4_NightEnd,PlayerNoPic,Cristo. E porti me con te? Perché?
+119,80,en-us,MQ4_NightEnd,Qadir_nopic,Perché eri sulla strada. Perché potevo. Perché dovevo.
+119,81,en-us,MQ4_NightEnd,Qadir_nopic,"Sarai anche irrilevante per i membri della Corte, ma resti una risorsa per la setta. Simbolicamente, almeno. Posso giustificare di averti infilata alla festa dicendo che è per la tua protezione."
+119,82,en-us,MQ4_NightEnd,PlayerNoPic,La mia dolce fata madrina in carrozza di lusso.
+119,83,en-us,MQ4_NightEnd,Qadir_nopic,Tsk.
+119,84,en-us,MQ4_NightEnd,PlayerNoPic,Un attimo però. La festa… si fa ancora?
+119,85,en-us,MQ4_NightEnd,Qadir_nopic,...
+119,86,en-us,MQ4_NightEnd,Qadir_nopic,"...Ho chiamato il Principe, le ho detto che la cosa migliore da fare è annullarla e ho cominciato a elencare i protocolli di sicurezza che ho preparato per situazioni del genere."
+119,87,en-us,MQ4_NightEnd,Qadir_nopic,Mi ha interrotto a metà e mi ha detto che ne discuteremo faccia a faccia. 
+119,88,en-us,MQ4_NightEnd,,Non sembra che fosse interessata.
+119,89,en-us,MQ4_NightEnd,PlayerNoPic,"La festa è così importante, eh."
+119,90,en-us,MQ4_NightEnd,Qadir_nopic,La politica. È la politica a essere così importante.
+119,91,en-us,MQ4_NightEnd,,Non so se stia cercando di convincere me o se stesso.
+119,92,en-us,MQ4_NightEnd,PlayerNoPic,E ancora una volta la politica suona terribilmente come un branco di stronzi festaioli che si urlano addosso.
+119,93,en-us,MQ4_NightEnd,Qadir_nopic,Non preoccuparti. Questa non è il tipo di - come dovrei chiamarla? - «questione di governo» di cui ci occupiamo io e te. 
+119,94,en-us,MQ4_NightEnd,PlayerNoPic,E come descriveresti le «questioni di governo» di cui ci occupiamo noi?
+119,95,en-us,MQ4_NightEnd,Qadir_nopic,…
+119,96,en-us,MQ4_NightEnd,Qadir_nopic,...spalare merda per tirarcene fuori.
+119,97,en-us,MQ4_NightEnd,,"Come al solito sembra un po’ imbarazzato per aver detto una parolaccia. O per essere stato troppo onesto. In ogni caso, è tenero."
+119,98,en-us,MQ4_NightEnd,PlayerNoPic,Non ho niente da obiettare.
+119,99,en-us,MQ4_NightEnd,,Ed è lì che la conversazione finisce. Restiamo in silenzio mentre la macchina corre verso l’ignoto. 
+119,100,en-us,MQ4_NightEnd,BossCallihan,"Non sono «un Barone di New York». «Il Barone di New York», se non le dispiace."
+119,101,en-us,MQ4_NightEnd,,"Sayonara, stronzo."
+119,102,en-us,MQ4_NightEnd,,"Ed eccomi qui, nell’unico posto che non mi aspettavo di visitare stanotte. The Art Hole."
+119,103,en-us,MQ4_NightEnd,,"A giudicare dai suoni, dentro sembra… vivace. Anche sapendo che è un’emergenza, semplicemente non gliene importa niente."
+119,493,en-us,MQ4_NightEnd,,Ancora una volta mi torna in mente un vecchio stronzo convinto di poter governare il mondo.
+119,494,en-us,MQ4_NightEnd,,"Be’, pare che il mondo se lo sia lasciato alle spalle."
+119,513,en-us,MQ4_NightEnd,QadirShadows,...
+119,514,en-us,MQ4_NightEnd,Julia_doubtCross,"Mi darai un vestito meraviglioso e mi accompagnerai alla festa? Oh, ma è già passata mezzanotte!"
 120,1,en-us,MQ5_NightStart,Dakota_nopic,Te l’ho sempre detto che avresti sfondato.
 120,2,en-us,MQ5_NightStart,PlayerNoPic,Ma per favore. Questi stronzi mi usano solo come pedina in una stupida partita a scacchi quadridimensionale.
 120,3,en-us,MQ5_NightStart,Dakota_nopic,Invece di tenerti proprio fuori dalla scacchiera. Non fare la guastafeste col bicchiere mezzo vuoto.
