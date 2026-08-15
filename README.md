@@ -5,14 +5,14 @@ plugin. The game ships English, French, Brazilian Portuguese and Russian; this a
 **Italiano** as a fifth entry in the language selector and injects the translated text
 at runtime. **No game file is modified.**
 
-Work in progress: **2142 of 5699 dialogue lines**, plus the in-game dictionary, actor
+Work in progress: **2256 of 5699 dialogue lines**, plus the in-game dictionary, actor
 names and quest texts.
 
 ## Installing
 
 1. Install [BepInEx 5.4.x (x64)](https://github.com/BepInEx/BepInEx/releases) into the
    game folder and run the game once so it generates its directories.
-2. Copy `SoNY.Ita.dll` and `it.csv` (and `ui_it.csv`, if present) into
+2. Copy everything from [`release/`](release/) into
    `BepInEx/plugins/SoNY-ITA/`.
 3. Launch the game and pick **Italiano** in the options.
 
@@ -42,6 +42,7 @@ configuration options.
 | `official_glossary.json` | 60 VtM glossary terms with their official Italian |
 | `ui_manual.json` | hand-written translations for the Shadows-specific UI tables |
 | `links.csv` | the dialogue graph, 5940 links |
+| `release/` | the installable build — DLL plus the translation CSVs |
 
 The full English script dumps are deliberately **not** in this repository — they are the
 games' copyrighted text. Regenerate them from your own copy by launching the game once
