@@ -1574,7 +1574,7 @@
 119,298,en-us,MQ4_NightEnd,QadirShadowsMasked,"Se la situazione è davvero sotto controllo, la accompagno io e sorveglio."
 119,299,en-us,MQ4_NightEnd,ThomasArturoShadowsMasked,"Fuori discussione. Ha i suoi ordini, Sceriffo. Si occupi di quelli."
 119,300,en-us,MQ4_NightEnd,QadirShadows,Sciocco. La ragazza ha bisogno di una guida.
-119,301,en-us,MQ4_NightEnd,HelleneShadows,E noi abbiamo bisogno della tua. Nessuno sa cosa potrebbe succedere adesso.
+119,301,en-us,MQ4_NightEnd,HelleneShadows,E noi della tua. Nessuno sa cosa potrebbe succedere adesso.
 119,302,en-us,MQ4_NightEnd,QadirShadows,Ma--
 119,303,en-us,MQ4_NightEnd,ThomasArturoShadows,"Non è che gli Anarchici la amino molto, Al-Asmai. È troppo efficiente nei suoi doveri perché la tollerino. Meglio risparmiare alla signorina Sowinski di farsi vedere insieme a lei."
 119,304,en-us,MQ4_NightEnd,QadirShadows,...
@@ -1603,6 +1603,110 @@
 119,327,en-us,MQ4_NightEnd,KatherineWiese,"Hai problemi più grossi di cui preoccuparti, tesoro."
 119,328,en-us,MQ4_NightEnd,,Vabbè. Almeno adesso so quanta confidenza posso prendermi con lei.
 119,329,en-us,MQ4_NightEnd,Player,"A The Art Hole ha detto qualcosa sul guidarmi, ma io non ho la minima idea di cosa fare. Nessunissima."
+119,330,en-us,MQ4_NightEnd,KatherineWiese,"Prima di arrivare qui ho dovuto prendere qualche accordo necessario al telefono, per assicurarmi che la tua bella testolina resti attaccata al collo. Per ora, almeno."
+119,331,en-us,MQ4_NightEnd,Player,"Le sono grata, ma… mi sento comunque fuori dalla mia portata. Devo sapere cosa fare."
+119,332,en-us,MQ4_NightEnd,KatherineWiese,"Ti guadagnavi da vivere facendo la giornalista investigativa, no? Indaga sull’omicidio."
+119,333,en-us,MQ4_NightEnd,Player,"Nelle serie TV, quando una giornalista investigativa si avvicina troppo al cuore di un caso politicamente esplosivo, di rado finisce bene. Una testa di gatto sulla veranda, un proiettile in testa..."
+119,334,en-us,MQ4_NightEnd,KatherineWiese,Quindi hai paura di essere una pedina in una partita che non capisci? Che i tuoi anziani ti considerino una risorsa sacrificabile? Che una sola mossa sbagliata possa costarti tutto quello a cui tieni?
+119,335,en-us,MQ4_NightEnd,Player,"Direi che ci siamo, sì."
+119,336,en-us,MQ4_NightEnd,KatherineWiese,"Be’, a sentirti, la tua situazione la capisci perfettamente."
+119,337,en-us,MQ4_NightEnd,Julia_angry,Non mi prenda in giro. Mi serve il suo consiglio.
+119,338,en-us,MQ4_NightEnd,KatherineWiese,"Sii quello che vuoi, ma non essere noiosa, Julia. Se volessi prenderti in giro ti avrei annegata di banalità già da un pezzo."
+119,339,en-us,MQ4_NightEnd,KatherineWiese,"Conosci te stessa. Credi nella tua forza. Non fidarti di nessuno. Mostrati sicura. Gira la scacchiera e leggi nella mente dell’avversario. Leggi Sun Tzu e citalo di continuo. Dimmi, ti senti meglio adesso?"
+119,340,en-us,MQ4_NightEnd,Julia_doubtCross,Posso chiederle una cosa?
+119,341,en-us,MQ4_NightEnd,KatherineWiese,Visto che Mia non è ancora qui… Certamente.
+119,342,en-us,MQ4_NightEnd,Julia_baseCross,Sa chi ha ucciso il Barone Callihan?
+119,343,en-us,MQ4_NightEnd,KatherineWiese,Non ne ho la più pallida idea.
+119,344,en-us,MQ4_NightEnd,Julia_baseCross,La sua morte l’ha toccata emotivamente?
+119,345,en-us,MQ4_NightEnd,KatherineWiese,Per niente.
+119,346,en-us,MQ4_NightEnd,Player,Lo conosceva?
+119,347,en-us,MQ4_NightEnd,KatherineWiese,"Solo di sfuggita, temo. Mi aspettavo che perisse prima o poi, quindi non mi sono mai presa la briga di migliorare i nostri rapporti."
+119,348,en-us,MQ4_NightEnd,Player,Perché mi sta aiutando?
+119,349,en-us,MQ4_NightEnd,KatherineWiese,Davvero? Questo è tutto da vedere.
+119,350,en-us,MQ4_NightEnd,Julia_doubtCross,In che senso?
+119,351,en-us,MQ4_NightEnd,KatherineWiese,Non vuoi una risposta dolorosamente sincera.
+119,352,en-us,MQ4_NightEnd,Julia_baseCross,Invece sì.
+119,353,en-us,MQ4_NightEnd,,"Mi fissa. Il suo tono irriverente rende impossibile indovinare cosa provi, ancora più della maschera."
+119,354,en-us,MQ4_NightEnd,KatherineWiese,"Quando ti guardo, vedo qualcuno di penoso. Qualcuno la cui [8;Fame] è puramente biologica, solo una scarica animalesca."
+119,355,en-us,MQ4_NightEnd,KatherineWiese,"Quando ho visto nascere un piano per metterti in una situazione ben oltre le tue capacità, ho offerto il mio aiuto. Ero curiosa di vedere in prima persona la tua vera natura venire a galla."
+119,356,en-us,MQ4_NightEnd,KatherineWiese,"Quando sarà tutto finito e l’assassino di Callihan sarà indicato, sarai un animale che guaisce o una vincitrice che si prende il bottino? Non vedo l’ora di scoprirlo."
+119,357,en-us,MQ4_NightEnd,,"Non so cosa dire. Mi sta provocando, o…"
+119,358,en-us,MQ4_NightEnd,KatherineWiese,Mia dovrebbe arrivare da un momento all’altro. Hai tempo per un’altra domanda.
+119,359,Menu Text en-us,MQ4_NightEnd,Player,Cosa la rende importante?
+119,361,en-us,MQ4_NightEnd,Julia_doubtCross,Cosa fa per avere tanto peso in questa città?
+119,362,en-us,MQ4_NightEnd,KatherineWiese,Ho il mestiere più bello del mondo... e mi sono assicurata che nessuno lo faccia meglio di me.
+119,363,en-us,MQ4_NightEnd,Julia_baseCross,E questo mestiere sarebbe...
+119,364,en-us,MQ4_NightEnd,KatherineWiese,La socialite.
+119,365,en-us,MQ4_NightEnd,KatherineWiese,E quella era la tua ultima domanda. Le altre rivolgile a lei.
+119,369,en-us,MQ4_NightEnd,,Una donna più o meno della mia età sbuca dall’angolo della strada.
+119,370,en-us,MQ4_NightEnd,MiaShadows,...
+119,371,en-us,MQ4_NightEnd,,"Non l’ho mai incontrata, ma se dovessi descriverla in due parole basandomi solo sulla sua aura, direi «perennemente incazzata». Ancora più dell’Anarchico medio."
+119,372,en-us,MQ4_NightEnd,MiaShadows,Tu devi essere Katherine Wiese.
+119,373,en-us,MQ4_NightEnd,KatherineWiese,E tu devi essere Mia Morgan. Piacere di conoscerti.
+119,374,en-us,MQ4_NightEnd,MiaShadows,Piacere mio. Questa è la tua ragazza?
+119,375,en-us,MQ4_NightEnd,KatherineWiese,"Julia Sowinski, il Primogenito Lasombra."
+119,376,en-us,MQ4_NightEnd,Player,La rappresentante Lasombra. 
+119,377,en-us,MQ4_NightEnd,,La correggo automaticamente. A questo punto è un’abitudine.
+119,378,en-us,MQ4_NightEnd,MiaShadows,"Bene. Se fossi un Primogenito, forse avrei provato ad ammazzarti qui e ora."
+119,379,en-us,MQ4_NightEnd,KatherineWiese,Torque è ancora sul posto?
+119,380,en-us,MQ4_NightEnd,MiaShadows,No. Gli ho detto che ci penso io da qui in avanti. 
+119,381,en-us,MQ4_NightEnd,MiaShadows,Entro stanotte deve sembrare il candidato naturale alla guida degli Anarchici di New York. Ci vorrà un sacco di giri in macchina e di trattative.
+119,382,en-us,MQ4_NightEnd,KatherineWiese,Come ha reagito trovando i resti di Callihan?
+119,383,en-us,MQ4_NightEnd,MiaShadows,"Non è che si sia dilungato sui suoi sentimenti, ma immagino abbia reagito come ogni vero credente nella causa. È quel guazzabuglio complicato di tutti i sentimenti possibili sotto la luna."
+119,384,en-us,MQ4_NightEnd,Julia_doubtCross,Quindi è stato il primo a vedere la scena dell’omicidio?
+119,385,en-us,MQ4_NightEnd,MiaShadows,"Oh, quindi la chiami già scena dell’omicidio? La Torre d’Avorio sa qualcosa che noi non sappiamo?"
+119,386,en-us,MQ4_NightEnd,Julia_baseCross,"Non è la posizione ufficiale, ma immagino che molti di loro pensino che sia Torque ad avere più da guadagnare dalla morte del Boss. E a quanto pare è svelto a cogliere le nuove occasioni."
+119,387,en-us,MQ4_NightEnd,MiaShadows,Non lo conosci.
+119,388,en-us,MQ4_NightEnd,Player,"No, ma mi piacerebbe molto incontrarlo e fargli qualche domanda. Soprattutto se è stato lui a trovare il corpo."
+119,389,en-us,MQ4_NightEnd,MiaShadows,"Be’, se mai incontrerai Torque, non sarà stanotte. È troppo occupato."
+119,390,en-us,MQ4_NightEnd,Player,Mi hanno assegnato l’indagine. Non riuscirò a farla come si deve se non posso interrogare un testimone chiave.
+119,391,en-us,MQ4_NightEnd,MiaShadows,Farò in modo che ti riceva questa settimana.
+119,392,en-us,MQ4_NightEnd,Player,«Questa settimana?» Le tensioni non sono un po’ troppo alte per rimandare un’indagine del genere?
+119,393,en-us,MQ4_NightEnd,MiaShadows,"Be’, il lavoro di Torque è la nostra migliore possibilità di evitare che salgano ancora, quindi cazzi tuoi."
+119,394,en-us,MQ4_NightEnd,MiaShadows,"Comunque sono il suo braccio destro. Se hai domande, falle a me."
+119,395,en-us,MQ4_NightEnd,KatherineWiese,Forse fareste meglio ad andare all’ufficio di Callihan. La discussione qui non sembra prendere la direzione giusta. Né una particolarmente interessante.
+119,396,en-us,MQ4_NightEnd,Julia_doubtCross,Lei non viene?
+119,397,en-us,MQ4_NightEnd,KatherineWiese,Torque e te non siete le uniche ad avere il suo bel daffare stanotte. Confido che da qui in poi te la cavi.
+119,398,en-us,MQ4_NightEnd,KatherineWiese,"E Mia – vacci piano con lei. In circostanze appena diverse, immagino che voi due sareste finite dalla stessa parte della barricata."
+119,399,en-us,MQ4_NightEnd,MiaShadows,Mh-mh.
+119,400,en-us,MQ4_NightEnd,Player,Si riguardi.
+119,401,en-us,MQ4_NightEnd,,Torna verso la sua auto.
+119,402,en-us,MQ4_NightEnd,MiaShadows,"Be’, seguimi. Ti mostro casa sua."
+119,403,en-us,MQ4_NightEnd,,"È un ufficio in stile Ottocento. Classico, in legno, puzzolente. L’aria stantia di libri, mobili vecchi e polvere copre gran parte dell’odore di decomposizione, ma non tutto."
+119,404,en-us,MQ4_NightEnd,,"È la prima volta che vedo i resti di un vampiro che ha incontrato la Morte Ultima. Ho sentito storie di Fratelli antichissimi che si sbriciolano in polvere, ma è un’esagerazione: qui almeno non è successo."
+119,405,en-us,MQ4_NightEnd,,"Quando i Fratelli muoiono, il tempo li raggiunge. Se mi facessi fuori adesso, diventerei probabilmente un brutto cadavere che cola. Ma Callihan aveva ben più di un secolo. È come guardare una mummia elegante."
+119,406,en-us,MQ4_NightEnd,,"Un corpo disseccato in un mucchio di abiti stantii. È tutto quel che resta del potente Boss Douglas Callihan, Barone Anarchico di New York... se è davvero lui."
+119,407,en-us,MQ4_NightEnd,,"Inutile dirlo, stabilire l’ora o la causa della morte potrebbe essere un po’ difficile, tanto più che i suoi abiti non presentano danni evidenti."
+119,408,en-us,MQ4_NightEnd,,Che bel punto di partenza.
+119,409,en-us,MQ4_NightEnd,Player,Avete già trovato qualcosa di sospetto?
+119,410,en-us,MQ4_NightEnd,MiaShadows,Niente che tu non abbia davanti agli occhi.
+119,411,en-us,MQ4_NightEnd,,Mh-mh.
+119,412,en-us,MQ4_NightEnd,Player,"Questa porta è l’unico accesso alla stanza, giusto?"
+119,413,en-us,MQ4_NightEnd,MiaShadows,"Sì, se non conti le finestre. Ma nessuno tranne Callihan sapeva come manovrarle, e non lasciano passare né aria né luce."
+119,414,en-us,MQ4_NightEnd,,"Serrande metalliche sulle finestre esposte a est. L’unico elemento moderno della stanza, stona da morire."
+119,415,en-us,MQ4_NightEnd,,Sembrano automatizzate.
+119,416,en-us,MQ4_NightEnd,Player,La porta era aperta quando Torque è arrivato?
+119,417,en-us,MQ4_NightEnd,MiaShadows,"Ecco, quella è l’unica cosa sospetta. Non lo era. È come se Callihan si fosse chiuso dentro da solo."
+119,418,en-us,MQ4_NightEnd,Julia_doubtCross,"Un omicidio in camera chiusa, eh."
+119,419,en-us,MQ4_NightEnd,,C’è del vetro sparso sul pavimento. Lo indico.
+119,420,en-us,MQ4_NightEnd,Julia_baseCross,Potrebbe venire dalla finestra?
+119,421,en-us,MQ4_NightEnd,MiaShadows,L’ho controllata dall’esterno. È in condizioni perfette.
+119,422,en-us,MQ4_NightEnd,Player,E allora cos’è questo vetro?
+119,423,en-us,MQ4_NightEnd,MiaShadows,Non ne ho idea. 
+119,424,en-us,MQ4_NightEnd,,"Perché ho la sensazione che abbia i suoi sospetti, ma resti poco collaborativa solo perché, ehm, «vaffanculo, feccia della Camarilla»?"
+119,425,en-us,MQ4_NightEnd,,Controllo il punto d’interesse successivo. Una cassaforte a muro. Sorprendentemente grande.
+119,426,en-us,MQ4_NightEnd,Player,Qual è la combinazione?
+119,427,en-us,MQ4_NightEnd,MiaShadows,È di Callihan. Cosa ti fa pensare che io la sappia?
+119,428,en-us,MQ4_NightEnd,,Almeno ci ho provato.
+119,429,en-us,MQ4_NightEnd,,Una scrivania con sopra solo una busta. Vuota.
+119,430,en-us,MQ4_NightEnd,,Controllo tutti i cassetti...
+119,431,en-us,MQ4_NightEnd,,Sono stati svuotati accuratamente tutti quanti. Non so cosa mi aspettassi. È così che gli Anarchici mettono in sicurezza le scene del crimine?
+119,432,en-us,MQ4_NightEnd,Player,Sono stati svuotati prima che arrivasse Torque?
+119,433,en-us,MQ4_NightEnd,MiaShadows,Non lo so. Ma al posto tuo non lo accuserei di manomettere le prove.
+119,434,en-us,MQ4_NightEnd,,"Be’, grazie tante."
+119,435,en-us,MQ4_NightEnd,,"L’arredamento della stanza è piuttosto scarno, quindi non ci sono molti punti d’interesse che possano illuminare il caso. Comincio a innervosirmi."
+119,436,en-us,MQ4_NightEnd,,Indico il quadro alla parete.
+119,437,en-us,MQ4_NightEnd,Julia_angry,Ovviamente non hai idea di chi sia.
 119,493,en-us,MQ4_NightEnd,,Ancora una volta mi torna in mente un vecchio stronzo convinto di poter governare il mondo.
 119,494,en-us,MQ4_NightEnd,,"Be’, pare che il mondo se lo sia lasciato alle spalle."
 119,513,en-us,MQ4_NightEnd,QadirShadows,...
@@ -1611,6 +1715,7 @@
 119,531,Menu Text en-us,MQ4_NightEnd,Player,...è corretto.
 119,537,Menu Text en-us,MQ4_NightEnd,Player,Lei che bugie si racconta?
 119,538,en-us,MQ4_NightEnd,Player,Eccome. 
+119,553,en-us,MQ4_NightEnd,,Gioco un po’ con la serratura.
 120,1,en-us,MQ5_NightStart,Dakota_nopic,Te l’ho sempre detto che avresti sfondato.
 120,2,en-us,MQ5_NightStart,PlayerNoPic,Ma per favore. Questi stronzi mi usano solo come pedina in una stupida partita a scacchi quadridimensionale.
 120,3,en-us,MQ5_NightStart,Dakota_nopic,Invece di tenerti proprio fuori dalla scacchiera. Non fare la guastafeste col bicchiere mezzo vuoto.
