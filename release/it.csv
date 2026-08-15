@@ -1487,7 +1487,7 @@
 119,191,en-us,MQ4_NightEnd,Samira,"Quell’interesse si manifesterà di sicuro in un modo, adesso. I suoi vecchi nemici lo isseranno a martire della causa."
 119,192,en-us,MQ4_NightEnd,ThomasArturoShadows,"Sì, ed è per questo che purtroppo non possiamo lasciare gli Anarchici a sbrigarsela da soli. Per quanto vorremmo evitare di riconoscere la loro setta in qualsiasi modo, ci siamo offerti di assisterli in un’indagine ufficiale."
 119,193,en-us,MQ4_NightEnd,,La faccia rugosa di Addison Payne si contrae leggermente.
-119,194,en-us,MQ4_NightEnd,AddisonServant,"Lasciate che vi faccia una domanda sola. Vi rendete conto che quei cani bastardi non hanno alcun rispetto per le nostre [44;Tradizioni], vero?"
+119,194,en-us,MQ4_NightEnd,AddisonServant,"Una domanda sola. Vi rendete conto che quei cani bastardi non hanno alcun rispetto per le nostre [44;Tradizioni], vero?"
 119,195,en-us,MQ4_NightEnd,HelleneShadows,"Ce ne rendiamo conto, Addison. Ma da politico veterano dovrebbe conoscere bene le parole «opposizione controllata»."
 119,196,en-us,MQ4_NightEnd,ThomasArturoShadows,Sì. Per ora è impossibile contenere del tutto la minaccia Anarchica a New York. Per ora la nostra unica opzione è sostenere un candidato che offra la minima resistenza ai nostri piani futuri per la città.
 119,197,en-us,MQ4_NightEnd,ThomasArturoShadows,"Tendiamo la mano al contendente più promettente, dandogli il modo di presentarsi come diplomatico, uomo del compromesso ragionevole. La marmaglia si allinea. I puristi si infuriano e si isolano.  "
@@ -1501,11 +1501,116 @@
 119,205,en-us,MQ4_NightEnd,,Qadir resta per un attimo spiazzato dalla domanda di Arturo.
 119,206,en-us,MQ4_NightEnd,QadirShadowsMasked,"Mi offro volontario per coordinare il caso con gli Anarchici, ovviamente."
 119,207,en-us,MQ4_NightEnd,HelleneShadows,Mi rifiuto. Hai doveri più importanti su cui concentrarti.
+119,208,en-us,MQ4_NightEnd,,Ancora una volta Qadir resta di sasso.
+119,209,en-us,MQ4_NightEnd,QadirShadowsMasked,"Con tutto il rispetto, Principe, ma se non mi ritiene in grado di affrontare questa faccenda e di occuparmi allo stesso tempo dei miei doveri abituali, credo che mi sottovaluti gravemente."
+119,210,en-us,MQ4_NightEnd,HelleneShadows,"La sua inclinazione ad ammazzarsi di lavoro è nota e apprezzata da tutti in questa stanza, Sceriffo. Ma lo è anche il suo perfezionismo."
+119,211,en-us,MQ4_NightEnd,HelleneShadows,"Se esaudissimo il suo desiderio e la lasciassimo indagare pur continuando ad assolvere gli obblighi di routine, può garantire di dare il meglio in entrambi i compiti?"
+119,212,en-us,MQ4_NightEnd,QadirShadowsMasked,Posso garantire qualcosa di molto vicino al mio meglio.
+119,213,en-us,MQ4_NightEnd,ThomasArturoShadows,"Vicino al suo meglio non basta, Al-Asmai, non quando gli avvoltoi sono a caccia in massa. La distruzione di Callihan causerà di certo agitazione tra gli Anarchici, e c’è uno sfogo ovvio per la loro rabbia repressa."
+119,214,en-us,MQ4_NightEnd,HelleneShadows,"Voglio che sia perfettamente chiaro: le celebrazioni ANDRANNO avanti come previsto, qualunque cosa accada. Ecco perché la sua presenza qui è assolutamente necessaria, Sceriffo. Contiamo sulla sua protezione costante."
+119,215,en-us,MQ4_NightEnd,ThomasArturoShadows,"Certamente, mio Principe. Dobbiamo restare vigili per qualche giorno. La spada di Al-Asmai deve restare costantemente puntata sui nemici che ci circondano."
+119,216,en-us,MQ4_NightEnd,QadirShadowsMasked,...
+119,217,en-us,MQ4_NightEnd,AislingShadows,Il tempismo della distruzione del Barone è impeccabile... i capi Anarchici punteranno di sicuro il dito contro di noi e diranno che ne stiamo festeggiando la fine senza pudore. Qualcuno crede che sia solo un caso?
+119,218,en-us,MQ4_NightEnd,Samira,"Gli omicidi sono faccende sporche. Quasi quanto la politica. È impossibile prevedere con certezza l’esito di un atto violento. Credo sarebbe saggio prepararci a un sacco di sfortunate coincidenze, Aisling. "
+119,219,en-us,MQ4_NightEnd,ThomasArturoShadows,"In ogni caso, la marmaglia non deve avere l’impressione che le loro lotte di potere ci stiano molto a cuore. Ma non deve nemmeno pensare che abbiamo qualcosa da nascondere. Il che mi porta al punto."
+119,220,en-us,MQ4_NightEnd,ThomasArturoShadows,"Ci serve un gesto simbolico, di intensità sapientemente calibrata. La mia proposta è un umile inviato diplomatico. Un funzionario di basso rango che faccia da investigatore. "
+119,221,en-us,MQ4_NightEnd,QadirShadowsMasked,"La imploro, Principe…"
+119,222,en-us,MQ4_NightEnd,HelleneShadows,Qadir.
+119,223,en-us,MQ4_NightEnd,,"Si morde la lingua e fatica a ricomporsi. Raramente lo vedo perdere la calma, almeno quando c’è di mezzo la Camarilla. Cosa sta succedendo? "
+119,224,en-us,MQ4_NightEnd,AddisonServant,"Mi domando quale sia la vostra proposta per questo ruolo. In fondo non è particolarmente prestigioso, ma comporta molta responsabilità. Parliamo pur sempre di un rappresentante della Camarilla."
+119,225,en-us,MQ4_NightEnd,ThomasArturoShadows,"Oh, credo che ci sia un candidato piuttosto ovvio."
+119,226,en-us,MQ4_NightEnd,,Sia lui che Qadir mi guardano contemporaneamente. E con loro tutti gli altri nella stanza.
+119,227,en-us,MQ4_NightEnd,,Un attimo. Non può davvero intendere…
+119,228,en-us,MQ4_NightEnd,ThomasArturoShadows,Signorina Julia… ancora una volta il suo cognome mi sfugge.
+119,229,en-us,MQ4_NightEnd,,"Mi è concesso parlare? O dovrei aspettare il permesso? Prima che riesca a decidermi, lo Sceriffo sospira profondamente e prende la parola."
+119,230,en-us,MQ4_NightEnd,QadirShadowsMasked,...Sowinski.
+119,231,en-us,MQ4_NightEnd,ThomasArturoShadows,"Signorina Julia Sowinski, giusto. Mi risulta che prima dell’Abbraccio facesse la giornalista investigativa."
+119,232,en-us,MQ4_NightEnd,Player,Ehm… È corretto.
+119,233,en-us,MQ4_NightEnd,ThomasArturoShadows,"Tra gli altri, il Primogenito dei Banu Haqim ha insistito che lei sia degna di maggiori privilegi e che vada messa alla prova."
+119,234,en-us,MQ4_NightEnd,,Samira squadra Arturo con sospetto.
+119,235,en-us,MQ4_NightEnd,Samira,Sì.
+119,236,en-us,MQ4_NightEnd,ThomasArturoShadows,Pensa ancora che ne sia capace?
+119,237,en-us,MQ4_NightEnd,,Mi guarda dritto negli occhi. 
+119,238,en-us,MQ4_NightEnd,,"Giuro che sta cercando di dirmi per telepatia «ti prego, ti prego, ti prego, non mandare tutto a puttane, stupida ragazzina bianca»."
+119,239,en-us,MQ4_NightEnd,Samira,Certamente.
+119,240,en-us,MQ4_NightEnd,ThomasArturoShadows,"Bene. E sono certo che lei, Al-Asmai, non abbia problemi con la sua protetta che si imbarca in questa missione? A parte il dolore che prova una madre nel guardare il figlio lasciare il nido?"
+119,241,en-us,MQ4_NightEnd,QadirShadowsMasked,"Che ne abbia o meno non è particolarmente rilevante al momento, giusto?"
+119,242,en-us,MQ4_NightEnd,HelleneShadows,Lo è eccome. 
+119,243,en-us,MQ4_NightEnd,,L’appoggio di Panhard ad Arturo lo spiazza per un attimo. 
+119,244,en-us,MQ4_NightEnd,QadirShadowsMasked,"Principe Panhard, io..."
+119,245,en-us,MQ4_NightEnd,HelleneShadows,"Se il piano di Arturo è avventato, voglio che me lo dica. Mi serve un semplice sì o no. La ragazza ne è capace?"
+119,246,en-us,MQ4_NightEnd,,Adesso sa di non avere scelta.
+119,247,en-us,MQ4_NightEnd,QadirShadowsMasked,"Non le affiderei tutte le responsabilità che le affido, se non lo fosse."
+119,248,en-us,MQ4_NightEnd,,"Si scambia uno sguardo con me, ma è diverso da quello di Samira. È come se stesse cercando di… scusarsi con me."
+119,249,en-us,MQ4_NightEnd,ThomasArturoShadows,"Eccoci qua, allora. Una raccomandazione dal Primogenito dei Banu Haqim e dallo Sceriffo. "
+119,250,en-us,MQ4_NightEnd,ThomasArturoShadows,"A dirla tutta stavo solo buttando lì delle idee, ma con questo appoggio non posso dubitare che la rappresentante del Clan della Notte porterà a termine il lavoro. Sono certo che tutti la pensiamo così. Signor Payne?"
+119,251,en-us,MQ4_NightEnd,,"L’atmosfera nella stanza suggerisce soprattutto che siano contenti di non dover discutere oltre l’argomento. Un’alzata di spalle qui, uno sguardo distolto là."
+119,252,en-us,MQ4_NightEnd,AddisonServant,È come dice lei. Osserverò con grande interesse il modo in cui gestirà la situazione.
+119,253,en-us,MQ4_NightEnd,ThomasArturoShadows,"Bene, allora, signorina Sowinski. Pare che abbia la sua occasione per il grande salto."
+119,254,Menu Text en-us,MQ4_NightEnd,Player,Ditemi solo cosa fare.
+119,257,en-us,MQ4_NightEnd,Player,...Sì. Indicatemi la direzione giusta e ditemi cosa fare.
+119,258,en-us,MQ4_NightEnd,,"Inutile fingere che io abbia una scelta, no?"
+119,277,en-us,MQ4_NightEnd,ThomasArturoShadowsMasked,"Eccellente. Ci resta una sola questione, sulla quale spero possiamo trovarci d’accordo."
+119,278,en-us,MQ4_NightEnd,,Il Principe Panhard fa un cenno a qualcuno con la mano. La figura emerge da dietro l’angolo.
+119,279,en-us,MQ4_NightEnd,KatherineWiese,Buonasera. 
+119,280,en-us,MQ4_NightEnd,AddisonServant,...Katherine. Che piacevole sorpresa. Nessuno ci aveva informati che fosse in città.
+119,281,en-us,MQ4_NightEnd,KatherineWiese,Addison. In salute più che mai.
+119,282,en-us,MQ4_NightEnd,AislingShadows,E Wiese cosa c’entra?
+119,283,en-us,MQ4_NightEnd,HelleneShadows,Ci serve un osservatore imparziale che tutti rispettino. E si dà il caso che Katherine abbia sempre saputo farsi amici su entrambi i fronti senza far arrabbiare nessuno dei due.
+119,284,en-us,MQ4_NightEnd,AislingShadows,Mi permetto di dissen--
+119,285,en-us,MQ4_NightEnd,KatherineWiese,"Le sarei grata se, almeno per una volta, decidesse di non fare i capricci sul mio conto, Alto Reggente."
+119,286,en-us,MQ4_NightEnd,,"Una smorfia dolorosa attraversa la faccia di Aisling, ma è pronta a interpretare la provocazione come l’invito a un gioco che non può vincere."
+119,287,en-us,MQ4_NightEnd,AislingShadows,Purché riesca a rendersi utile in qualche modo ai lavori.
+119,288,en-us,MQ4_NightEnd,Samira,"Se metà di quello che ho sentito su di lei dal signor Vanderweyden è vero, dovrebbe riuscirci."
+119,289,en-us,MQ4_NightEnd,KatherineWiese,E cos’ha detto di me il povero Carter stavolta?
+119,290,en-us,MQ4_NightEnd,Samira,Niente di preciso. Con lui bisogna sempre leggere tra le righe. Ma era soprattutto invidia.
+119,291,en-us,MQ4_NightEnd,ThomasArturoShadows,"La signorina Wiese ha gentilmente accettato di mediare tra il rappresentante Anarchico e la rappresentante Lasombra, garantendo la collaborazione reciproca e attenuando i potenziali conflitti."
+119,292,en-us,MQ4_NightEnd,,"Mi è sembrato un lapsus freudiano. «Rappresentante Lasombra», non «rappresentante della Camarilla». Cioè qualcuno che, se combina un guaio, si può catapultare fuori dalla setta senza troppi danni per la Torre d’Avorio?"
+119,293,en-us,MQ4_NightEnd,Player,C’è già un incontro fissato?
+119,294,en-us,MQ4_NightEnd,,Arturo guarda l’orologio dall’altra parte della stanza.
+119,295,en-us,MQ4_NightEnd,ThomasArturoShadows,Tra meno di un’ora. Allora è meglio che si sbrighi.
+119,296,en-us,MQ4_NightEnd,,Ma che diavolo.
+119,297,en-us,MQ4_NightEnd,,Sta succedendo tutto così in fretta.
+119,298,en-us,MQ4_NightEnd,QadirShadowsMasked,"Se la situazione è davvero sotto controllo, la accompagno io e sorveglio."
+119,299,en-us,MQ4_NightEnd,ThomasArturoShadowsMasked,"Fuori discussione. Ha i suoi ordini, Sceriffo. Si occupi di quelli."
+119,300,en-us,MQ4_NightEnd,QadirShadows,Sciocco. La ragazza ha bisogno di una guida.
+119,301,en-us,MQ4_NightEnd,HelleneShadows,E noi abbiamo bisogno della tua. Nessuno sa cosa potrebbe succedere adesso.
+119,302,en-us,MQ4_NightEnd,QadirShadows,Ma--
+119,303,en-us,MQ4_NightEnd,ThomasArturoShadows,"Non è che gli Anarchici la amino molto, Al-Asmai. È troppo efficiente nei suoi doveri perché la tollerino. Meglio risparmiare alla signorina Sowinski di farsi vedere insieme a lei."
+119,304,en-us,MQ4_NightEnd,QadirShadows,...
+119,305,en-us,MQ4_NightEnd,KatherineWiese,"Pensa che la mia guida per Julia sarebbe insufficiente, Qadir?"
+119,306,en-us,MQ4_NightEnd,QadirShadows,Non ho mai detto questo.
+119,307,en-us,MQ4_NightEnd,KatherineWiese,Allora ha obiezioni sul metterla sotto la mia tutela?
+119,308,en-us,MQ4_NightEnd,,"Abbassa lo sguardo, ma sembra… rassicurato."
+119,309,en-us,MQ4_NightEnd,QadirShadows,Nessuna.
+119,310,en-us,MQ4_NightEnd,KatherineWiese,"È tutto quello che dovevo sentire. Noi andiamo, allora."
+119,311,en-us,MQ4_NightEnd,HelleneShadows,"Non perde tempo, come al solito. Ha almeno assaggiato gli aperitivi?"
+119,312,en-us,MQ4_NightEnd,KatherineWiese,"Aspettare è un gioco da vecchi, Hellene. Io mi sento ancora giovane."
+119,313,en-us,MQ4_NightEnd,HelleneShadows,"Ricorda, se ti serve aiuto per qualsiasi cosa..."
+119,314,en-us,MQ4_NightEnd,KatherineWiese,"Probabilmente no, ma apprezzo comunque il pensiero. Buona notte a tutti. Ti raggiungo più tardi, Addison."
+119,315,en-us,MQ4_NightEnd,AddisonServant,Lo spero proprio.
+119,316,en-us,MQ4_NightEnd,,"E così ce ne andiamo. Di corsa. Buffo, considerando cosa mi aveva detto ieri sull’avere fretta."
+119,317,en-us,MQ4_NightEnd,,...
+119,318,en-us,MQ4_NightEnd,KatherineWiese,Siamo arrivate.
+119,319,en-us,MQ4_NightEnd,,"Ringrazia l’autista e mi fa scendere dall’auto in un quartiere tranquillo, da qualche parte nel Queens."
+119,320,en-us,MQ4_NightEnd,Player,Sembrava avesse fretta.
+119,321,en-us,MQ4_NightEnd,KatherineWiese,Non sopportavo la folla.
+119,322,en-us,MQ4_NightEnd,,"È sincera. Probabilmente in modo studiato, giusto per entrare nelle mie grazie. Be’, funziona."
+119,323,en-us,MQ4_NightEnd,Player,E perché mai?
+119,324,en-us,MQ4_NightEnd,KatherineWiese,"Per esperienza, i raduni come quello favoriscono sempre una noiosa mentalità da branco. Tutte le solite bugie che ci raccontiamo per giustificare la brama di avere di più, ripetute fino alla nausea."
+119,325,en-us,MQ4_NightEnd,Julia_doubtCross,E lei che bugie si racconta?
+119,326,en-us,MQ4_NightEnd,,La sua aura si fa immediatamente più fredda. 
+119,327,en-us,MQ4_NightEnd,KatherineWiese,"Hai problemi più grossi di cui preoccuparti, tesoro."
+119,328,en-us,MQ4_NightEnd,,Vabbè. Almeno adesso so quanta confidenza posso prendermi con lei.
+119,329,en-us,MQ4_NightEnd,Player,"A The Art Hole ha detto qualcosa sul guidarmi, ma io non ho la minima idea di cosa fare. Nessunissima."
 119,493,en-us,MQ4_NightEnd,,Ancora una volta mi torna in mente un vecchio stronzo convinto di poter governare il mondo.
 119,494,en-us,MQ4_NightEnd,,"Be’, pare che il mondo se lo sia lasciato alle spalle."
 119,513,en-us,MQ4_NightEnd,QadirShadows,...
 119,514,en-us,MQ4_NightEnd,Julia_doubtCross,"Mi darai un vestito meraviglioso e mi accompagnerai alla festa? Oh, ma è già passata mezzanotte!"
 119,525,Menu Text en-us,MQ4_NightEnd,Player,Buonasera...?
+119,531,Menu Text en-us,MQ4_NightEnd,Player,...è corretto.
+119,537,Menu Text en-us,MQ4_NightEnd,Player,Lei che bugie si racconta?
+119,538,en-us,MQ4_NightEnd,Player,Eccome. 
 120,1,en-us,MQ5_NightStart,Dakota_nopic,Te l’ho sempre detto che avresti sfondato.
 120,2,en-us,MQ5_NightStart,PlayerNoPic,Ma per favore. Questi stronzi mi usano solo come pedina in una stupida partita a scacchi quadridimensionale.
 120,3,en-us,MQ5_NightStart,Dakota_nopic,Invece di tenerti proprio fuori dalla scacchiera. Non fare la guastafeste col bicchiere mezzo vuoto.
