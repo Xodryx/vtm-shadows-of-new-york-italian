@@ -19,3 +19,6 @@ bepinex/
 # Build output
 plugin/bin/
 plugin/obj/
+
+# Release archives are built on demand, not tracked
+SoNY-ITA-*.zip
