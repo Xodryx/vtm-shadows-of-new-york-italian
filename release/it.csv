@@ -4399,6 +4399,117 @@
 137,125,en-us,Night8_Side2,MysteriousVampiress,No. <3
 137,126,en-us,Night8_Side2,,Si volta e sparisce nella notte.
 137,127,en-us,Night8_Side2,,"Be’, è stata una… interessante distrazione da tutto il malessere della città."
+139,28,en-us,MQ8_NightEnd,,"Arriva il momento di incontrare Qadir… e, si spera, anche D’Angelo."
+139,29,en-us,MQ8_NightEnd,,L’ultima voce sulla mia lista. Sarà meglio che ne valga la pena. 
+139,30,en-us,MQ8_NightEnd,QadirShadows,Ed ecco l’agenzia di D’Angelo.
+139,31,en-us,MQ8_NightEnd,Player,Sembra una topaia. Bleah.
+139,32,en-us,MQ8_NightEnd,QadirShadows,Perfetta per il [56;Clan dei Nascosti].
+139,33,en-us,MQ8_NightEnd,Player,"Pensavo non fosse nascosto. Pensavo fosse scomparso e, a essere onesta, temevo il peggio. Perché dovremmo cercarlo nel posto più ovvio? "
+139,34,en-us,MQ8_NightEnd,QadirShadows,Ho chiesto in giro e ho un’intuizione. Fidati e comincia a cercare.
+139,35,en-us,MQ8_NightEnd,Player,"Va bene. Comunque, chi è D’Angelo?"
+139,36,en-us,MQ8_NightEnd,QadirShadows,"È un brav’uomo, un uomo utile, ma mi ci è voluto tempo per abituarmi a lui. Prende il mestiere dell’investigatore molto, molto sul serio."
+139,37,en-us,MQ8_NightEnd,QadirShadows,"Il suo trip è fare l’investigatore noir, ehm, idiosincratico. Ho sentito dire che lo aiuta a superare qualcosa, ma non mi sono mai sentito a mio agio ad affrontare l’argomento."
+139,38,en-us,MQ8_NightEnd,Player,"Non sembra troppo strambo per gli standard di questa città. Aspetta, cos’è quello?"
+139,39,en-us,MQ8_NightEnd,,"C’è un ratto sul pavimento, immobile in una posizione innaturale. Roba strana."
+139,40,en-us,MQ8_NightEnd,QadirShadows,"Ecco, questo sì. Ho la sensazione che siamo vicini al nostro obiettivo."
+139,41,en-us,MQ8_NightEnd,,Qadir si avvicina lentamente a un angolo appartato della stanza.
+139,42,en-us,MQ8_NightEnd,QadirShadows,Eeeed eccolo qua.
+139,43,en-us,MQ8_NightEnd,,Dà un calcio a un mucchio di vestiti steso sul pavimento.
+139,44,en-us,MQ8_NightEnd,DAngelo_nopic_,Sono solo un cadavere. Lasciatemi in pace.
+139,45,en-us,MQ8_NightEnd,QadirShadows,"Fortuna tua che qui siamo tutti cadaveri, D’Angelo. Sei tra amici."
+139,46,en-us,MQ8_NightEnd,,"Goffamente, come un ubriaco, il mucchio di vestiti si trasforma in un uomo trasandato che sembra soffrire di qualche malattia della pelle."
+139,47,en-us,MQ8_NightEnd,DAngelo_nopic,"Sai, un vero amico mi seppellirebbe e basta."
+139,48,en-us,MQ8_NightEnd,Qadir_nopic,Sfortuna tua che non siamo quel tipo di amici.
+139,49,en-us,MQ8_NightEnd,DAngelo_nopic,"Fortuna, sfortuna, sfiga, ’sti cazzi. Come avete indovinato che ero qui?"
+139,50,en-us,MQ8_NightEnd,Qadir_nopic,"Vedi, in questi giorni ho chiesto in giro. Quello che ho scoperto è che, per ragioni definibili al meglio come nebulose, dall’anno scorso ti sei fatto parecchi nemici..."
+139,51,en-us,MQ8_NightEnd,DAngelo_nopic,"...Sì, sì, dimmi qualcosa che non so..."
+139,52,en-us,MQ8_NightEnd,Qadir_nopic,"...E una cosa che mi ha incuriosito è che tutti sanno da fonte certa che il tuo posto è stato messo a soqquadro – più volte, senza che tu venissi trovato – eppure nessuno si è preso la responsabilità di quei gesti."
+139,53,en-us,MQ8_NightEnd,DAngelo_nopic,"Diamine, questa tana non sembra sempre appena messa a soqquadro? Non si può biasimare chi tira a indovinare con cognizione."
+139,54,en-us,MQ8_NightEnd,Qadir_nopic,"Avevo l’intuizione che non fossero solo voci. Vedi, sa proprio di coincidenza comoda quando tutti sentono qualcosa che li spinge a guardare altrove, e le coincidenze sono roba da sciocchi."
+139,55,en-us,MQ8_NightEnd,DAngelo_nopic,"Be’, hai capito come stanno le cose e hai il mio brutto muso davanti agli occhi, quindi immagino sia inutile fare il finto tonto."
+139,56,en-us,MQ8_NightEnd,Qadir_nopic,Concordo. Hai davvero passato tutte queste settimane rintanato qui? La Fame non ti dà problemi?
+139,57,en-us,MQ8_NightEnd,DAngelo_nopic,"Da queste parti ci sono un sacco di bestiole e, ehm, siamo diventati amiconi. Certi ratti si sono proprio assuefatti al [29;Bacio]. Vengono da me ogni notte come cocainomani, a implorarlo."
+139,58,en-us,MQ8_NightEnd,DAngelo_nopic,"Li faccio ubriacare per cavare un po’ di sballo dal nutrirmi di loro. È un po’ come annegare nel ketchup un pezzo di pizza carbonizzato, ma in questa situazione mi accontento, mi segui?"
+139,59,en-us,MQ8_NightEnd,,È così disgustoso che perdo la faccia da poker. Se ne accorge.
+139,60,en-us,MQ8_NightEnd,DAngelo_nopic,"Allora, chi è la bambola?"
+139,61,en-us,MQ8_NightEnd,Qadir_nopic,"Julia Sowinski, un’investigatrice che indaga sulla morte del Barone Callihan."
+139,62,en-us,MQ8_NightEnd,,Alza la testa per un attimo per fissare Qadir negli occhi e regalargli un ghigno volgare.
+139,63,en-us,MQ8_NightEnd,DAngelo_nopic,Bah. Quindi qualcuno ha finalmente messo il vecchio sotto ghiaccio. Chiunque sia stato ha fatto al mondo un enorme favore.
+139,64,en-us,MQ8_NightEnd,PlayerNoPic,"Assolutamente, ma ho l’ordine di stabilire chi sia stato, e in questi giorni sono andata a tentoni nel buio. Ci serve il tuo aiuto."
+139,65,en-us,MQ8_NightEnd,DAngelo_nopic,"Che io sia dannato. Le tue doti da segugio devono proprio essere scarse, se implori aiuto a un barbone."
+139,66,en-us,MQ8_NightEnd,PlayerNoPic,Non sono un segugio. Sono solo una costretta a comportarsi come tale.
+139,67,en-us,MQ8_NightEnd,DAngelo_nopic,"Buon per te, ragazzina, buon per te. Se ti attacchi a questo mestiere di questi tempi devi essere matta da legare. Allora, perché ti ha scelta la Corte? Che lavoro facevi prima?"
+139,68,en-us,MQ8_NightEnd,PlayerNoPic,Ero una giornalista.
+139,69,en-us,MQ8_NightEnd,DAngelo_nopic,Ahh. Be’. Allora capisco. Fare l’investigatrice privata potrebbe essere un rispettabile passo avanti.
+139,70,en-us,MQ8_NightEnd,,"Si lascia sfuggire per sbaglio dalla mano una fiaschetta di metallo che cade a terra, poi fatica a raccoglierla. Qadir non riesce a guardare."
+139,71,en-us,MQ8_NightEnd,Qadir_nopic,"Dio, cosa ti è successo, Gianni? Non ti ho mai visto così a terra."
+139,72,en-us,MQ8_NightEnd,DAngelo_nopic,"Disturbi da stress che mi scombinano la routine, credo direbbe uno strizzacervelli. Succede quando un sacco di gente losca vuole piantarti un paletto nel petto."
+139,73,en-us,MQ8_NightEnd,PlayerNoPic,Aiutaci. Dicci quello che sai e forse potremo aiutarti a nostra volta.
+139,74,en-us,MQ8_NightEnd,DAngelo_nopic,"Sì, tutto il rispetto, signorina, ma credo che andrà al contrario. Non vi dico un accidente, scusate il francesismo, finché non so di poter contare su un po’ di protezione."
+139,75,en-us,MQ8_NightEnd,Qadir_nopic,Gianni.
+139,76,en-us,MQ8_NightEnd,DAngelo_nopic,"Non chiamarmi «Gianni», Qadir Al-Asmai. So che sei uno a posto, ma so anche che il tuo onore è una delle poche cose a cui tieni. Se vuoi che mi metta in pericolo, mettici la faccia per me."
+139,77,en-us,MQ8_NightEnd,DAngelo_nopic,"E questo è quanto. O prometti di estendermi la tua protezione, oppure appena metti un piede fuori di qui io me la svigno nelle fogne e non mi vedi mai più."
+139,78,en-us,MQ8_NightEnd,,Qadir mi lancia un’occhiata stanca di sbieco.
+139,79,en-us,MQ8_NightEnd,PlayerNoPic,"Lo so, lo so. Fa il duro nella trattativa."
+139,80,en-us,MQ8_NightEnd,Qadir_nopic,Soprattutto per uno la cui autostima al momento non sembra proprio alle stelle.
+139,81,en-us,MQ8_NightEnd,DAngelo_nopic,"Forse. Ma alla mia non-vita ci tengo parecchio, grazietante, «amici». "
+139,82,en-us,MQ8_NightEnd,,Qadir sospira.
+139,84,en-us,MQ8_NightEnd,QadirShadows,"Va bene. Ma tra tre mesi, o nel momento in cui il Principe Panhard mi dirà che la Corte non può più offrirti sicurezza senza compromettere i suoi principi, sei per conto tuo."
+139,85,en-us,MQ8_NightEnd,QadirShadows,Niente trattative. È l’unico accordo che posso fare con te. Prendere o lasciare.
+139,86,en-us,MQ8_NightEnd,,"D’Angelo si gratta la testa, grugnisce forte..."
+139,87,en-us,MQ8_NightEnd,,...si aggiusta la maschera e si alza in piedi.
+139,88,en-us,MQ8_NightEnd,DAngeloShadowsMask,"Per me va da dio, omone. Avrò pure opinioni forti su Panhard, ma diamine, sono seduto sulla dinamite, mi accontento di quel che c’è. "
+139,89,en-us,MQ8_NightEnd,QadirShadows,Su chi altro a New York preferiresti contare? Vuoi che chiami il sindaco?
+139,90,en-us,MQ8_NightEnd,DAngeloShadowsMask,"Le mie opinioni sul Principe non sono *così* brutte. Allora? Cosa volete da me, brava gente?"
+139,91,en-us,MQ8_NightEnd,Player,Chi ti vuole morto?
+139,92,en-us,MQ8_NightEnd,DAngeloShadowsMask,"Ah, comincia l’interrogatorio con una tosta. Lo vorrei sapere anch’io."
+139,93,en-us,MQ8_NightEnd,QadirShadows,"Datti una mossa, Gianni. Sembra che tu dimentichi come funziona il quid pro quo. «Lo vorrei sapere anch’io» non basta. "
+139,94,en-us,MQ8_NightEnd,DAngeloShadowsMask,"Che vuoi che ti dica? Quello Stregone, Agathion o come cavolo si chiama, presunto morto. Tamika? Dispersa, con l’SI alle costole, quindi forse già caduta. Hope la Svitata? Nascosta in ufficio, sotto le gonne di Vanderweyden."
+139,95,en-us,MQ8_NightEnd,DAngeloShadowsMask,"Più o meno quando hanno iniziato ad avere guai, certi Fratelli da strada dall’aria tosta hanno cominciato a bazzicare i miei soliti posti. Non mi ci è voluto molto a fare due più due."
+139,96,en-us,MQ8_NightEnd,Julia_doubtCross,Aspetta. Qual è il legame tra te e quei tre?
+139,97,en-us,MQ8_NightEnd,DAngeloShadowsMask,"Dall’anno scorso la gente ha iniziato ad assumerci per vari lavoretti, qualcuno provava perfino a farci entrare nella sua congrega. Tutte occasioni piuttosto effimere."
+139,98,en-us,MQ8_NightEnd,DAngeloShadowsMask,Però il delicato numero di equilibrismo tra committenti diversi ci ha resi pienamente consapevoli: a New York c’è un’alleanza trasversale alle sette. Fratelli di entrambe le parti lavorano spesso per gli stessi scopi senza saperlo.
+139,99,en-us,MQ8_NightEnd,DAngeloShadowsMask,"Appena abbiamo cominciato a capirci qualcosa, una squadra di pulizia è scesa in centro. So che il serioso ragazzo Stregone aveva fiutato qualcosa nel suo stesso cortile, ma poi, puff, è sparito. "
+139,100,en-us,MQ8_NightEnd,DAngeloShadowsMask,Poi ho perso ogni contatto con Hope e Tamika e mi sono dato alla macchia. Spero stiano bene... e che non mi abbiano venduto a nessuno.
+139,101,en-us,MQ8_NightEnd,Julia_baseCross,"Stanno bene. E non mi hanno neanche detto che vi conoscevate, quindi direi che sei al sicuro."
+139,102,en-us,MQ8_NightEnd,DAngeloShadowsMask,"Ah. Aspetta un attimo. Perché le stavi spremendo per informazioni, ragazzina?"
+139,103,en-us,MQ8_NightEnd,Player,Ho trovato una lista di quattro nomi sui resti di Callihan. Puoi probabilmente indovinare quali fossero.
+139,104,en-us,MQ8_NightEnd,DAngeloShadowsMask,"Ho afferrato il quadro, sì. Cristo santo."
+139,105,en-us,MQ8_NightEnd,Player,"Ho sentito dire che era solo una lista di battitori liberi, potenziali collaboratori, preparata forse da Carter Vanderweyden."
+139,106,en-us,MQ8_NightEnd,DAngeloShadowsMask,"Hmm. Scommetto che sia coinvolto, ma sento puzza di stronzata. Hai idea di chi possa aver fatto fuori il Boss? Altri indizi?"
+139,107,en-us,MQ8_NightEnd,QadirShadows,"Nessuno. È qui che vogliamo che intervenga tu, amico. Esamina la scena del delitto, nel modo che sai solo tu. Dicci cosa ne pensi. Indirizza Julia nella direzione giusta."
+139,108,en-us,MQ8_NightEnd,,"D’Angelo mi squadra, grattandosi la testa."
+139,109,en-us,MQ8_NightEnd,DAngeloShadowsMask,"Certo, come no. Farò del mio meglio, ragazzina. Fa’ strada."
+139,110,en-us,MQ8_NightEnd,QadirShadows,"Vi accompagno in macchina. O almeno il più vicino possibile. Non sarei il benvenuto così dentro il territorio anarchico. Solo… ripulisciti un po’, Gianni. Ho appena fatto lavare i sedili questa settimana."
+139,111,en-us,MQ8_NightEnd,,...
+139,112,en-us,MQ8_NightEnd,Player,Eccoci qua.
+139,113,en-us,MQ8_NightEnd,DAngeloShadowsMask,Splendido. Un classico mistero della camera chiusa. Fammi dare un’occhiata.
+139,114,en-us,MQ8_NightEnd,,"Comincia a girare per l’ufficio, cogliendo con attenzione ogni elemento."
+139,115,en-us,MQ8_NightEnd,DAngeloShadowsMask,"Quindi dici di essere praticamente una nessuno, ma ti basta chiamare Katherine Wiese e farti aprire con l’apriti sesamo una tana anarchica? Boh, a me sembri proprio qualcuno."
+139,116,en-us,MQ8_NightEnd,Player,"Non fraintendere. L’ho conosciuta solo nel corso di questa indagine. Praticamente tutti mi trattano come uno straccio ovunque vada, e mi riconoscono solo quanto basta a legittimare questa farsa--"
+139,117,en-us,MQ8_NightEnd,DAngeloShadowsMask,Lord Castlereagh.
+139,118,en-us,MQ8_NightEnd,,"...Ecco un’interruzione brusca. Stavo aprendo il mio cuore, dannazione."
+139,119,en-us,MQ8_NightEnd,Julia_angry,"...Come, scusa?"
+139,120,en-us,MQ8_NightEnd,,Sta indicando il ritratto dell’uomo che sovrasta tutto questo ufficio.
+139,121,en-us,MQ8_NightEnd,DAngeloShadowsMask,"Incontrai l’Assassinio per via | Portava una maschera come Castlereagh.
+Sembrava assai mite, eppure torvo | Sette segugi lo seguivano."
+139,122,en-us,MQ8_NightEnd,,"Sembra aver cambiato completamente modus operandi appena ha visto la scena del delitto. È nel suo piccolo mondo, e il suo comportamento è diventato più meccanico, sconnesso."
+139,123,en-us,MQ8_NightEnd,Player,"Io, ehm, continuo a non seguirti."
+139,124,en-us,MQ8_NightEnd,DAngeloShadowsMask,"Non sapevo che il vecchio rimbambito irlandese avesse un debole per l’epoca napoleonica. Ma d’altra parte non ho idea della sua età esatta, quindi magari è quando è vissuto. O nato. Comunquesia..."
+139,125,en-us,MQ8_NightEnd,Player,"Fa’ finta che io esista appena, va bene? Chi sto guardando qui?"
+139,126,en-us,MQ8_NightEnd,DAngeloShadowsMask,"Giusto, giusto. Quello è un certo Lord Castlereagh, nato Robert Stewart. Segretario di Stato britannico per gli Affari Esteri all’inizio dell’Ottocento. Incredibilmente influente, incredibilmente odiato."
+139,127,en-us,MQ8_NightEnd,DAngeloShadowsMask,"Chiedi di Castlereagh a un tale e ti dirà: è l’uomo che ha distrutto Napoleone per sempre, l’uomo che ha plasmato la politica britannica per secoli, l’uomo che a Vienna ha gettato le basi dell’unità europea."
+139,128,en-us,MQ8_NightEnd,DAngeloShadowsMask,"Chiedilo a un altro e ti dirà: è l’uomo che ha distrutto il parlamento irlandese, l’uomo che ha stroncato ogni possibilità di riforma e poi ha appoggiato la cavalleria che massacrava manifestanti pacifici."
+139,442,Menu Text en-us,MQ8_NightEnd,Player,Che schifo...
+139,445,en-us,MQ8_NightEnd,Julia_doubtCross,Che schifo…
+139,446,en-us,MQ8_NightEnd,,Qadir nota l’oggetto del mio ribrezzo e scuote la testa.
+139,447,en-us,MQ8_NightEnd,QadirShadows,"Sei un’investigatrice, Julia. Che tu ci creda o no, a volte bisogna sporcarsi le mani."
+139,448,en-us,MQ8_NightEnd,,Raccoglie il ratto e lo guarda da vicino.
+139,449,en-us,MQ8_NightEnd,QadirShadows,"Contento che tu stia bene, piccoletto."
+139,450,en-us,MQ8_NightEnd,Julia_doubtCross,Che schifo doppio.
+139,451,en-us,MQ8_NightEnd,,Qadir sorride e posa delicatamente il roditore. Strano vederlo così.
+139,479,Menu Text en-us,MQ8_NightEnd,PlayerNoPic,Non sono esattamente un segugio.
+139,491,en-us,MQ8_NightEnd,,"Dopo averci lasciati nello stesso posto in cui Katherine mi presentò Mia, Qadir riparte in fretta."
 142,1,en-us,TraitTutorial,Tutorial_nopic,"Hai ricevuto il tuo primo Tratto. Alcune scelte nel gioco spingeranno Julia verso modi di pensare diversi, con un effetto duraturo su di lei per tutta la storia."
 142,2,en-us,TraitTutorial,Tutorial_nopic,Ogni volta che ricevi un nuovo Tratto vedrai una breve notifica in cima allo schermo.
 142,3,en-us,TraitTutorial,Tutorial_nopic,"Puoi sempre consultare i Tratti sbloccati nella schermata Diario, raggiungibile dall’icona in alto a sinistra."
