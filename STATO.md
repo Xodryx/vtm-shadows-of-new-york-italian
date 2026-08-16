@@ -1,13 +1,13 @@
 # Traduzione italiana di Shadows of New York — stato
 
-Aggiornato: 15 agosto 2026
+Aggiornato: 16 agosto 2026
 
 ## Fatto
 
 - **Il mod funziona.** "Italiano" compare nel selettore lingue del gioco come quinta voce e
   il testo tradotto appare in gioco. Verificato a schermo.
-- **Notte 1 e notte 2 complete e giocabili in italiano.** Conversazioni 108 Intro, 109, 110,
-  111, 112, 113: 686 battute su 5.699 (12%).
+- **Traduzione completa: 5.699 battute su 5.699 (100%).** Tutte le 38 conversazioni, entrambi
+  i finali, tutti i rami di dialogo opzionali.
 - **Ordine di lettura risolto.** `links.csv` (il grafo dei dialoghi, estratto dal gioco) esiste,
   e `reading_order.py` lo percorre in profondità dal nodo START. Si traduce nell'ordine in cui il
   giocatore legge.
@@ -18,9 +18,9 @@ Aggiornato: 15 agosto 2026
 
 ## Da fare subito
 
-Le 26 conversazioni restanti (4.738 battute). La 114 MQ3 è a metà: 275 su 513.
+Revisione umana completa: la prima stesura è finita, nessuno l'ha ancora riletta giocando.
 
-Procedura per ogni blocco:
+Procedura, se serve rimettere mano a un blocco:
 
     python reading_order.py                      # riepilogo e percentuali
     python reading_order.py 114 --batch 90      # le prossime 90 da fare, in ordine di lettura
@@ -29,9 +29,6 @@ Procedura per ogni blocco:
 
 Su Windows serve `PYTHONIOENCODING=utf-8` davanti a `python`, altrimenti la console va in
 errore sugli accenti.
-
-## Da fare poi
-- Revisione umana completa.
 
 ## Trappole già incontrate
 
