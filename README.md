@@ -31,6 +31,20 @@ quest texts. Every conversation, both endings, every optional branch.
 > Please [open an issue](../../issues) for anything that reads wrong. Mistakes in a
 > translation nobody reports simply stay in it.
 
+## Compatibility
+
+**Windows PC only.** That is the only configuration this has been installed and run on.
+
+The game also exists on Nintendo Switch, PS4 and Xbox One. **The mod cannot work there
+at all** — it is a BepInEx plugin, and BepInEx needs to inject itself into the process
+before the game starts, which a console will not allow. There is no workaround.
+
+Steam and GOG also sell macOS and Linux builds. BepInEx supports both, and nothing in the
+plugin is Windows-specific, so it may well work — but **nobody has tried**, and the
+install steps below are written for Windows. Same for the GOG build on Windows: it is
+presumably the same game, but this was tested on Steam. If you get it running somewhere
+else, [say so in an issue](../../issues) and this section can stop hedging.
+
 ## Installing
 
 **[⬇ Download the latest release](../../releases/latest)** — one zip, nothing else from

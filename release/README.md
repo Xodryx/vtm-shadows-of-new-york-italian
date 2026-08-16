@@ -3,6 +3,16 @@
 Everything in this folder goes into your game directory. Nothing else from the
 repository is needed to play.
 
+## Before you start
+
+**This is for the Windows PC version, and that is the only one it has been tested on.**
+
+- **Nintendo Switch, PS4, Xbox One: it cannot work.** The mod is a BepInEx plugin, and
+  BepInEx has to load itself into the game before it starts — consoles do not allow that.
+- **macOS and Linux:** the game is sold for both and BepInEx supports both, so it may
+  work, but nobody has tried and the steps below assume Windows.
+- **GOG:** presumably fine, same game, but this was tested on the Steam build.
+
 ## Finding the game folder
 
 Every step below happens in the **game folder**: the one containing
