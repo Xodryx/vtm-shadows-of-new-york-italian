@@ -1,0 +1,9 @@
+[list]
+[*][b]Traduzione completa[/b] — 5699 battute su 5699. Tutte le conversazioni, entrambi i finali, ogni ramo di dialogo opzionale.
+[*][b]Anche l'interfaccia[/b] — dizionario in gioco, nomi dei personaggi, quest e diario: 210 voci.
+[*][b]Italiano come lingua vera[/b] — compare come quinta voce nel selettore, non ne sostituisce un'altra. Il gioco aveva già un valore [i]Language.IT[/i] inutilizzato nel codice: il mod si limita a completarlo.
+[*][b]Nessun file del gioco modificato[/b] — il testo è iniettato in memoria all'avvio. Disinstallare significa cancellare una cartella.
+[*][b]Terminologia ufficiale[/b] — le rese vengono dalla traduzione italiana ufficiale di Coteries of New York, non inventate, e un controllo automatico rifiuta ogni termine che se ne discosti.
+[*][b]Ripiego sicuro[/b] — qualunque riga il plugin non riesca a risolvere resta in inglese, senza errori e senza toccare i salvataggi.
+[*][b]Codice aperto[/b] — sorgenti del plugin, traduzioni e strumenti sono su GitHub, verificabili da chiunque.
+[/list]

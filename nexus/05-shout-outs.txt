@@ -1,0 +1,7 @@
+Questa traduzione esiste solo grazie a lavoro che altri hanno regalato.
+
+[b][url=https://github.com/BepInEx/BepInEx]BepInEx[/url][/b] fa la parte difficile. Far girare codice dentro un gioco Unity già pubblicato, prima che il gioco stesso parta, è l'intero problema — e BepInEx lo risolve così bene che qui non ci si è mai dovuti pensare.
+
+[b][url=https://github.com/BepInEx/HarmonyX]HarmonyX[/url][/b], e [url=https://github.com/pardeike/Harmony]Harmony[/url] sotto di esso, è ciò che permette di tradurre senza toccare un solo file del gioco.
+
+[b]Draw Distance[/b] ha scritto un gioco che meritava la fatica, e lo ha pubblicato con un valore [i]Language.IT[/i] e un metodo [i]GetTextIt[/i] già presenti nel codice, inutilizzati. È quella funzionalità lasciata a metà a permettere all'italiano di inserirsi come lingua vera invece che come sostituzione di un'altra.

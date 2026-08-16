@@ -1,0 +1,19 @@
+[b]Shadows of New York interamente in italiano.[/b] Tutte le 5699 battute di dialogo, il dizionario in gioco, i nomi dei personaggi e i testi delle quest.
+
+L'italiano viene aggiunto come [b]quinta lingua nel menu delle opzioni[/b], accanto a inglese, francese, portoghese e russo. Non sostituisce nessuna lingua esistente e [b]non modifica nessun file del gioco[/b]: il testo viene iniettato in memoria all'avvio.
+
+La terminologia non è inventata. È estratta dalla traduzione italiana ufficiale di [i]Coteries of New York[/i] — stesso studio, stessa ambientazione — e verificata automaticamente a ogni build: [i]Kindred[/i] è [b]Fratelli[/b], [i]Final Death[/i] è [b]Morte Ultima[/b], [i]Kine[/i] è [b]vacche[/b].
+
+[b]— Da leggere prima di installare —[/b]
+
+Il testo italiano e il plugin sono stati scritti da un'intelligenza artificiale (Claude) sotto la direzione di una persona, che ha rivisto il lavoro riga per riga. [b]Nessuno ha però ancora giocato il gioco per intero in italiano per rileggerlo.[/b] Consideratela una prima stesura funzionante, non una localizzazione rifinita.
+
+In concreto:
+
+[list]
+[*][b]La terminologia dovrebbe essere affidabile[/b] — viene dall'italiano ufficiale ed è verificata a ogni build.
+[*][b]Gli errori staranno nel tono e nel registro[/b] — un controllo automatico sa dire che un termine è giusto, non sa dire che una battuta sarcastica suona sincera.
+[*][b]Qualche riga può uscire dal riquadro[/b] — la lunghezza è controllata, ma con una stima, non con il vero renderer del gioco.
+[/list]
+
+Le segnalazioni sono benvenute e sono l'unico modo in cui questi errori vengono corretti. Se trovate qualcosa che suona male, riportate [b]la frase italiana così come appare a schermo[/b]: bastano poche parole per risalire alla riga esatta tra 5699.
