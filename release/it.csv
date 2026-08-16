@@ -5255,6 +5255,7 @@ Qui giacciono le ossa di Castlereagh | Fermati, viandante, e piscia."
 143,17,en-us,BadEnding,Player,Per chi mi avevi presa?
 143,18,en-us,BadEnding,QadirShadows,"Per qualcun’altra, e me ne scuso. A volte semplicemente... vedi una cosa e la interpreti completamente male. A come gestire il futuro, in particolare la questione Kaiser, penseremo domani. Va bene?"
 143,19,en-us,BadEnding,Player,"Certo, non vedo l’ora."
+143,20,en-us,BadEnding,Player,Sempre che domani io sia ancora qui.
 143,21,en-us,BadEnding,,Mi dà una pacca sulla schiena con un sorriso breve e impacciato.
 143,22,en-us,BadEnding,QadirShadows,"Ci vediamo, allora."
 143,23,en-us,BadEnding,,"Si disperdono tutti lentamente, ma io resto seduta lì, tenendo il contatto visivo con l’unica persona qui con cui ho ancora un conto in sospeso."
@@ -5358,3 +5359,116 @@ Qui giacciono le ossa di Castlereagh | Fermati, viandante, e piscia."
 143,121,en-us,BadEnding,Player,Nei tempi felici mamma scherzava dicendo che era il patrono della sua vita sessuale.
 143,122,en-us,BadEnding,KatherineWieseHana,…Capisco.
 143,123,en-us,BadEnding,Julia_baseCross,"Anche tu sopravvissuta al senso di colpa cattolico, eh? La classica educazione est-europea."
+143,124,en-us,BadEnding,KatherineWieseHana,Non sto ammettendo niente.
+143,125,en-us,BadEnding,Player,...
+143,126,en-us,BadEnding,Player,"Stammi al sicuro, Katherine. E grazie."
+143,127,en-us,BadEnding,KatherineWieseHana,"Ci rivediamo un giorno, da qualche parte, Julia. "
+143,128,en-us,BadEnding,KatherineWiese,Anche se… probabilmente no.
+143,129,en-us,BadEnding,,"Le faccio un cenno con la mano, per la prima e probabilmente l’ultima volta, e mi lascio l’Elysium alle spalle."
+143,130,en-us,BadEnding,Dakota,Ehi.
+143,131,en-us,BadEnding,Julia_baseCross,...Ehi.
+143,132,en-us,BadEnding,,"È seduta sul letto. Si vede che prima piangeva, ma fa del suo meglio per reggere."
+143,133,en-us,BadEnding,Dakota,Dov’eri?
+143,134,en-us,BadEnding,Player,"Stavo, ehm, finendo la mia grande indagine. "
+143,135,en-us,BadEnding,,Tira su col naso.
+143,136,en-us,BadEnding,Dakota,Allora… com’è andata?
+143,137,en-us,BadEnding,Player,"Ahh, ho fatto un casino. Alla grande. Non ho nemmeno combattuto. "
+143,138,en-us,BadEnding,Player,Non dirmi che ti aspettavi qualcosa di diverso. 
+143,139,en-us,BadEnding,Dakota,...Invece sì. Un tempo eri un esempio luminoso di giornalismo d’inchiesta.
+143,140,en-us,BadEnding,Player,Forse non mi sono mai sentita a mio agio a fare l’esempio.
+143,141,en-us,BadEnding,,La smorfia sulla sua faccia dimostra che l’ha colpita.
+143,142,en-us,BadEnding,Dakota,...
+143,143,en-us,BadEnding,Dakota,...Non sono contenta di chi sono.
+143,144,en-us,BadEnding,Player,…
+143,145,en-us,BadEnding,Player,"Cristo, mi stai davvero copiando sotto ogni maledetto aspetto, eh?"
+143,146,en-us,BadEnding,Dakota,...Vaffanculo. Sto parlando sul serio.
+143,147,en-us,BadEnding,Player,"Lo so. Non sto cercando di fare la stronza. O meglio, sto cercando di non fare la stronza."
+143,148,en-us,BadEnding,Dakota,…
+143,149,en-us,BadEnding,Julia_doubtCross,"Siamo davvero due sanguisughe attaccate l’una all’altra, eh?"
+143,150,en-us,BadEnding,Julia_doubtCross,"Come un anello di The Human Centipede a due persone o roba simile. Un Uroboro? O un, ehh, nastro di Möbius? "
+143,151,en-us,BadEnding,,...Mi sono persa nelle mie stesse metafore. Tiro fuori un’altra sigaretta e decido lentamente cosa dire.
+143,152,en-us,BadEnding,Julia_baseCig,"Sei estremamente bella, gentile, di un’energia infinita, hai un lavoro stabile da artista e un flusso di soldi ancora più stabile. Perché vorresti essere qualcun’altra?"
+143,153,en-us,BadEnding,Dakota,"Tu sei estremamente bella, intelligente, di un talento pazzesco, immortale ed eternamente giovane."
+143,154,en-us,BadEnding,Dakota,"Eppure ti porti dentro quel pozzo orribilmente profondo di disprezzo per te stessa, per qualche maledettissimo motivo, e distrugge me tanto quanto te."
+143,155,en-us,BadEnding,,…
+143,156,en-us,BadEnding,,Probabilmente.
+143,157,en-us,BadEnding,Julia_baseCig,"Sì, lo capisco, ma… Inserzione pericolosa?"
+143,158,en-us,BadEnding,Dakota,"È stato un impulso. Era la prima volta che lo facevo, te lo giuro. Non so cosa mi sia preso. Quel tempismo, quel tempismo è stato proprio, cazzo."
+143,159,en-us,BadEnding,Dakota,"Forse volevo solo vedere se riuscivo a essere una te migliore di te. Boh. Forse mi serve una terapia, ma sono stanca di cercare quel tipo di terapia che sembra funzionare e non solo farmi il lavaggio del cervello."
+143,160,en-us,BadEnding,,...
+143,161,en-us,BadEnding,,Potrebbe mentire.
+143,162,en-us,BadEnding,,Ma non voglio credere che stia mentendo.
+143,163,en-us,BadEnding,,Scelgo di credere che non stia mentendo.
+143,164,en-us,BadEnding,,...Cos’ho da perdere?
+143,165,en-us,BadEnding,Player,...
+143,166,en-us,BadEnding,Player,Credo di volerci riprovare ancora una volta.
+143,167,en-us,BadEnding,,Alza la testa.
+143,168,en-us,BadEnding,Player,E tu?
+143,169,en-us,BadEnding,Dakota,Sì. Credo di sì.
+143,170,en-us,BadEnding,Player,"C’è una condizione, però."
+143,171,en-us,BadEnding,Dakota,Quale «condizione»?
+143,172,en-us,BadEnding,Player,"Ti ho detto che ho mandato a puttane l’indagine, ma non quanto. Be’, a quanto pare a New York non sono più al sicuro. "
+143,173,en-us,BadEnding,Player,"Devo scappare domani appena calata la sera, e l’unica via d’uscita che vedo è un gruppo di svitati che vive sulla costa ovest e cerca di realizzare un’utopia in cui umani e vampiri possano convivere."
+143,174,en-us,BadEnding,Player,"Probabilmente è perfino più pericoloso che restare qui, a essere onesta, per non parlare di quanto potrebbe essere pericoloso per te, e non ho ancora capito come ci arriveremo sane e salve.. ma, sì."
+143,175,en-us,BadEnding,Player,Sono più che stufa di starmene con le mani in mano a collaborare coi mostri. Questa è la prima pagina del secondo capitolo.
+143,176,en-us,BadEnding,Dakota,...
+143,177,en-us,BadEnding,Dakota,...È tanta roba da digerire.
+143,178,en-us,BadEnding,Player,Lo so.
+143,179,en-us,BadEnding,Dakota,Ma credo di starci. 
+143,180,en-us,BadEnding,Dakota,So che ci sto.
+143,181,en-us,BadEnding,Player,...
+143,182,en-us,BadEnding,Player,Hai un futuro. Hai genitori ricchi. Non sei obbligata a farlo.
+143,183,en-us,BadEnding,Dakota,"Casomai ti fosse sfuggito, avere genitori ricchi per me è tipo un maledetto, che ne so, peccato originale."
+143,184,en-us,BadEnding,Dakota,"Non voglio vivere di rendita coi loro soldi. Voglio provare a fare qualcosa che conti davvero, cazzo."
+143,185,en-us,BadEnding,Player,…Ne sei sicura?
+143,186,en-us,BadEnding,Dakota,Più o meno quanto sono sicura che lo stato profondo esiste.
+143,187,en-us,BadEnding,Player,... Per me basta e avanza.
+143,188,en-us,BadEnding,Player,Io vado a dormire. Il sole sarà già alto.
+143,189,en-us,BadEnding,Dakota,Ti preparo i vestiti in valigia.
+143,190,en-us,BadEnding,Julia_doubtCross,Per farne cosa? Hai intenzione di scatenarmi di nuovo addosso Dakota Oscura?
+143,191,en-us,BadEnding,Dakota,...
+143,192,en-us,BadEnding,Player,"Non dire niente. Come ho detto, sto cercando di non fare la stronza. È un processo."
+143,193,en-us,BadEnding,,Il giorno è passato e mi sono svegliata come in qualsiasi altra notte. Quella è stata la prima sorpresa. Che Dakota tenesse fede al piano è stata la seconda.
+143,194,en-us,BadEnding,,"Lasciamo la città. Non so lei, ma io un po’ spero che vada a fuoco nel momento in cui ce ne andiamo."
+143,195,en-us,BadEnding,,Fanculo tutti quegli stronzi psicotici fuori dal mondo che hanno ucciso Callihan e hanno fatto festa sulla sua tomba per una settimana.
+143,196,en-us,BadEnding,,Fanculo gli opportunisti che non sono nemmeno riusciti a cogliere l’attimo e fare quello che andava fatto.
+143,197,en-us,BadEnding,,Fanculo questo tempio di Mammona dove la verità è impossibile da trovare. 
+143,198,en-us,BadEnding,,"Fanculo il Bronx, fanculo Brooklyn, fanculo il Queens, fanculo Staten Island e fanculo Manhattan. Manhattan in particolare."
+143,199,en-us,BadEnding,,…
+143,200,en-us,BadEnding,,"Okay, ho finito."
+143,201,en-us,BadEnding,PlayerNoPic,Probabilmente proverò a fermarmi nei motel. A bere da camionisti e autostoppisti e via dicendo.
+143,202,en-us,BadEnding,Dakota_nopic,Emozionante. Saremo come una coppia di serial killer a caccia sulle autostrade d’America.
+143,203,en-us,BadEnding,PlayerNoPic,Ti ricordi Il buio si avvicina? Quel film sui vampiri nomadi?
+143,204,en-us,BadEnding,Dakota_nopic,Certo che sì. È quello che abbiamo in programma nel Midwest?
+143,205,en-us,BadEnding,PlayerNoPic,Forse. Forse no. Improvviseremo.
+143,206,en-us,BadEnding,Dakota_nopic,Mi è appena venuto in mente… ma i motel e simili non saranno chiusi per via del virus?
+143,207,en-us,BadEnding,PlayerNoPic,...Merda. Non lo so.
+143,208,en-us,BadEnding,PlayerNoPic,Non ci avevo pensato. Forse avrei davvero dovuto rapinare una banca e pagare gli scagnozzi del Sistema Circolatorio per farci portare di contrabbando sulla costa ovest.
+143,209,en-us,BadEnding,PlayerNoPic,"Ah, vabbè. Potrebbe essere divertente."
+143,210,en-us,BadEnding,Dakota_nopic,Ricorda che a pagare tutto sarai tu. Non voglio espormi a niente e non voglio esporre nessuno a niente.
+143,211,en-us,BadEnding,Dakota_nopic,Ho letto abbastanza gente online che sputa veleno su questo esodo di newyorkesi che probabilmente stanno spargendo quella cosa in tutto il paese.
+143,212,en-us,BadEnding,PlayerNoPic,Ricevuto.
+143,213,en-us,BadEnding,Dakota_nopic,"Dovremmo lavare la macchina, credo. E ti disinfetterai ogni volta prima di toccarci."
+143,214,en-us,BadEnding,PlayerNoPic,Okay. Questa sì che è una fissazione.
+143,215,en-us,BadEnding,Dakota_nopic,E forse dovresti portare la mascherina.
+143,216,en-us,BadEnding,PlayerNoPic,No. Questa è la terra dei liberi e la patria dei coraggiosi.
+143,217,en-us,BadEnding,Dakota_nopic,Immagino. 
+143,218,en-us,BadEnding,Dakota_nopic,…
+143,219,en-us,BadEnding,Dakota_nopic,Ehi.
+143,220,en-us,BadEnding,PlayerNoPic,Sì?
+143,221,en-us,BadEnding,Dakota_nopic,Mi ami?
+143,222,en-us,BadEnding,PlayerNoPic,…
+143,223,en-us,BadEnding,PlayerNoPic,Certo che sì. 
+143,224,en-us,BadEnding,PlayerNoPic,"Per ora, almeno."
+143,225,en-us,BadEnding,,Continuo a non sapere se la amo.
+143,226,en-us,BadEnding,,"O se io sia in grado di amare qualcuno, se è per questo."
+143,227,en-us,BadEnding,,In fondo sono un cazzo di mostro.
+143,228,en-us,BadEnding,,Non so nemmeno se esisteremo il mese prossimo. Le prospettive non sono buone.
+143,229,en-us,BadEnding,,Ma anche se in questo momento non riesco nemmeno a vedermi nello specchietto retrovisore…
+143,230,en-us,BadEnding,,"...ricorderò per sempre questa immagine di noi che lasciamo la città, un po’ malinconica e un po’ piena di speranza. "
+143,231,en-us,BadEnding,,"E forse il significato di questa immagine si chiarirà col tempo. O forse le imporrò e basta una descrizione più positiva, e sarà a quella che crederò."
+143,232,en-us,BadEnding,,"Qualunque cosa accada... anche se davanti a noi ci sono oceani di sangue, ne farò un ricordo prezioso."
+143,233,en-us,BadEnding,,Qualunque salvezza mi resti ancora possibile…
+143,234,en-us,BadEnding,,...sta probabilmente negli occhi di un’altra.
+143,235,en-us,BadEnding,,Mi lancia uno sguardo freddo.
+143,236,en-us,BadEnding,,...
