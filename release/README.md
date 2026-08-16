@@ -10,11 +10,24 @@ repository is needed to play.
    <https://github.com/BepInEx/BepInEx/releases> (`BepInEx_x64_5.4.*.zip`) and unpack it
    there.
 2. Launch the game once and quit. BepInEx creates its folders on that first run.
-3. Create the folder `BepInEx/plugins/SoNY-ITA/` and copy into it:
-   - `SoNY.Ita.dll`
-   - `it.csv`
-   - `ui_it.csv`
+3. Unpack the release archive into the same folder. It carries the full
+   `BepInEx/plugins/SoNY-ITA/` path, so the files land in the right place on their own —
+   say yes if Windows asks to merge folders.
 4. Launch the game, open the options and pick **Italiano**.
+
+Installed correctly, you should end up with:
+
+```
+Vampire The Masquerade - Shadows of New York/
+├─ winhttp.dll                  ← BepInEx
+├─ BepInEx/
+│  └─ plugins/
+│     └─ SoNY-ITA/
+│        ├─ SoNY.Ita.dll
+│        ├─ it.csv
+│        └─ ui_it.csv
+└─ VtM Shadows of New York.exe
+```
 
 ## Notes
 
@@ -39,8 +52,8 @@ plugin is gone the game clamps that position to the last language left, which is
 Nothing is damaged — picking English in the options puts it right whenever you notice.
 
 Then delete `BepInEx/plugins/SoNY-ITA/` to remove the translation, and additionally
-`winhttp.dll`, `doorstop_config.ini`, `.doorstop_version` and the `BepInEx` folder to
-remove BepInEx itself.
+`winhttp.dll`, `doorstop_config.ini`, `.doorstop_version`, `changelog.txt` and the
+`BepInEx` folder to remove BepInEx itself.
 
 No game file is modified at any point, so nothing needs restoring. Do not touch
 `UnityPlayer.dll` or `WinPixEventRuntime.dll` — they are part of the game.

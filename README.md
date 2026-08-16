@@ -59,7 +59,7 @@ Then:
 - **To remove the translation only** — delete `BepInEx/plugins/SoNY-ITA/`. BepInEx stays,
   along with any other plugin.
 - **To remove BepInEx as well** — delete `winhttp.dll`, `doorstop_config.ini`,
-  `.doorstop_version` and the `BepInEx` folder.
+  `.doorstop_version`, `changelog.txt` and the `BepInEx` folder.
 
 No game file is ever modified, so there is nothing to restore. Leave `UnityPlayer.dll`
 and `WinPixEventRuntime.dll` alone — those belong to the game, not to BepInEx.

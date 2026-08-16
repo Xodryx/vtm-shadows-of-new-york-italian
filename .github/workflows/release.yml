@@ -30,16 +30,25 @@ jobs:
 
       - name: Report translation progress
         id: progress
+        # Counted as CSV records, not as physical lines: a handful of translations
+        # contain a newline inside the quoted text, so `wc -l` over-reports.
         run: |
-          lines=$(( $(wc -l < release/it.csv) - 1 ))
+          lines=$(python3 -c "
+          import csv, io
+          rows = list(csv.reader(io.open('release/it.csv', encoding='utf-8-sig', newline='')))
+          print(len(rows) - 1)
+          ")
           echo "lines=$lines" >> "$GITHUB_OUTPUT"
           echo "$lines translated lines"
 
       - name: Build the archive
+        # The archive carries the full BepInEx/plugins/SoNY-ITA/ path, so unpacking it
+        # into the game folder puts every file where it belongs with no manual steps.
         run: |
-          mkdir -p dist/SoNY-ITA
-          cp release/SoNY.Ita.dll release/it.csv release/ui_it.csv release/README.md dist/SoNY-ITA/
-          cd dist && zip -r "../SoNY-ITA-${GITHUB_REF_NAME}.zip" SoNY-ITA
+          mkdir -p dist/BepInEx/plugins/SoNY-ITA
+          cp release/SoNY.Ita.dll release/it.csv release/ui_it.csv release/README.md \
+             dist/BepInEx/plugins/SoNY-ITA/
+          cd dist && zip -r "../SoNY-ITA-${GITHUB_REF_NAME}.zip" BepInEx
 
       - name: Publish the release
         uses: softprops/action-gh-release@v2

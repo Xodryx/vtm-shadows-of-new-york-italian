@@ -18,7 +18,7 @@ namespace SoNY.Ita
     /// text so it can be translated offline, and writes the translations back into the
     /// in-memory dialogue database on every launch.
     /// </summary>
-    [BepInPlugin(PluginGuid, "Shadows of New York - Italian", "0.2.0")]
+    [BepInPlugin(PluginGuid, "Shadows of New York - Italian", "0.9.0")]
     public class ItalianPlugin : BaseUnityPlugin
     {
         public const string PluginGuid = "sony.ita";
@@ -46,8 +46,12 @@ namespace SoNY.Ita
             _dataDir = Path.Combine(Paths.PluginPath, "SoNY-ITA");
             Directory.CreateDirectory(_dataDir);
 
-            _dump = Config.Bind("1. Dump", "Enabled", true,
-                "Write dump_en.csv with every localizable string in the dialogue database.");
+            // Off by default: players have no use for the dumps, and they would write
+            // the game's own script to disk on every launch. Turn it on to regenerate
+            // dump_en.csv and links.csv when working on the translation.
+            _dump = Config.Bind("1. Dump", "Enabled", false,
+                "Write dump_en.csv with every localizable string in the dialogue database. " +
+                "Only needed to work on the translation; off by default.");
             _dumpFields = Config.Bind("1. Dump", "Fields", "en-us,Menu Text en-us",
                 "Comma-separated fields to extract. To build a parallel corpus from " +
                 "Coteries of New York instead: 'en-us[Female],it[Female]'.");
