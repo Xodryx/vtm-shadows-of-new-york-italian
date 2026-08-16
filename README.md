@@ -23,6 +23,25 @@ this repository is needed to play.
 Any line the plugin cannot resolve falls back to English, so a partial or mismatched
 `it.csv` degrades gracefully instead of breaking the game.
 
+## Uninstalling
+
+**Switch the game back to English in the options first.** The chosen language is saved as
+an index into the language list, and Italian is appended at the end of it. With the
+plugin gone the list is one shorter, and the game clamps the saved index to the last
+remaining entry — which is Russian, not English. Nothing is corrupted, but a game that
+suddenly speaks Russian looks a lot like a broken install. Picking English again in the
+options fixes it at any point.
+
+Then:
+
+- **To remove the translation only** — delete `BepInEx/plugins/SoNY-ITA/`. BepInEx stays,
+  along with any other plugin.
+- **To remove BepInEx as well** — delete `winhttp.dll`, `doorstop_config.ini`,
+  `.doorstop_version` and the `BepInEx` folder.
+
+No game file is ever modified, so there is nothing to restore. Leave `UnityPlayer.dll`
+and `WinPixEventRuntime.dll` alone — those belong to the game, not to BepInEx.
+
 ## How it works
 
 `TranslationManager.Languages` builds a hand-written list of four languages and omits

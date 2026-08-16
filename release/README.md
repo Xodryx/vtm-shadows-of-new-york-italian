@@ -22,10 +22,22 @@ repository is needed to play.
   quests. It has not been proofread in-game yet, so expect the occasional rough edge.
 - Any line the plugin cannot resolve falls back to English; nothing breaks and no save
   is affected.
-- No game file is modified. To uninstall, delete `winhttp.dll`, `doorstop_config.ini`
-  and the `BepInEx` folder.
 - Updating means replacing `it.csv` and `ui_it.csv` — the plugin reloads them on every
   launch, so a new build of the DLL is only needed when the plugin itself changes.
+
+## Uninstall
+
+Set the game back to **English** in the options before you remove anything. The language
+choice is stored as a position in the list, and Italian sits at the end of it; once the
+plugin is gone the game clamps that position to the last language left, which is Russian.
+Nothing is damaged — picking English in the options puts it right whenever you notice.
+
+Then delete `BepInEx/plugins/SoNY-ITA/` to remove the translation, and additionally
+`winhttp.dll`, `doorstop_config.ini`, `.doorstop_version` and the `BepInEx` folder to
+remove BepInEx itself.
+
+No game file is modified at any point, so nothing needs restoring. Do not touch
+`UnityPlayer.dll` or `WinPixEventRuntime.dll` — they are part of the game.
 
 ## Verifying it loaded
 
