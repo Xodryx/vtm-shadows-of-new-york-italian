@@ -5472,3 +5472,123 @@ Qui giacciono le ossa di Castlereagh | Fermati, viandante, e piscia."
 143,234,en-us,BadEnding,,...sta probabilmente negli occhi di un’altra.
 143,235,en-us,BadEnding,,Mi lancia uno sguardo freddo.
 143,236,en-us,BadEnding,,...
+144,4,en-us,GoodEnding,Julia_baseCross,...In realtà sì.
+144,5,en-us,GoodEnding,,È come se la [0;Bestia] stessa fosse balenata per un attimo nell’occhio di Qadir.
+144,6,en-us,GoodEnding,QadirShadows,"No, non è vero."
+144,7,en-us,GoodEnding,Julia_doubtCross,Invece sì. 
+144,8,en-us,GoodEnding,QadirShadows,Signorina Sowinski...
+144,9,en-us,GoodEnding,Player,Non fare una scenata. 
+144,10,en-us,GoodEnding,Player,"Credetemi, ognuno di voi si pentirà davvero, davvero, DAVVERO tanto se non ascolterà quello che ho da dire."
+144,11,en-us,GoodEnding,ThomasArturoCoteries,...Davvero?
+144,12,en-us,GoodEnding,Player,"Oh, assolutamente."
+144,13,en-us,GoodEnding,,Mi alzo e mi metto proprio davanti a Qadir.
+144,14,en-us,GoodEnding,Julia_doubtCross,"Non fraintendetemi, Qadir ha fatto un lavoro spettacolare nel vendervi un racconto preconfezionato da impacchettare ed esportare nel mondo esterno. Gloria allo Sceriffo, e via dicendo."
+144,15,en-us,GoodEnding,Julia_doubtCross,…Ma era davvero necessario questo teatrino? Avevate davvero bisogno di caricarvi a vicenda per credere a questa favola?
+144,16,en-us,GoodEnding,HelleneCoteries,"Dove vuoi arrivare, ragazzina?"
+144,17,en-us,GoodEnding,ThomasArturoCoteries,"Con calma per ora, mio Principe."
+144,18,en-us,GoodEnding,,Insultatemi quanto volete. Renderà solo più dolce il momento in cui questa «ragazzina» vi farà il culo.
+144,19,en-us,GoodEnding,Player,"Voglio arrivare al fatto che c’è una teoria diversa, più ragionevole, che spiega tutto: tutto alla perfezione."
+144,20,en-us,GoodEnding,AislingCoteries,"Ottimo per te, tesoro. Ma devo davvero restare qui ad ascoltarla?"
+144,21,en-us,GoodEnding,Player,"La porta è proprio lì. Ma nella remota possibilità che stanotte veniate coinvolta in qualcosa, non vuole la possibilità di difendersi? "
+144,22,en-us,GoodEnding,AislingCoteries,E quante probabilità ci sono che io venga coinvolta in qualcosa stanotte?
+144,23,en-us,GoodEnding,Player,Sono abbastanza sicura che molti Fratelli in questa stanza si stiano facendo la stessa domanda adesso. In ogni caso la mia risposta è la stessa: non lo scoprirete se non restate dove siete. 
+144,24,en-us,GoodEnding,AislingCoteries,…
+144,25,en-us,GoodEnding,,Resta.
+144,26,en-us,GoodEnding,Julia_doubtCross,"Bene, dov’ero rimasta…? Ah."
+144,27,en-us,GoodEnding,Julia_doubtCross,"Diamo per buono che la causa della morte del Boss Callihan sia stata davvero il suicidio. Il nostro uomo ha detto «ah, fanculo tutto», ha aperto le serrande e ha lasciato che l’alba risolvesse tutti i suoi problemi. "
+144,28,en-us,GoodEnding,Julia_doubtCross,"E diamo per buono che volesse davvero mandare un messaggio con quel ritratto di Lord Castlereagh. Suona drammatico, ma va bene, prendiamolo per buono."
+144,29,en-us,GoodEnding,Julia_doubtCross,Solo che è opinione comune che Castlereagh sia stato spinto a togliersi la vita da una cospirazione ai suoi danni. Inutile dire che il suo più grande ammiratore non si sarebbe lasciato sfuggire quel dettaglio.
+144,30,en-us,GoodEnding,Julia_doubtCross,"Secondo gli storici, le ultime parole di quell’uomo lasciano intendere che certe persone potenti lo misero davanti a una scelta: la denuncia pubblica o la morte. Che, per un politico ambizioso, non è affatto una scelta."
+144,31,en-us,GoodEnding,Julia_doubtCross,"Quindi, se sostenete che Callihan ci abbia lasciato un indizio… è un indizio inquietante, non trovate?"
+144,32,en-us,GoodEnding,HelleneCoteries,...
+144,33,en-us,GoodEnding,TorqueShadows,...ma che stai...?
+144,34,en-us,GoodEnding,QadirShadows,Basta. Qui non trattiamo teorie del complotto.
+144,35,en-us,GoodEnding,Julia_baseCross,"Certo che no. Voglio dire, una teoria del complotto sostenuta dalle élite non si chiama più così. Si chiama propaganda."
+144,36,en-us,GoodEnding,ThomasArturoCoteries,"C’è un punto in questo teatrino che sta mettendo in scena, signorina Sowinski, a parte scavarsi una buca metaforica sempre più profonda?"
+144,37,en-us,GoodEnding,Julia_doubtCross,"Oh, signor Arturo, sta ancora provando a raccontarsi che nei guai ci sono io e non lei? È adorabile."
+144,38,en-us,GoodEnding,ThomasArturoCoteries,"Senta, lei…"
+144,39,en-us,GoodEnding,Julia_angry,"No, senta lei."
+144,40,en-us,GoodEnding,,Si blocca sotto shock. Decisamente non abituato a incontrare resistenza.
+144,41,en-us,GoodEnding,Player,"Non vi biasimo per lo spaccio di propaganda. Siete politici. È quello che fate. Rido di voi solo perché avete tirato fuori una propaganda di merda, pensata male."
+144,42,en-us,GoodEnding,TorqueShadows,"Quindi ehm, qualcuno la ferma, o..."
+144,43,en-us,GoodEnding,Player,Signor Addison Payne. Lei è l’architetto degli attuali discorsi e della narrazione politica generale della Camarilla locale. Sia onesto. Questa pagliacciata è davvero all’altezza dei suoi standard?
+144,44,en-us,GoodEnding,AddisonPayne_both,...
+144,45,en-us,GoodEnding,,"Ci fissiamo negli occhi, senza battere ciglio, studiandoci lentamente. Alla fine, con una risatina appena udibile, sussurra qualcosa al suo servitore. "
+144,46,en-us,GoodEnding,AddisonServant,Come dire…? Sono sempre aperto a una proposta migliore.
+144,47,en-us,GoodEnding,Player,È tutto quello che volevo sentire. Adesso chiedo solo un po’ di pazienza.
+144,48,en-us,GoodEnding,AddisonServant,Quella posso concedergliela.
+144,49,en-us,GoodEnding,CarterSmiling,"Oh, per l’amor del cielo, Addison, ma dai! Non puoi davvero..."
+144,50,en-us,GoodEnding,AddisonServant,Silenzio. Ho detto quello che ho detto. Lasciatela parlare.
+144,51,en-us,GoodEnding,Player,Grazie. 
+144,52,en-us,GoodEnding,,"Comincio a divertirmi. O meglio, sento quella strana scarica che mi ricorda la prima volta che sono riuscita ad andare in bicicletta."
+144,53,en-us,GoodEnding,,L’importante è mantenere lo slancio. Concentrarsi sul pedalare forte. Non pensare nemmeno a cadere. 
+144,54,en-us,GoodEnding,Player,"Pensavate di avere tutto sotto controllo, vero. Una scena del delitto gestita male, un’investigatrice usa e getta costretta ad andare a tentoni, a inseguire invano fili scoperti. "
+144,55,en-us,GoodEnding,Player,"Il vostro unico problema è che stanotte ho capito di aver usato gli strumenti sbagliati fin dall’inizio. Invece della lente d’ingrandimento di un segugio, mi serviva solo la penna di una giornalista."
+144,56,en-us,GoodEnding,KatherineWiese,...
+144,57,en-us,GoodEnding,Player,"Così stanotte mi sono seduta e ho scritto il mio primo articolo in quasi un anno. Due ore di scrittura ininterrotta, la vena creativa che scorreva tutto il tempo, tutto che andava miracolosamente al suo posto."
+144,58,en-us,GoodEnding,Player,E sinceramente? Credo sia il mio capolavoro.
+144,59,en-us,GoodEnding,,Mi lascio prendere la mano e salto su una delle panche. 
+144,60,en-us,GoodEnding,PlayerNoPic,"Volete sentire il contenuto? So che morite tutti dalla voglia di sentire il contenuto, e allora okay, sentiamolo."
+144,61,en-us,GoodEnding,PlayerNoPic,"Aisling Sturbridge, Alto Reggente della Cappella dei Cinque Distretti, rompe violentemente con il suo allievo dopo che lui ha scoperto i suoi piani per esperimenti agghiaccianti con la magia del sangue."
+144,62,en-us,GoodEnding,PlayerNoPic,"Il suo bersaglio? Il Barone Callihan. Il suddetto allievo? Guarda caso scomparso. E abbiamo pure una fonte esclusiva: il diario personale di Agathon lo Stregone! Straordinaria, straordinaria, leggete qui."
+144,63,en-us,GoodEnding,Aisling_nopic,…
+144,64,en-us,GoodEnding,,"Prova a nascondere il nervosismo, ma sta praticamente tremando."
+144,65,en-us,GoodEnding,,"Dovrei essere io a tremare. Sto mettendo insieme le poche informazioni solide o relativamente solide che ho, incollandole in qualcosa di coerente con ipotesi ragionate e pura congettura."
+144,66,en-us,GoodEnding,,Ma almeno sono abbastanza sicura che adesso mi riconosca come una minaccia. Proprio quello che speravo.
+144,67,en-us,GoodEnding,PlayerNoPic,"Prossima notizia. È vero che Torque, il coraggioso Barone Anarchico, destinato a diventare il prossimo leader di fatto della setta a New York, potrebbe aver manipolato l’intera fazione per assicurarsi la posizione?"
+144,68,en-us,GoodEnding,PlayerNoPic,"Questo candidato della pacificazione ha convinto i suoi alleati principali che la rivoluzione al momento non è un’opzione, presentandosi come alternativa ragionevole ai suoi rivali assetati di sangue."
+144,69,en-us,GoodEnding,PlayerNoPic,"Il suo asso nella manica era una capacità stranamente efficace di aprire canali diplomatici con la Camarilla, che ha poi usato per strappare una serie di piccole concessioni alla Corte di New York."
+144,70,en-us,GoodEnding,PlayerNoPic,"Possibile che il Principe Panhard, resasi conto che il suo storico collaboratore Barone Callihan era ormai solo una risorsa indesiderata, abbia trovato un candidato diverso, più al passo col 2020, a guidare gli Anarchici?"
+144,71,en-us,GoodEnding,PlayerNoPic,"Straordinaria, straordinaria, leggete qui."
+144,72,en-us,GoodEnding,Hellene_nopic,…
+144,73,en-us,GoodEnding,,Questa non trema. È solo arrabbiata.
+144,74,en-us,GoodEnding,Torque_nopic,…
+144,75,en-us,GoodEnding,,E questo sembra solo confuso.
+144,76,en-us,GoodEnding,PlayerNoPic,"E che dire del fatto che Torque, Hellene Panhard, Thomas Arturo, Carter Vanderweyden e Aisling Sturbridge fossero stati convocati tutti nell’ufficio di Callihan poco prima della sua morte?"
+144,77,en-us,GoodEnding,PlayerNoPic,"Possibile che il cosiddetto «Boss» abbia messo in atto misure disperate estreme per fermare la sua spirale verso l’irrilevanza, e che a quel punto sia stato eseguito un piano affrettato per provocarne la fine?"
+144,78,en-us,GoodEnding,PlayerNoPic,"Possibile che Kaiser, il leggendario mercante di informazioni di New York, che fa affari a destra e a manca sia con la Camarilla sia con gli Anarchici, avesse messo sotto ascolto l’ufficio di Callihan per spiare quelle trattative?"
+144,79,en-us,GoodEnding,PlayerNoPic,"Straordinaria, straordinaria, leggete qui."
+144,80,en-us,GoodEnding,,"L’atmosfera qui si potrebbe tagliare col coltello, e non fa che peggiorare. "
+144,81,en-us,GoodEnding,,"Per loro, almeno. Io sto meglio di quanto stia da anni."
+144,82,en-us,GoodEnding,,E il fatto che nessuno protesti vuol dire probabilmente che sto colpendo nel segno.
+144,83,en-us,GoodEnding,PlayerNoPic,Possibile che per tutto il ventunesimo secolo il conflitto tra la Camarilla di New York e gli Anarchici sia stato una farsa? 
+144,84,en-us,GoodEnding,PlayerNoPic,E se le operazioni della Seconda Inquisizione in città fossero state concordate con i capi delle due sette? Quanto è profondo il marcio della corruzione?
+144,85,en-us,GoodEnding,PlayerNoPic,E che dire della scomparsa di Sophie Langley? Degli attentati alle non-vite dei potenziali membri di una congrega che aveva provato a mettere insieme insieme al suo protetto l’anno scorso? Possibile che tutto questo sia collegato?
+144,86,en-us,GoodEnding,PlayerNoPic,"E questa è solo la punta dell’iceberg. Restate sintonizzati, cari lettori."
+144,87,en-us,GoodEnding,,Un silenzio pesante cala sulla stanza.
+144,88,en-us,GoodEnding,,"Quando diventa troppo opprimente, Qadir lo rompe raschiandosi rumorosamente la gola. La sua faccia da poker è indecifrabile."
+144,89,en-us,GoodEnding,QadirShadows,"...E dove, di grazia, si potrà «leggere qui» domani?"
+144,90,en-us,GoodEnding,Player,"In dieci posti diversi. Tra cui, naturalmente, un rapporto ricevuto dagli anziani del Clan Lasombra a Chicago."
+144,91,en-us,GoodEnding,,Mescolando di continuo verità e menzogne. 
+144,92,en-us,GoodEnding,,Qualche fatto lo so davvero. Qualcosa l’ho scritta davvero. 
+144,93,en-us,GoodEnding,,"Ma tutto sommato è una truffa alla fiducia, pura e semplice."
+144,94,en-us,GoodEnding,QadirShadows,...L’hai già mandato?
+144,95,en-us,GoodEnding,Player,"No. E Padre Leonard non è il canale che ho usato per arrivare a Chicago, casomai te lo stessi chiedendo. Ho preso ogni precauzione possibile. Come mi hai insegnato tu."
+144,96,en-us,GoodEnding,,"So che questo gli fa male, ma adesso non posso mostrare una sola debolezza."
+144,97,en-us,GoodEnding,ThomasArturoCoteries,"Oh, è ridicolo. Probabilmente sta bluffando. "
+144,98,en-us,GoodEnding,AislingCoteries,"No. Lei sa, Thomas."
+144,99,en-us,GoodEnding,HelleneCoteries,"Aisling, come puoi esserne certa…"
+144,100,en-us,GoodEnding,AislingCoteries,Lo sono e basta.
+144,101,en-us,GoodEnding,ThomasArturoCoteries,...
+144,102,en-us,GoodEnding,,"Quel diario mi ha probabilmente appena salvato il culo. Grazie, Agathon, immagino."
+144,103,en-us,GoodEnding,Player,"Anche se stessi bluffando, è tutta questione di immagine. Nominate un’investigatrice speciale e poi, nel momento in cui presenta le sue conclusioni, cosa fate? La soggiogate? Ve ne sbarazzate? Come ne uscite?"
+144,104,en-us,GoodEnding,Player,"Ho capito. Mi avete dato quel ruolo, quel titolo, perché contavate che restassi la stessa nullità inutile e di merda che sono stata da quando ho cominciato a lavorare per la Corte."
+144,105,en-us,GoodEnding,Player,"Ma è buffo come funziona, no? Una settimana fa a nessuno fregava niente di quello che avevo da dire. Adesso sono una grave minaccia per tutto questo assetto da Nuovo Ordine Mondiale degli Illuminati che avete messo in piedi."
+144,106,en-us,GoodEnding,ThomasArturoCoteries,...Continuo a sostenere che non può sapere E dimostrare tutte le affermazioni che ha elencato. È semplicemente impossibile. Lo so. Ho controllato.
+144,107,en-us,GoodEnding,Julia_doubtCross,"Primo, la smetta di raccontare stronzate, non lo sa per certo. Secondo… Anche avesse ragione, e allora? Adesso ho un mezzo di pressione. "
+144,108,en-us,GoodEnding,Julia_doubtCross,"Per via del mio passato da giornalista mi avete dato un titolo da investigatrice che nel lavoro investigativo non valeva un accidente ma che, ironicamente, mi ha dato l’occasione di fare il miglior reportage della mia vita."
+144,109,en-us,GoodEnding,Julia_doubtCross,E non conta nemmeno che contenga più fatti della vostra narrazione ufficiale. E sapete perché?
+144,110,en-us,GoodEnding,Julia_doubtCross,"Perché la storia che offro io ha infinitamente più senso, moralmente, emotivamente, metafisicamente, chiamatelo come volete. È merce molto più appetibile della robaccia da quattro soldi che spacciate voi."
+144,111,en-us,GoodEnding,Julia_doubtCross,"Oggi la gente si beve porcherie a malapena coerenti come il 5G e QAnon. Appena metterà le mani sulla mia storia perfettamente logica e vedrà che non avete niente da opporre, sarete fottuti."
+144,112,en-us,GoodEnding,Julia_doubtCross,"Diamine, il fatto stesso che nessuno di voi abbia ancora negato una sola delle mie accuse la dice lunga, no?"
+144,113,en-us,GoodEnding,ThomasArturoCoteries,...
+144,114,en-us,GoodEnding,,"Il Principe è assolutamente furiosa di non avere il controllo, visibilmente affannata a costruire una controffensiva."
+144,115,en-us,GoodEnding,HelleneCoteries,Perché mai qualcuno dovrebbe darti retta? Hai fatto suonare quella tua storia… del tutto poco rispettabile. Come spazzatura da tabloid.
+144,116,en-us,GoodEnding,Julia_doubtCross,Tabloid andrebbe benissimo. Vuol dire solo che arriverebbe a più gente.
+144,117,en-us,GoodEnding,HelleneCoteries,…
+144,118,en-us,GoodEnding,HelleneCoteries,Cosa...
+144,119,en-us,GoodEnding,HelleneCoteries,Cosa vuoi?
+144,120,en-us,GoodEnding,Player,Adesso sì che ragioniamo.
+144,121,en-us,GoodEnding,Player,"Un posto da Primogenito per il Clan Lasombra, e una serie di privilegi consoni al titolo. I dettagli si possono negoziare, ma un bell’appartamento a Manhattan è imprescindibile."
+144,122,en-us,GoodEnding,HelleneCoteries,"Sogniamo in grande, eh? E cosa potresti mai portare al consesso come Primogenito?"
+144,123,en-us,GoodEnding,,Mi volto dandole le spalle per parlare con chi comanda.
