@@ -3858,6 +3858,8 @@
 134,133,en-us,MQ7_NightEnd,,"Sembra che debba farle capire che faccio sul serio, proprio come ho fatto con Nastya ieri."
 134,134,en-us,MQ7_NightEnd,Julia_angryCig,"Senti, non me ne fotte niente se hai ucciso uno o una dozzina o mille agenti dell’SI. Fa lo stesso. Fa’ quello che devi."
 134,135,en-us,MQ7_NightEnd,Julia_baseCig,Ma penso davvero che tu possa essere coinvolta in un omicidio che invece mi riguarda. L’omicidio di Callihan.
+134,136,en-us,MQ7_NightEnd,Julia_angryCig,"Non mi importa se mi credi stupida. Non mi importa dell’SI. E non mi importa se non credi che incontrarti sia stato un lieto caso, soprattutto visto che nemmeno lo Sceriffo sa dove sei."
+134,137,en-us,MQ7_NightEnd,Julia_baseCig,"Ma mi importa di risolvere il mistero della morte di Callihan e, guarda un po’, tu sei uno dei pezzi del puzzle."
 134,138,en-us,MQ7_NightEnd,TamikaShadows,Cosa? Di che stai parlando?
 134,139,en-us,MQ7_NightEnd,Julia_baseCig,"Ho trovato questo sul suo corpo. Be’, su quello che ne restava."
 134,140,en-us,MQ7_NightEnd,,"Le mostro il biglietto. Prova ad afferrarlo per leggerlo, ma non glielo lascio."
@@ -3925,6 +3927,16 @@
 134,202,en-us,MQ7_NightEnd,MiaShadows,L’avevo capito. Prima dovevi passare dalla sua sicurezza. Fuori.
 134,203,en-us,MQ7_NightEnd,Player,E se fosse lui a dirmi di restare?
 134,204,en-us,MQ7_NightEnd,MiaShadows,Scordatelo. Muovi il culo prima che ti butti fuori io.
+134,205,Menu Text en-us,MQ7_NightEnd,Player,Non sono affari tuoi.
+134,206,en-us,MQ7_NightEnd,Julia_angry,"Non sono affari tuoi, direi. "
+134,207,en-us,MQ7_NightEnd,MiaShadows,Sono assolutamente affari miei. Sei nel territorio del mio capo e io sono responsabile della sua sicurezza. Non posso averti qui.
+134,208,en-us,MQ7_NightEnd,Julia_angry,Direi che allora stai facendo un lavoro di merda.
+134,209,en-us,MQ7_NightEnd,MiaShadows,Direi che ti stai per prendere un pestaggio.
+134,210,Menu Text en-us,MQ7_NightEnd,Player,Sei sempre così incazzata?
+134,211,en-us,MQ7_NightEnd,Julia_doubtCross,Sei sempre così incazzata?
+134,212,en-us,MQ7_NightEnd,MiaShadows,"Solo quando spuntano leccapiedi della Torre d’Avorio a rovinarmi la giornata. Se vuoi vedermi più allegra, sparisci."
+134,213,en-us,MQ7_NightEnd,Julia_baseCross,Non se ne parla. Mi ha fatta entrare il tuo capo.
+134,214,en-us,MQ7_NightEnd,MiaShadows,Col cavolo. Fuori.
 134,215,en-us,MQ7_NightEnd,TorqueShadows,Mia! Mia. Va tutto bene.
 134,216,en-us,MQ7_NightEnd,,"Eccolo, che entra dalla porta. Uno dei Baroni più famigerati di New York o, come alcuni hanno cominciato a chiamarlo appena Callihan ha fatto la sua fine, il Barone di New York."
 134,217,en-us,MQ7_NightEnd,MiaShadows,"Torque, ne abbiamo parlato. Lei--"
@@ -3982,6 +3994,7 @@
 134,269,en-us,MQ7_NightEnd,,"Mi serve quell’anello per far parlare Tamika, ma da come si comporta non sembra probabile che voglia separarsene."
 134,270,en-us,MQ7_NightEnd,,"Potrebbe costringermi a comportarmi da stronza, ma forse… è ora di cambiare approccio?"
 134,271,Menu Text en-us,MQ7_NightEnd,Player,[No. Essere brutalmente onesta]
+134,272,Menu Text en-us,MQ7_NightEnd,Player,"[Mentire, mentire, mentire spudoratamente]"
 134,273,en-us,MQ7_NightEnd,,Fanculo. Andiamo.
 134,274,en-us,MQ7_NightEnd,Julia_angry,"Senti, è ovvio che sei la novità più in voga in città. Piaci alla gente, la gente ti segue, sei destinato a diventare L’Anarchico a cui si pensa quando si pensa a New York. Buon per te."
 134,275,en-us,MQ7_NightEnd,Julia_angry,"Ma è altrettanto ovvio che sei parecchio indietro nel capire i rapporti. Tamika ci ha provato sul serio. Ha capito la sua strada, ha capito la tua, e si è resa conto che sono diametralmente opposte."
@@ -4003,6 +4016,30 @@
 134,291,en-us,MQ7_NightEnd,TorqueShadows,"Dille che le dimostrerò che si sbaglia. Dille che mi dimostrerò degno di quell’anello, dovesse essere l’ultima cosa che faccio."
 134,292,en-us,MQ7_NightEnd,,Vabbè. Mi lascio accompagnare fuori dall’edificio da Mia.
 134,293,en-us,MQ7_NightEnd,,Un’altra missione fallita. Ora di incontrare Tamika e darle la cattiva notizia.
+134,294,en-us,MQ7_NightEnd,Player,"Senti, non sono affari miei… ma credo che tu abbia frainteso qualcosa."
+134,295,en-us,MQ7_NightEnd,TorqueShadows,Cioè?
+134,296,en-us,MQ7_NightEnd,Player,Ti ama ancora.
+134,297,en-us,MQ7_NightEnd,,"Puff. Ha gli occhi da cerbiatto solo per un attimo, ma è evidente che l’ho colpito dove fa male."
+134,298,en-us,MQ7_NightEnd,TorqueShadows,Hai detto di averla appena conosciuta. Come fai a saperlo?
+134,299,en-us,MQ7_NightEnd,Player,"Abbiamo affrontato insieme una pattuglia dell’SI. Mi sono guadagnata la sua fiducia. E poi… abbiamo parlato con inaspettata sincerità, da donna a donna."
+134,300,en-us,MQ7_NightEnd,,"Meno male che Mia è fuori. Se fosse ancora nella stanza sarei troppo imbarazzata per lasciarmi uscire di bocca questa roba. Ma Torque annuisce e basta, invitandomi ad andare avanti."
+134,301,en-us,MQ7_NightEnd,Player,"È combattuta. Capisce le realtà dolorose di questo mondo, ma vuole tenersi stretti i suoi ideali. Per questo le è difficile restarti vicina."
+134,302,en-us,MQ7_NightEnd,Player,"Anche se in fondo rispetta con un po’ di rancore il tuo lavoro lento e costante, vuole comunque dare una possibilità al suo approccio."
+134,303,en-us,MQ7_NightEnd,,"Oddio, ma cosa sto facendo--"
+134,304,en-us,MQ7_NightEnd,TorqueShadows,E allora perché vorrebbe l’anello? Per me è un messaggio ovvio. «Ho sbagliato a riporre in te le mie speranze.» È una punizione.
+134,305,en-us,MQ7_NightEnd,Player,"Lo vuole per ricordarsi di te. E per avere vicino il simbolo di quelle speranze, che le ricordi che c’è sempre un’altra strada."
+134,306,en-us,MQ7_NightEnd,Julia_doubtCross,"Senti, so che per te è dura. Ma devi darle tempo e il beneficio del dubbio. Alla lunga renderà. Falle capire piano piano che le sue convinzioni potevano essere sbagliate."
+134,307,en-us,MQ7_NightEnd,TorqueShadows,...
+134,308,en-us,MQ7_NightEnd,,«Ahhh.» Una consapevolezza gli si fa strada lentamente.
+134,309,en-us,MQ7_NightEnd,,"Oddio, ci sta CASCANDO davvero. Sto morendo dentro."
+134,310,en-us,MQ7_NightEnd,,Tira fuori l’anello dalla tasca interna e me lo passa.
+134,311,en-us,MQ7_NightEnd,TorqueShadows,...Va’. Dille che aspetterò. E che i miei sentimenti non sono cambiati.
+134,312,en-us,MQ7_NightEnd,Player,Certo.
+134,313,en-us,MQ7_NightEnd,TorqueShadows,Devo far accompagnare fuori da Mia?
+134,314,en-us,MQ7_NightEnd,Player,"Non serve, non serve. Me la cavo."
+134,315,en-us,MQ7_NightEnd,,Mentre esco sono molto consapevole del ritmo dei miei passi. Mi sento come se l’avessi fatta franca dopo un omicidio.
+134,316,en-us,MQ7_NightEnd,,"Se riferisce a Mia quello che ho detto, probabilmente lei smaschererà le mie stronzate in un istante. Ma vabbè. A quel punto non sarà più un problema mio."
+134,317,en-us,MQ7_NightEnd,,Ora di incontrare Tamika.
 134,318,en-us,MQ7_NightEnd,,La trovo già ad aspettare davanti al Museo Ebraico.
 134,319,en-us,MQ7_NightEnd,TamikaShadows,Com’è andata?
 134,320,en-us,MQ7_NightEnd,Julia_angry,Mettiamola così. Non mi stupisce che tu l’abbia mollato.
@@ -4014,6 +4051,14 @@
 134,326,en-us,MQ7_NightEnd,TamikaShadows,"Niente. Sarò onesta, in un certo senso me l’aspettavo. È solo bello avere la conferma definitiva che è ancora un po’ uno stronzo tossico, tutto qui."
 134,327,en-us,MQ7_NightEnd,Julia_baseCross,"Be’, contenta di essere cascata nel trucco più vecchio del mondo. Sarebbe bello se, per una volta, un Fratello che mi dice di fare una cosa non ne intendesse tutt’altra."
 134,328,en-us,MQ7_NightEnd,TamikaShadows,"Oh, non arrabbiarti. Volevo essere sicura di una cosa, e adesso lo sono. Per quanto mi riguarda hai mantenuto la tua parte dell’accordo. È ora che ricambi il favore."
+134,329,en-us,MQ7_NightEnd,,Inarca le sopracciglia mentre le poso l’anello d’oro sul palmo.
+134,330,en-us,MQ7_NightEnd,TamikaShadows,"Sono… piuttosto sorpresa, a essere onesta. Non pensavo ce l’avresti fatta."
+134,331,en-us,MQ7_NightEnd,Player,A quanto pare sono una diplomatica di talento.
+134,332,en-us,MQ7_NightEnd,TamikaShadows,"Psh. Per esperienza, di solito vuol dire bugiarda."
+134,333,en-us,MQ7_NightEnd,,"Guarda l’anello con uno sguardo dolce, poi lo mette al sicuro in tasca."
+134,334,en-us,MQ7_NightEnd,TamikaShadows,O è cambiato davvero?
+134,335,en-us,MQ7_NightEnd,Player,"Chi lo sa? L’ho incontrato per la prima volta in vita mia… non-vita. Comunque, ho mantenuto la mia parte dell’accordo. "
+134,336,en-us,MQ7_NightEnd,TamikaShadows,Certo. È ora che mantenga la mia.
 134,337,en-us,MQ7_NightEnd,TamikaShadows,L’anno scorso in città è comparso un certo [7;infante] che ha provato a costruirsi una congrega. Quella lista che hai trovato su Callihan? È la lista che avevano.
 134,338,en-us,MQ7_NightEnd,TamikaShadows,"Hanno contattato ognuno di noi, poi si sono ritrovati in guai seri. SI, Kaiser, Sophie Langley, certi giocatori nell’ombra che manovravano tutto dietro le quinte… poi sono spariti."
 134,339,en-us,MQ7_NightEnd,,Kaiser. Quel nome che salta fuori un’altra volta. Non può essere un caso.
@@ -4053,16 +4098,66 @@
 134,373,en-us,MQ7_NightEnd,TamikaShadows,"Ci vediamo nella tua prossima vita, Julia."
 134,374,en-us,MQ7_NightEnd,Player,"Buon viaggio, Tamika."
 134,375,en-us,MQ7_NightEnd,,Salto la visita di stanotte alla chiesa.
+134,376,en-us,MQ7_NightEnd,,Non sono in vena di vedere Benoit. Sono ancora imbarazzata per la sfuriata di ieri. 
+134,377,en-us,MQ7_NightEnd,,"E sono un po’ incazzata che nessuno degli [22;anziani] del clan a Chicago si sia degnato di rispondere a uno dei miei cazzo di rapporti. Nessun consiglio, nessun riscontro, niente. Mi sento lasciata totalmente sola."
+134,378,en-us,MQ7_NightEnd,,"E poi è tardi. Torno sempre all’appartamento la mattina presto, poco prima che si faccia chiaro. Comincia a essere rischioso restare fuori così vicino all’alba. Gli incidenti capitano."
+134,379,en-us,MQ7_NightEnd,,Domani notte proverò a tornare prima. A fare una sorpresa a Dakota. Sì.
+134,380,en-us,MQ7_NightEnd,Player,Sono tornata.
+134,381,en-us,MQ7_NightEnd,Dakota,Evviva.
+134,382,en-us,MQ7_NightEnd,Player,Com’è andato il lavoro? Hai recuperato tutto?
+134,383,en-us,MQ7_NightEnd,Dakota,"Eh, sono riuscita a farmi rinviare le scadenze. I clienti annullano e rimandano ordini a destra e a manca."
+134,384,en-us,MQ7_NightEnd,Julia_doubtCross,Ah. Vuol dire che domani avrai tempo per aiutarmi col trucco?
+134,385,en-us,MQ7_NightEnd,Dakota,Vedremo.
+134,386,en-us,MQ7_NightEnd,Julia_baseCross,"Perfetto. Bene, devo sparire prima che il sole mi raggiunga."
+134,387,en-us,MQ7_NightEnd,Dakota,Ehi.
+134,388,en-us,MQ7_NightEnd,Player,Sì?
+134,389,en-us,MQ7_NightEnd,Dakota,Ti amo.
+134,390,en-us,MQ7_NightEnd,,Oh.
+134,391,en-us,MQ7_NightEnd,,"Un silenzio imbarazzato riempie la stanza. Da questa non me la cavo, vero?"
+134,392,en-us,MQ7_NightEnd,,"No. Devo. Stanotte non ho mentito al Barone di New York, quindi non mentirò a lei."
+134,393,en-us,MQ7_NightEnd,Player,Lo so.
+134,394,en-us,MQ7_NightEnd,,Accenna un sorriso triste e forzato mentre vado a riposare.
+134,395,en-us,MQ7_NightEnd,,"Be’, stanotte ho già inventato una storia d’amore. Che sarà mai un’altra?"
+134,396,en-us,MQ7_NightEnd,Player,Ti amo anch’io.
+134,397,en-us,MQ7_NightEnd,,Mi giro in fretta per non guardare il suo sorriso sincero e vado a riposare.
 134,398,en-us,MQ7_NightEnd,,...
 134,399,en-us,MQ7_NightEnd,,...È la prima volta che quella paura si avvera.
 134,400,Menu Text en-us,MQ7_NightEnd,Player,Sedersi su questa sedia.
+134,401,Menu Text en-us,MQ7_NightEnd,Player,Sedersi su questa sedia.
+134,402,Menu Text en-us,MQ7_NightEnd,Player,Sedersi su questa sedia.
 134,403,en-us,MQ7_NightEnd,,"Be’, speriamo solo che sia ancora New York."
 134,404,en-us,MQ7_NightEnd,,Sento la sua mano che mi afferra i vestiti. Mi trascina brutalmente più vicino.
 134,405,Menu Text en-us,MQ7_NightEnd,PlayerNoPic,Quindi… li hai uccisi tutti da sola?
+134,406,Menu Text en-us,MQ7_NightEnd,PlayerNoPic,L’SI è molto presente a New York?
+134,407,en-us,MQ7_NightEnd,PlayerNoPic,L’SI è molto presente a New York?
+134,408,en-us,MQ7_NightEnd,Tamika_noPic,I Fratelli sono classificati come presenza terroristica. Non c’è altra città americana colpita dal terrorismo quanto questa. Tutte le agenzie segrete hanno bisogno di vittorie simboliche. Fa’ tu i conti.
+134,409,en-us,MQ7_NightEnd,PlayerNoPic,"E tu li affronti proprio qui, tra tutti i posti?"
+134,410,en-us,MQ7_NightEnd,Tamika_noPic,Come puoi vedere qui intorno.
+134,411,Menu Text en-us,MQ7_NightEnd,PlayerNoPic,Sei sola?
+134,412,en-us,MQ7_NightEnd,PlayerNoPic,Allora… agisci da sola?
+134,413,en-us,MQ7_NightEnd,Tamika_noPic,"È curiosità personale, curiosità da investigatrice, o raccolta di informazioni per la Camarilla?"
+134,414,en-us,MQ7_NightEnd,PlayerNoPic,Io...
+134,415,en-us,MQ7_NightEnd,Tamika_noPic,"Non importa, non ho niente da nascondere. Sì, sono sola. Ogni Fratello della costa est ci guadagna dalla morte di questi tizi, ma nessuno vuole metterci le mani."
+134,416,en-us,MQ7_NightEnd,,Fa cadere la cenere su uno dei corpi.
 134,417,en-us,MQ7_NightEnd,,L’unico motivo per cui conosco questa rotta è che un certo gruppo criminale [56;Nossie] mi ha contattata vista la mia posizione e mi ha offerto un accordo vantaggioso per entrambi sui viaggi illegali dei Fratelli.
 134,418,en-us,MQ7_NightEnd,,"Di norma rifiuterei, ma mi hanno offerto l’unica cosa che può comprarmi. Un sacco di contanti."
 134,419,en-us,MQ7_NightEnd,,"Okay, allora… "
 134,420,Menu Text en-us,MQ7_NightEnd,Player,Ok. Allora... chi aiuta chi per primo?
+134,421,Menu Text en-us,MQ7_NightEnd,Player,Prima dovresti aiutarmi tu.
+134,422,en-us,MQ7_NightEnd,Player,Prima dovresti aiutarmi tu. Poi vediamo come portarti fuori città.
+134,423,en-us,MQ7_NightEnd,TamikaShadows,Hmm…
+134,424,en-us,MQ7_NightEnd,TamikaShadows,Col cazzo. È davvero questo il massimo delle tue doti di trattativa? Perché pensavi che una battuta del genere potesse funzionare?
+134,425,en-us,MQ7_NightEnd,Player,"Be’, sono un’ottimista. O almeno ci provo."
+134,426,en-us,MQ7_NightEnd,Player,Non lo pensavo. Solo che nessuna delle due si fida abbastanza dell’altra da concedere il beneficio del dubbio. È un’impasse.
+134,427,en-us,MQ7_NightEnd,TamikaShadows,"Sospiro. Ma sì, ci serve un modo di aprire questo accordo che soddisfi entrambe. Hmm..."
+134,428,en-us,MQ7_NightEnd,TamikaShadows,Vero. Fammi pensare…
+134,429,en-us,MQ7_NightEnd,,"Resta persa nei suoi pensieri per un attimo, poi parla."
+134,430,Menu Text en-us,MQ7_NightEnd,Player,"Vuoi che ti aiuti prima io, immagino?"
+134,431,en-us,MQ7_NightEnd,Player,Immagino tu voglia che sia io ad aiutarti prima di fare qualcosa per me?
+134,432,en-us,MQ7_NightEnd,TamikaShadows,"Certo, ma accetteresti mai un accordo del genere?"
+134,433,en-us,MQ7_NightEnd,Player,Col cazzo.
+134,434,en-us,MQ7_NightEnd,TamikaShadows,Appunto. Quindi dobbiamo pensare a qualcosa che convenga davvero a entrambe. Hmmm…
+134,435,en-us,MQ7_NightEnd,,"Resta persa nei suoi pensieri per un attimo, poi parla."
 134,436,en-us,MQ7_NightEnd,MiaShadows,E tu che cazzo ci fai -qui-?
 134,437,en-us,MQ7_NightEnd,Player,Pensavo saresti stata più aperta a collaborare dopo la nostra ultima chiacchierata.
 134,438,en-us,MQ7_NightEnd,MiaShadows,"Non quando cerchi di fare accordi alle mie spalle, stronza."
@@ -4078,8 +4173,10 @@
 134,448,en-us,MQ7_NightEnd,TamikaShadows,Sento odore di una rabbia trattenuta che potrebbe sfuggirti di mano se annusi un po’ di potere.
 134,449,en-us,MQ7_NightEnd,TamikaShadows,Sento odore di qualcuno che non dà molto valore alla verità.
 134,450,en-us,MQ7_NightEnd,TamikaShadows,"Non è granché, solo un’intuizione… ma sembri incline a cedere alle vuote promesse di sicurezza della Camarilla e ai suoi valori piccolo-borghesi."
+134,451,en-us,MQ7_NightEnd,TamikaShadows,"…in qualche modo ho la sensazione che tu sia una persona sorprendentemente decente. Qualunque non-vita tu scelga, spero che non cambi. E che ti ricordi il mio consiglio."
 134,452,en-us,MQ7_NightEnd,Julia_angry,Credo che dovrei offendermi.
 134,453,en-us,MQ7_NightEnd,TamikaShadows,"Spero che tu lo faccia. Deporrebbe a tuo favore. In ogni caso, qualunque cosa succeda..."
+134,454,en-us,MQ7_NightEnd,,Ah. È l’ultima cosa che mi aspettavo da lei. Non so bene quali cose «decenti» avrei fatto ultimamente.
 135,27,en-us,MQ8_NightStart,,"Arrivo finalmente al Big Beat Burger, sperando di riprendermi da tutti i danni mentali accumulati in questi ultimi giorni…"
 135,28,en-us,MQ8_NightStart,,...solo per scoprire che le porte sono chiuse e dentro non c’è nessuno.
 135,29,en-us,MQ8_NightStart,,"No, no, no. Ho bisogno di conforto. Ho bisogno della mia routine. "
