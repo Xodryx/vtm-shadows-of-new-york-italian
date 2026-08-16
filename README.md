@@ -150,10 +150,6 @@ value and a `GetTextIt` method already in place — unused, but there. That acci
 unfinished feature is why Italian slots in as a real language rather than a hack over
 another one.
 
-And the uncredited translators of the official Italian *Coteries of New York*, whose
-terminology this borrows throughout so that a Kindred is a *Fratello* here for the same
-reason it is there.
-
 ## Licence
 
 The plugin source is free to reuse. The translated text is a derivative work of
