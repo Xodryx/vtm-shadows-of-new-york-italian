@@ -2882,12 +2882,27 @@
 130,45,en-us,MQ6_NightEnd,,Il suo cellulare a conchiglia d’altri tempi vibra.
 130,46,en-us,MQ6_NightEnd,QadirShadows,"A proposito, se ne hai altre per me, è ora o mai più. Mi vogliono a The Art Hole, subito."
 130,47,Menu Text en-us,MQ6_NightEnd,Player,Com’è la sicurezza?
+130,48,Menu Text en-us,MQ6_NightEnd,Player,Qual è l’approccio migliore?
+130,49,Menu Text en-us,MQ6_NightEnd,Player,Non posso chiederglielo normalmente?
 130,50,en-us,MQ6_NightEnd,Julia_doubtCig,Com’è la sicurezza?
 130,51,en-us,MQ6_NightEnd,QadirShadows,"Ah, sì, bella domanda. Per quel che ne so, telecamere, sensori di calore corporeo e qualche serratura elettronica."
 130,52,en-us,MQ6_NightEnd,Julia_baseCig,"Sembra che, con un po’ di fortuna, potrei riuscire a infiltrarmi nell’edificio come un semplice disturbo nel sistema."
 130,53,en-us,MQ6_NightEnd,QadirShadows,"Un disturbo può comunque far scattare un controllo, quindi sta’ attenta. È raro che le nostre maledizioni si trasformino in benedizioni. Quando sembra che sia successo, di solito è una trappola."
 130,54,en-us,MQ6_NightEnd,Julia_baseCig,Lo terrò a mente.
 130,55,en-us,MQ6_NightEnd,QadirShadows,E tieni gli occhi aperti sui ghoul.
+130,56,en-us,MQ6_NightEnd,Julia_doubtCig,Come dovrei avvicinarmi all’edificio?
+130,57,en-us,MQ6_NightEnd,QadirShadows,Ti ho detto tutto quello che so. Fa’ semplicemente quello che faccio io sempre.
+130,58,en-us,MQ6_NightEnd,Julia_baseCig,E sarebbe…
+130,59,en-us,MQ6_NightEnd,QadirShadows,"Studia la situazione, poi decidi. "
+130,60,en-us,MQ6_NightEnd,Julia_angryCig,"Giusto, dimenticavo che è quello che fai sempre."
+130,61,en-us,MQ6_NightEnd,QadirShadows,Intendi studiare la situazione?
+130,62,en-us,MQ6_NightEnd,Julia_angryCig,No. Dire l’ovvio.
+130,63,en-us,MQ6_NightEnd,QadirShadows,Tsk.
+130,64,en-us,MQ6_NightEnd,Julia_doubtCig,Non posso chiederle di Callihan normalmente?
+130,65,en-us,MQ6_NightEnd,QadirShadows,"Starei qui a perdere tempo, se si potesse?"
+130,66,en-us,MQ6_NightEnd,QadirShadows,Ufficialmente non è nemmeno lì. Non risponde neanche alle mie chiamate. Devi forzarle la mano.
+130,67,en-us,MQ6_NightEnd,Julia_baseCig,Sarà almeno disposta a parlare?
+130,68,en-us,MQ6_NightEnd,QadirShadows,Confido nelle tue doti persuasive.
 130,69,en-us,MQ6_NightEnd,,Il telefono vibra di nuovo.
 130,70,en-us,MQ6_NightEnd,QadirShadows,"Be’, per me è tutto. Arturo mi assilla perché mi presentassi all’Elysium cinque minuti fa."
 130,71,en-us,MQ6_NightEnd,Julia_angryCig,Digli che gli suggerisco gentilmente di andare a farsi fottere.
@@ -2901,6 +2916,7 @@
 130,79,en-us,MQ6_NightEnd,,"È un po’ un lancio di monetina, onestamente, ma una scelta devo farla."
 130,80,en-us,MQ6_NightEnd,,Come mi presento alla Double Spiral?
 130,81,Menu Text en-us,MQ6_NightEnd,Player,[È ora di essere aggressiva]
+130,82,Menu Text en-us,MQ6_NightEnd,Player,[Meglio restare nascosta.]
 130,83,en-us,MQ6_NightEnd,,"Già, stare nell’ombra non è che mi abbia portato granché. Ora di mostrare a loro (e a me stessa, immagino) chi comanda."
 130,84,en-us,MQ6_NightEnd,,"Per quanto mi riguarda, di tutte le aziende del mondo questa è quella che più merita di essere messa a soqquadro."
 130,85,en-us,MQ6_NightEnd,,Ora di fare la poliziotta cattiva e arrivare da qualche parte.
@@ -2935,6 +2951,26 @@
 130,114,en-us,MQ6_NightEnd,Julia_angry,"Ehi, tu. Il tizio con gli occhiali buffi e la maglietta anime. Dove trovo la stanza 507?"
 130,115,en-us,MQ6_NightEnd,,"Alza la mano con svogliatezza, indicandomi la direzione giusta, e Nastya per la frustrazione prende a calci la sua sedia."
 130,116,en-us,MQ6_NightEnd,,Mi avvio da quella parte e alla fine raggiungo il corridoio che speravo di trovare.
+130,117,en-us,MQ6_NightEnd,,"Eh, fare l’aggressiva non fa per me. Non voglio nemmeno pensare alle grane che dovrei affrontare."
+130,118,en-us,MQ6_NightEnd,,"Meno faccio danni, più probabilità ci sono che non si incazzino con me. E ho davvero bisogno che Hope collabori. "
+130,119,en-us,MQ6_NightEnd,,Questo approccio da poliziotto buono prima o poi dovrebbe pagare.
+130,120,en-us,MQ6_NightEnd,,Bene. Facciamolo.
+130,121,en-us,MQ6_NightEnd,,"Mi avvolgo nelle ombre e lascio che sia l’istinto a comandare. L’atrio non è ben illuminato, quindi non è difficile finire dietro all’unica guardia. "
+130,122,en-us,MQ6_NightEnd,,"Si accorge che qualcosa non va con le telecamere e picchia qualche colpo sul monitor, ma quando ha finito io sono già dentro una scala antincendio e sto scendendo."
+130,123,en-us,MQ6_NightEnd,,"Le porte del piano più profondo sono chiuse, ma basta un po’ di forza bruta…"
+130,124,en-us,MQ6_NightEnd,,...e sono dentro.
+130,125,en-us,MQ6_NightEnd,,"Ciao, Double Spiral. Pensavate di non rivedermi, eh? Stronzi."
+130,126,en-us,MQ6_NightEnd,,Mi guardo intorno e trovo una mappa di evacuazione. Colpo grosso. Sembra che tutte le informazioni che mi servono siano qui.
+130,127,en-us,MQ6_NightEnd,,Eccola. Stanza 507.
+130,128,en-us,MQ6_NightEnd,N2S2_Nastya_,...
+130,129,en-us,MQ6_NightEnd,,"Arriva qualcuno. Sembra che uno dei ghoul nerd di Hope sia venuto ad annusare in giro, ma io sono già nell’ombra."
+130,130,en-us,MQ6_NightEnd,,"Sguscio via mentre lei comincia a pattugliare il corridoio, controllando che sia tutto a posto."
+130,131,en-us,MQ6_NightEnd,,"Telecamere, sensori di calore corporeo, serrature elettroniche... Eppure me la cavo. "
+130,132,en-us,MQ6_NightEnd,,"Raggiungo gli uffici della Double Spiral dove, proprio come diceva Qadir, orde di ghoul sgobbano per la loro azienda. Deep learning, spyware, manipolazione dei social, eccetera eccetera."
+130,133,en-us,MQ6_NightEnd,,"La cosa importante adesso è che sono tutti a fissare il proprio schermo, quindi per me è facile continuare a muovermi di nascosto."
+130,134,en-us,MQ6_NightEnd,N2S2_Nastya_,...
+130,135,en-us,MQ6_NightEnd,,"...a parte il fatto che sembra ancora sulle mie tracce, rallentata solo dalla minuzia con cui cerca. Meglio accelerare il passo."
+130,136,en-us,MQ6_NightEnd,,...ed eccolo. Il corridoio finale. È ora di annunciarmi.
 130,137,en-us,MQ6_NightEnd,,Percorro lentamente il corridoio fino in fondo. Eccola. Stanza 507.
 130,138,en-us,MQ6_NightEnd,,La porta sembra più dura da sistemare delle altre di questo posto. Probabilmente non riuscirò a farci quello che ho fatto alle altre.
 130,139,en-us,MQ6_NightEnd,,La porta dell’ufficio dell’attuale capo della Double Spiral.
@@ -2948,6 +2984,7 @@
 130,147,en-us,MQ6_NightEnd,Hope_nopic,Questo coso è acceso? Direi di sì.
 130,148,en-us,MQ6_NightEnd,Hope_nopic,"Va bene, messaggio ricevuto forte e chiaro. Ci vediamo negli uffici, arrivo subito."
 130,149,en-us,MQ6_NightEnd,Hope_nopic,"A quanto pare hai seminato la povera Nastya. Torna negli uffici e falle compagnia. Sarà incazzata nera per esserti sfuggita di mano, ma non farne un dramma, okay?"
+130,150,en-us,MQ6_NightEnd,Hope_nopic,"Nel frattempo, per favore, evita di mettere a soqquadro i nostri uffici, va bene? Conoscendo la povera Nastya, se doveva venirle un infarto le sarebbe già venuto."
 130,151,en-us,MQ6_NightEnd,Hope_nopic,Grazie della collaborazione. Arrivo subito.
 130,152,en-us,MQ6_NightEnd,HopeShadows,Come va.
 130,153,en-us,MQ6_NightEnd,,"Da un lato, vestiti che ti aspetteresti di trovare nell’armadio di qualunque amministratore delegato."
@@ -2965,9 +3002,13 @@
 130,171,en-us,MQ6_NightEnd,Player,"Allora, quando hai capito che ero qui?"
 130,172,en-us,MQ6_NightEnd,Nastya,"Fin dall’inizio. C’è stato un guasto momentaneo ai laser. Un secondo o due, non ha fatto scattare l’allarme, ma ho intuito che qualcosa non andava."
 130,173,en-us,MQ6_NightEnd,Player,...tutto qui?
+130,174,en-us,MQ6_NightEnd,Julia_baseCig,Non è colpa mia se non sei riuscita a gestirmi. 
+130,175,en-us,MQ6_NightEnd,Nastya,"Ho avuto almeno cinque occasioni per bloccarti. Ho scelto di non farlo, perché avevo l’intuizione che alla capa potesse far comodo vederti."
 130,176,en-us,MQ6_NightEnd,Nastya,Le intuizioni mi hanno procurato ogni lavoro che ho avuto. Le intuizioni mi hanno salvato la vita ogni volta che mi sono cacciata nei guai. Di questi tempi la realtà è troppo complicata per affidarsi ad altro.
 130,177,en-us,MQ6_NightEnd,HopeShadows,"Non trovi capo della sicurezza migliore della nostra Nastya, e le sue intuizioni sono il motivo principale. Sono come un sesto senso."
 130,178,Menu Text en-us,MQ6_NightEnd,Player,"Una ribelle aziendale, eh?"
+130,179,Menu Text en-us,MQ6_NightEnd,Player,Cos’è questo sesto senso?
+130,180,Menu Text en-us,MQ6_NightEnd,Player,Non ci siamo già viste?
 130,181,en-us,MQ6_NightEnd,Player,Non ti avrei presa per una picchiatrice.
 130,182,en-us,MQ6_NightEnd,Nastya,"Cioè, ovvio, è quello il punto. Vuoi essere una minaccia inattesa."
 130,183,en-us,MQ6_NightEnd,Player,Intendo l’estetica ribelle contro il ruolo di cane da guardia aziendale assetato di sangue. Vuole essere un travestimento?
@@ -2979,6 +3020,21 @@
 130,189,en-us,MQ6_NightEnd,Nastya,"Ma per favore. Guarda la biografia di qualsiasi icona della musica alternativa che si spaccia per radicale. I genitori? Sempre stronzi ricchi. Militari, CIA, prestiti a strozzo, soldi di famiglia, che so."
 130,190,en-us,MQ6_NightEnd,Nastya,"E non lo ammettono mai, si contorcono appena qualcuno chiede del privilegio che hanno usato per vendere la loro immagine da anticonformisti. Io? Per arrivare da qualche parte devo sporcarmi le mani, e lo faccio."
 130,191,en-us,MQ6_NightEnd,,"Quelle surprise, la capisco davvero. Quell’atteggiamento cinico è… troppo allettante."
+130,192,en-us,MQ6_NightEnd,Player,Sono curiosa di questo sesto senso. È una cosa da ghoul?
+130,193,en-us,MQ6_NightEnd,Nastya,"Nah. È quella cosa da spia che sconfina nella seconda vista. James Bond che nota un coltello nascosto nella scarpa di uno, Jack Bauer che capisce all’improvviso che odi l’America."
+130,194,en-us,MQ6_NightEnd,Nastya,Roba del genere.
+130,195,en-us,MQ6_NightEnd,Julia_doubtCross,"E dove l’hai allenata, ehm, questa seconda vista?"
+130,196,en-us,MQ6_NightEnd,,Nastya scrolla le spalle.
+130,197,en-us,MQ6_NightEnd,Nastya,"È come fare buona musica, signora. 50% duro lavoro, 50% psichedelici."
+130,198,en-us,MQ6_NightEnd,Julia_baseCross,"Oh. Io, ehm, mi fido sulla parola."
+130,199,en-us,MQ6_NightEnd,Julia_doubtCross,Non ti ho già vista da qualche parte?
+130,200,en-us,MQ6_NightEnd,Nastya,"Boh. In un club, forse?"
+130,201,en-us,MQ6_NightEnd,Julia_baseCross,"Sì. L’anno scorso, poco dopo essere stata Abbracciata, sono andata in quel club dentro il magazzino ristrutturato, e tu c’eri. Hai un’aura che si ricorda."
+130,202,en-us,MQ6_NightEnd,Nastya,"Sì, ogni tanto faccio la DJ e do una mano lì.. Devo farmi vedere se voglio sfondare."
+130,203,en-us,MQ6_NightEnd,Julia_baseCross,E perché non ti concentri su quello? Quel percorso non sembra granché compatibile con il ruolo di capo della sicurezza di Double Spiral. E non solo perché servono competenze così diverse.
+130,204,en-us,MQ6_NightEnd,,Nastya guarda Hope.
+130,205,en-us,MQ6_NightEnd,Nastya,"Lavorare a Double Spiral offre un sacco di vantaggi a chi conta su internet per farsi promozione, signora."
+130,206,en-us,MQ6_NightEnd,Nastya,L’invecchiamento rallentato è solo un bel bonus.
 130,207,en-us,MQ6_NightEnd,HopeShadows,"Bella chiacchierata, ragazze, ma gradirei che la teneste per dopo. "
 130,208,en-us,MQ6_NightEnd,HopeShadows,Ora sono CEO. Ho un sacco di doveri che devo fingere di sbrigare.
 130,209,en-us,MQ6_NightEnd,Player,Devo solo farti qualche domanda.
@@ -2986,6 +3042,8 @@
 130,211,en-us,MQ6_NightEnd,Nastya,Chiamami se ti serve. Anch’io ho una strana intuizione su questa qui.
 130,212,en-us,MQ6_NightEnd,Player,"Tranquilla, sparirò in silenzio come sono arrivata. "
 130,213,en-us,MQ6_NightEnd,Nastya,"Già, preferirei essere sicura che te ne sei andata, signora, così posso riferirlo al mio capo."
+130,214,en-us,MQ6_NightEnd,Julia_angry,"E cosa te l’ha data, questa intuizione, Nastya? Il modo in cui ho messo a soqquadro l’intero piano che dovevi proteggere?"
+130,215,en-us,MQ6_NightEnd,Nastya,Tsk.
 130,216,en-us,MQ6_NightEnd,HopeShadows,"Della sicurezza parliamo dopo. Tranquilla, capita. Per ora prenditi cinque minuti."
 130,217,en-us,MQ6_NightEnd,,Nastya se ne va e resto sola con Hope nell’angolo dell’ufficio.
 130,218,en-us,MQ6_NightEnd,Player,Fa uno strano effetto stare qui davanti a te. 
@@ -3051,6 +3109,8 @@
 130,278,en-us,MQ6_NightEnd,,"È chiaramente combattuta se dirmelo o no. O forse finge, così che glielo estorca io."
 130,279,en-us,MQ6_NightEnd,,Da quando ho varcato la sua porta mi sono comportata bene. Forse fare appello al suo senso morale funzionerà.
 130,280,en-us,MQ6_NightEnd,Player,"Ho davvero bisogno del tuo aiuto. Voglio evitare che le tensioni tra gli Anarchici locali e la Corte degenerino, e ogni pista aiuta."
+130,281,en-us,MQ6_NightEnd,,"Mettere a soqquadro i suoi uffici ha funzionato, quindi... tanto vale rifare la dura."
+130,282,en-us,MQ6_NightEnd,Julia_angry,"Anonimo tipo «non ho niente contro di loro» o anonimo tipo «mi conviene fargli del male»? Perché se è il secondo, forse possiamo fare affari."
 130,283,en-us,MQ6_NightEnd,,"Valuta brevemente le opzioni, poi si arrende."
 130,284,en-us,MQ6_NightEnd,HopeShadows,È il mio sire. Carter Vanderweyden.
 130,285,en-us,MQ6_NightEnd,,Oh.
@@ -3260,15 +3320,54 @@
 130,489,en-us,MQ6_NightEnd,Player,Lo sono sempre stata. Non l’avevi notato?
 130,490,en-us,MQ6_NightEnd,,"Ricordo lo shock quando scoprii che una delle mie nemesi nella vecchia vita era stata un vampiro fin dall’inizio. Quando capii che la sua posizione la rendeva intoccabile per me, andai oltre la rabbia."
 130,491,en-us,MQ6_NightEnd,Julia_baseCig,"Oddio, forse sto invecchiando."
+130,492,en-us,MQ6_NightEnd,,"Resto prudente, proprio come vorrebbe Qadir, ma evitare la sicurezza mi riesce sorprendentemente facile. Avanzare verso la Stanza 507 è molto più semplice del previsto."
+130,493,en-us,MQ6_NightEnd,Julia_baseCig,Ti fidi così tanto delle tue intuizioni?
 130,494,Menu Text en-us,MQ6_NightEnd,Player,Morte Ultima?
+130,495,Menu Text en-us,MQ6_NightEnd,Player,Pugnalate tra aziende?
+130,496,en-us,MQ6_NightEnd,Julia_baseCig,Pugnalate tra aziende?
+130,497,en-us,MQ6_NightEnd,QadirShadows,Nessuno squalo aziendale è bravo a far sangue quanto un Fratello [59;Patrizio]. Sono abbastanza sicuro che ci siano poteri più grandi di mezzo.
+130,498,Menu Text en-us,MQ6_NightEnd,Player,Un ripensamento improvviso?
+130,499,en-us,MQ6_NightEnd,Julia_baseCig,Un ripensamento improvviso?
+130,500,en-us,MQ6_NightEnd,,Qadir alza gli occhi al cielo.
+130,501,en-us,MQ6_NightEnd,QadirShadows,"Il [59;Clan dei Re] non è esattamente noto per avere rimorsi sulla sua spietata sete di potere, no?"
 130,502,Menu Text en-us,MQ6_NightEnd,Player,Non mi convince.
+130,503,en-us,MQ6_NightEnd,Player,"Ecco il capitalismo, eh."
+130,504,en-us,MQ6_NightEnd,Player,"Ecco il capitalismo, eh."
+130,505,en-us,MQ6_NightEnd,HopeShadows,Davvero? Io credo sia qualcosa di peggio.
+130,506,en-us,MQ6_NightEnd,HopeShadows,"Quando guardo il mondo online, non vedo il capitale che ci governa. Vedo solo vettori incomprensibili, entità sconosciute che aprono e chiudono in continuazione vari mercati dell’informazione."
+130,507,en-us,MQ6_NightEnd,HopeShadows,"È qualcosa di peggio di quello che ci ha insegnato la familiare terminologia del Novecento. Non so cosa sia, ma fa paura, e continuerà finché non gli daremo un nome, ma..."
+130,508,en-us,MQ6_NightEnd,HopeShadows,"Ma ehm… sembri una che ha bisogno di sostegno emotivo, non delle mie filosofie deprimenti. Be’, ehm… fa schifo, e mi dispiace."
+130,509,Menu Text en-us,MQ6_NightEnd,Player,Dovresti rimediare.
+130,510,en-us,MQ6_NightEnd,Player,Dovresti rimediare. Qualcuno deve prendersi la responsabilità.
+130,511,en-us,MQ6_NightEnd,HopeShadows,"Senti, capisco perché sei arrabbiata, ma… questa è una multinazionale. Diluire le responsabilità è ciò che fa. Chiunque abbia lavorato qui era colpevole. E così tutti i clienti di Double Spiral, gli azionisti, eccetera."
+130,512,en-us,MQ6_NightEnd,HopeShadows,"Anch’io odiavo la Montgomery. Le ho tolto l’azienda dalle mani, da esterna, e adesso l’unica qui in trip di potere sono io. Tutti i coglioni che mi disgustavano sono fuori."
+130,513,en-us,MQ6_NightEnd,HopeShadows,"Vuoi chiedermi conto, va bene, ma chiedimi conto delle mie azioni. Cazzo, quelle basterebbero e avanzerebbero per farmi sbattere dentro a vita."
 130,514,Menu Text en-us,MQ6_NightEnd,Player,Non ti va di fare il capo?
+130,515,Menu Text en-us,MQ6_NightEnd,Player,Non ti va di aver rovinato Montgomery?
 130,516,en-us,MQ6_NightEnd,HopeShadows,"Il capo, eh."
+130,517,en-us,MQ6_NightEnd,Player,"Non ti va di aver rovinato Cara Montgomery? Io sarei al settimo cielo, se l’avessi fatto."
+130,518,en-us,MQ6_NightEnd,HopeShadows,"Oh, ero più che felice. È solo che…"
+130,519,en-us,MQ6_NightEnd,HopeShadows,Adesso è una cosa diversa.
+130,520,Menu Text en-us,MQ6_NightEnd,Player,Non ti va di essere ricca?
+130,521,en-us,MQ6_NightEnd,Player,Sul serio? Non ti va di essere oscenamente ricca?
+130,522,en-us,MQ6_NightEnd,HopeShadows,"Oh, chi se ne fotte dei soldi."
+130,523,en-us,MQ6_NightEnd,,...Io. Parecchio.
+130,524,en-us,MQ6_NightEnd,HopeShadows,"Un anno fa non avevo soldi, ma avevo qualcosa di molto più prezioso."
 130,525,en-us,MQ6_NightEnd,,"Non avevo davvero bisogno di farla, ma volevo che morisse dentro per un attimo. "
 130,526,en-us,MQ6_NightEnd,,Il tono leggermente teso suggerisce che forse ci sono riuscita.
 130,527,Menu Text en-us,MQ6_NightEnd,Player,Finalmente due chiacchiere a quattr’occhi.
 130,528,en-us,MQ6_NightEnd,FatherAnthony,"Senti, non ti viene in mente qualcosa per placarlo?"
 130,529,Menu Text en-us,MQ6_NightEnd,Player,Dov’è Benoit?
+130,530,en-us,MQ6_NightEnd,Player,"Allora, ehm, dov’è quel pagliaccio?"
+130,531,en-us,MQ6_NightEnd,FatherAnthony,Intendi Benoit.
+130,532,en-us,MQ6_NightEnd,Player,"L’ha detto lei, non io."
+130,533,en-us,MQ6_NightEnd,FatherAnthony,"Sospiro… in un’altra parrocchia, a sbrigare una questione personale per me. Ho pensato che l’avresti apprezzato."
+130,534,en-us,MQ6_NightEnd,,"Dio, e come se lo apprezzo."
+130,535,Menu Text en-us,MQ6_NightEnd,Player,[Ignorare l’assenza di Benoit.]
+130,536,en-us,MQ6_NightEnd,,Decido di stare zitta e di godermi e basta la felicità di qualcosa di buono che finalmente succede nella mia non-vita.
+130,537,en-us,MQ6_NightEnd,,"Ma, ovviamente, non dura a lungo."
+130,538,en-us,MQ6_NightEnd,FatherAnthony,Ho mandato via Benoit perché volevo parlarti di lui.
+130,539,en-us,MQ6_NightEnd,Julia_doubtCross,...Lo sapevo.
 130,540,Menu Text en-us,MQ6_NightEnd,Player,È un pezzo importante dell’outfit.
 130,541,Menu Text en-us,MQ6_NightEnd,Player,...È qualcosa di più.
 130,542,en-us,MQ6_NightEnd,Julia_baseCross,È un…
