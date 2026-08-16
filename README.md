@@ -8,6 +8,11 @@ at runtime. **No game file is modified.**
 **Complete: 5699 of 5699 dialogue lines**, plus the in-game dictionary, actor names and
 quest texts. Every conversation, both endings, every optional branch.
 
+| | |
+|---|---|
+| ![The main menu in Italian](docs/images/main-menu.jpg) | ![Italiano selected in the language setting](docs/images/language-setting.jpg) |
+| The main menu, in Italian. | *Italiano* in **Impostazioni → Testo → Lingua**, alongside the four languages the game ships with. |
+
 > ### Made with AI — expect mistakes
 >
 > Both the Italian text and the C# plugin were written by an AI assistant (Claude),
