@@ -130,6 +130,30 @@ rendering. Where Coteries recorded a single gender for a term the game later app
 the other, the glossary carries an explicit inflection (`lick (m)`, `neonate (f)`) rather
 than loosening the check.
 
+## Thanks
+
+This translation only exists because of work other people gave away for free.
+
+**[BepInEx](https://github.com/BepInEx/BepInEx)** (LGPL-2.1) does the hard part. Getting
+custom code to run inside a shipped Unity game, before the game itself starts, is the
+whole problem — and BepInEx solves it so completely that this project never had to think
+about it. Everything here is a plugin sitting on top of that work.
+
+**[HarmonyX](https://github.com/BepInEx/HarmonyX)** (MIT), and
+**[Harmony](https://github.com/pardeike/Harmony)** underneath it, is what makes the
+translation possible without touching a single game file. Adding Italian to the language
+selector is one postfix on one property getter; the original method is left exactly as it
+was.
+
+**Draw Distance** wrote a game worth the effort, and shipped it with a `Language.IT` enum
+value and a `GetTextIt` method already in place — unused, but there. That accident of an
+unfinished feature is why Italian slots in as a real language rather than a hack over
+another one.
+
+And the uncredited translators of the official Italian *Coteries of New York*, whose
+terminology this borrows throughout so that a Kindred is a *Fratello* here for the same
+reason it is there.
+
 ## Licence
 
 The plugin source is free to reuse. The translated text is a derivative work of
