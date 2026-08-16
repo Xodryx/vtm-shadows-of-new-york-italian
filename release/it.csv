@@ -2259,6 +2259,111 @@
 123,121,en-us,Night5_Side3,,Non voglio restare qui un secondo di più. Me ne vado.
 123,122,en-us,Night5_Side3,,...
 123,123,en-us,Night5_Side3,,...
+124,1,en-us,MQ5_NightEnd,,Bene. È ora di andare da Qadir.
+124,2,en-us,MQ5_NightEnd,,Che gentile da parte sua fissare l’incontro nel posto più comodo per me.
+124,3,en-us,MQ5_NightEnd,Qadir_nopic,"D’Angelo, Hope, Tamika, Agathon..."
+124,4,en-us,MQ5_NightEnd,Qadir_nopic,Immagino sia meglio di niente. Ma nessuna prova? Davvero?
+124,5,en-us,MQ5_NightEnd,PlayerNoPic,"Onestamente, sembrava che qualcuno avesse già ripulito la roba più compromettente prima che arrivassi."
+124,6,en-us,MQ5_NightEnd,Qadir_nopic,Suona come gli Anarchici.  
+124,7,en-us,MQ5_NightEnd,PlayerNoPic,"Ci tornerò di sicuro a controllare quel posto, ma sento che mi servirebbe una specie di esperto che mi accompagni. Un investigatore navigato che mi insegni il mestiere. Qualcuno alto e affascinante, magari?"
+124,8,en-us,MQ5_NightEnd,Qadir_nopic,"Sì, se non ti spaventa un incidente diplomatico, vengo con te."
+124,9,en-us,MQ5_NightEnd,PlayerNoPic,Hai idee migliori?
+124,10,en-us,MQ5_NightEnd,Qadir_nopic,In realtà proprio questo biglietto me ne ha data una… Ma prima devo organizzarla. Ti farò sapere. 
+124,11,en-us,MQ5_NightEnd,PlayerNoPic,Conosci queste persone?
+124,12,en-us,MQ5_NightEnd,Qadir_nopic,"Ho avuto contatti di sfuggita con ciascuna di loro. Fa parte del lavoro, si sa."
+124,13,en-us,MQ5_NightEnd,PlayerNoPic,Immagino. Puoi darmi una mano con questa cosa? 
+124,14,en-us,MQ5_NightEnd,Qadir_nopic,"Il modo in cui l’affronterei io sarebbe: occuparsi di una persona della lista ogni notte, chiedere in giro su di lei, e vedere cosa sa se poi riesci a incontrarla."
+124,15,en-us,MQ5_NightEnd,PlayerNoPic,«Se» riesco a incontrarla?
+124,16,en-us,MQ5_NightEnd,Qadir_nopic,"Non sono particolarmente facili da rintracciare. Hanno sempre preferito restare un po’ fuori dai radar, ma di questi tempi… sono praticamente tutti nascosti, quando non scomparsi o morti."
+124,17,en-us,MQ5_NightEnd,PlayerNoPic,Che buffa coincidenza?
+124,18,en-us,MQ5_NightEnd,Qadir_nopic,Non è compito mio speculare.
+124,19,en-us,MQ5_NightEnd,,"In altre parole, sa qualcosa ma non è nella posizione di dirlo. "
+124,20,en-us,MQ5_NightEnd,,Immagino che lo scoprirò comunque... se riuscirò a incontrarli.
+124,21,en-us,MQ5_NightEnd,PlayerNoPic,E perché una notte per ciascuno? Non dovrei seguire ogni filo finché non siamo soddisfatti?
+124,22,en-us,MQ5_NightEnd,Qadir_nopic,In un mondo perfetto avresti tutto il tempo che ti serve. Ma questo non è un mondo perfetto. Cercheranno di forzare una soluzione al caso il prima possibile.
+124,23,en-us,MQ5_NightEnd,Qadir_nopic,"Sospetto che tra quattro notti, finite le Celebrazioni del Potere, ti chiederanno le tue conclusioni e sarà tutto lì."
+124,24,en-us,MQ5_NightEnd,PlayerNoPic,...Che schifo.
+124,25,en-us,MQ5_NightEnd,Qadir_nopic,"A essere brutalmente onesto, io non mi concentrerei sul risolvere l’omicidio. Mi concentrerei piuttosto sul non fare figuracce."
+124,26,en-us,MQ5_NightEnd,PlayerNoPic,...Che schifoooo.
+124,27,en-us,MQ5_NightEnd,Qadir_nopic,È in parte per questo che non volevo che ti coinvolgessero. Non potevi davvero pensare che Arturo ti avesse tirata dentro per bontà d’animo.
+124,28,en-us,MQ5_NightEnd,Qadir_nopic,Tutta la tua «indagine» è solo di facciata. Dovevi essere un’attrice inconsapevole. 
+124,29,en-us,MQ5_NightEnd,PlayerNoPic,...
+124,30,en-us,MQ5_NightEnd,Qadir_nopic,A cosa stai pensando?
+124,31,en-us,MQ5_NightEnd,,Tiro una boccata dalla sigaretta.
+124,32,en-us,MQ5_NightEnd,PlayerNoPic,Da dove comincio?
+124,33,en-us,MQ5_NightEnd,Qadir_nopic,Vieni con me. Si dà il caso che io sia qui fuori solo perché mi hanno ordinato di accompagnare Aisling a The Art Hole.
+124,34,en-us,MQ5_NightEnd,Qadir_nopic,E indovina come si chiama il suo protetto.
+124,35,en-us,MQ5_NightEnd,PlayerNoPic,Ohh. Quindi Agathon è lui?
+124,36,en-us,MQ5_NightEnd,Qadir_nopic,O era. Nessuno lo sa. È una faccenda complicata. Vedrai.
+124,37,en-us,MQ5_NightEnd,Qadir_nopic,"Ho i minuti contati, quindi muoviamoci. "
+124,38,en-us,MQ5_NightEnd,AislingShadows,"Come ho già detto a Qadir, e pure parecchie volte, non ho idea di cosa sia successo ad Agathon. "
+124,39,en-us,MQ5_NightEnd,,"La Cappella di Broadway, parte della Cappella dei Cinque Distretti, è il ritrovo abituale di Aisling in queste ultime notti. Ha fretta, e non è disposta a parlare."
+124,40,en-us,MQ5_NightEnd,Player,"Ha idea di che collegamento avesse con i Fratelli che rispondono ai nomi di Tamika, D’Angelo e Hope?"
+124,41,en-us,MQ5_NightEnd,AislingShadows,No. Mi ero imposta di mantenere il nostro rapporto strettamente professionale e non mi sono mai immischiata nei suoi affari personali… a meno che non influenzassero il lavoro. Ma è successo una volta sola.
+124,42,en-us,MQ5_NightEnd,QadirShadows,"Ah, sì. Il famigerato caso Juno. "
+124,43,en-us,MQ5_NightEnd,Julia_baseCross,Quel «caso Juno» potrebbe essere il motivo della sua scomparsa?
+124,44,en-us,MQ5_NightEnd,AislingShadows,"Ne dubito seriamente, per molte ragioni. Credo che il ragazzo abbia perso l’appetito per lo studio della magia del sangue e sia partito a cercare se stesso. "
+124,45,en-us,MQ5_NightEnd,AislingShadows,"È stato piuttosto scortese da parte sua non avvisarmi come si deve prima di andarsene. D’altra parte, questo mestiere non è particolarmente frequentato da gente con una perfetta padronanza del savoir-vivre. "
+124,46,en-us,MQ5_NightEnd,AislingShadows,"Spero proprio che la sua ricerca lo riporti esattamente al punto di partenza, a implorarmi di riprenderlo. Il ragazzo è di talento, e ho investito molto tempo nel formarlo."
+124,47,en-us,MQ5_NightEnd,AislingShadows,"Se non lo fa, be’, que sera, sera. Non ci perdo niente. "
+124,48,en-us,MQ5_NightEnd,Julia_doubtCross,Quindi non prende nemmeno in considerazione la possibilità che si sia messo nei guai?
+124,49,en-us,MQ5_NightEnd,QadirShadows,"A questa so rispondere io. Mentalità da ricercatrice. Non ritiene che valga la pena considerare seriamente lo scenario peggiore, e prende le cose come vengono."
+124,50,en-us,MQ5_NightEnd,AislingShadows,"Esattamente. Se, per esempio, gli scienziati del clima non operassero così, quasi tutti si sarebbero sparati un colpo in testa da un pezzo."
+124,51,en-us,MQ5_NightEnd,,Che pensiero allegro.
+124,52,en-us,MQ5_NightEnd,Player,Vorrei cercare nella Cappella tracce di dove sia finito Agathon.
+124,53,en-us,MQ5_NightEnd,AislingShadows,"Il nostro buon Sceriffo l’ha già fatto, tempo fa. Sprecheresti solo il tuo tempo. E il nostro, tra l’altro. Non avevi detto che Hellene ci aspetta, Qadir?"
+124,54,en-us,MQ5_NightEnd,QadirShadows,"Concedi alla ragazza quindici minuti, Aisling. Un minimo di supporto a un’indagine in corso. E poi ha una certa attitudine a trovare le cose che sfuggono a tutti gli altri."
+124,55,en-us,MQ5_NightEnd,AislingShadows,...Tsk.
+124,56,en-us,MQ5_NightEnd,AislingShadows,"Dieci minuti. E se provi a passare questa porta, o quella lassù, non posso garantire che uscirai di qui viva."
+124,57,en-us,MQ5_NightEnd,Player,"La ringrazio molto, Alto Reggente."
+124,58,en-us,MQ5_NightEnd,AislingShadows,Sbrigati e basta.
+124,59,en-us,MQ5_NightEnd,,...
+124,60,en-us,MQ5_NightEnd,,"Il mio tempo qui è praticamente scaduto, e non ho trovato niente di utile."
+124,61,en-us,MQ5_NightEnd,,Sembra che Agathon fosse completamente dedito al lavoro. Perfino i suoi alloggi personali sono spogli al massimo. Nessun tocco personale. Niente su cui basarmi.
+124,62,en-us,MQ5_NightEnd,,"È tutto ricerca, ricerca, ricerca. Sembra una noia mortale."
+124,63,en-us,MQ5_NightEnd,,"Concentrati, Julia. Cosa faresti se fossi uno Stregone maniaco del lavoro?"
+124,64,en-us,MQ5_NightEnd,,Dove lasceresti indizi su dove sei finito?
+124,65,en-us,MQ5_NightEnd,,Cosa faresti se ti trovassi in pericolo di vita e volessi che Dakota lo sapesse?
+124,66,en-us,MQ5_NightEnd,MQ4_Ghost_,...È allentato.
+124,67,en-us,MQ5_NightEnd,,Era...
+124,68,en-us,MQ5_NightEnd,,...Sì.
+124,69,en-us,MQ5_NightEnd,,"...Era rivolto da questa parte, eh."
+124,70,en-us,MQ5_NightEnd,,"Mi avvicino al punto dove ho visto comparire la sagoma d’ombra. È un muro di mattoni, e…"
+124,71,en-us,MQ5_NightEnd,,...uno dei mattoni è allentato.
+124,72,en-us,MQ5_NightEnd,,"Qadir e Aisling sono in un’altra stanza in questo momento, ancora a discutere della festa."
+124,73,en-us,MQ5_NightEnd,Qadir_nopic,Non è così grave. Dovresti imparare a trovare il lato comico nelle piccole cose.
+124,74,en-us,MQ5_NightEnd,Aisling_nopic,"È umiliante, Sceriffo. È tutto qui."
+124,75,en-us,MQ5_NightEnd,,"È il momento. Smuovo il mattone finché non riesco ad afferrarlo. Poi lo estraggo nel modo più silenzioso possibile, rivelando un buco nel muro. "
+124,76,en-us,MQ5_NightEnd,,Dentro c’è un libro. Lo sfoglio in fretta.
+124,77,en-us,MQ5_NightEnd,,Il diario di Agathon. Bingo.
+124,78,en-us,MQ5_NightEnd,,…
+124,79,en-us,MQ5_NightEnd,AislingShadows,"I tuoi dieci minuti sono scaduti. E anche i quindici, a dire il vero. Hai finito qui?"
+124,80,en-us,MQ5_NightEnd,Player,"Se potessi avere solo altri cinque minuti… ho ancora la sensazione che potrei trovare qualcosa, se guardassi un altro po’."
+124,81,en-us,MQ5_NightEnd,QadirShadows,"Assolutamente no, Julia. Ora di andare."
+124,82,en-us,MQ5_NightEnd,Julia_angry,...Va bene.
+124,83,en-us,MQ5_NightEnd,,"Rimetto a posto il mattone e mi porto via il diario. Sembrava proprio che Agathon l’avesse lasciato perché qualcuno nella cappella lo trovasse, presumibilmente l’Alto Reggente..."
+124,84,en-us,MQ5_NightEnd,,...ma per ora la mia indagine ha la precedenza.
+124,85,en-us,MQ5_NightEnd,,Saluto Qadir e Aisling e comincio a cercare un posto appartato per leggere il diario. 
+124,86,en-us,MQ5_NightEnd,,Questo posto qui dovrebbe essere abbastanza appartato per sfogliare il diario in pace.
+124,87,en-us,MQ5_NightEnd,,"Comincio a scorrere velocemente il libro, isolando frasi e paragrafi che sembrano interessanti, cercando di farmi un’idea generale del tipo di persona che era Agathon."
+124,88,en-us,MQ5_NightEnd,,O che è. Spero.
+124,331,Menu Text en-us,MQ5_NightEnd,PlayerNoPic,Sono incazzata.
+124,332,en-us,MQ5_NightEnd,PlayerNoPic,"Pensieri, pensieri. Sono arrabbiata, cosa ti aspetti?"
+124,333,en-us,MQ5_NightEnd,Qadir_nopic,"Qualcosa di diverso dal solito, immagino."
+124,334,en-us,MQ5_NightEnd,PlayerNoPic,"I miei livelli di rabbia sono sopra il solito, immagino."
+124,335,en-us,MQ5_NightEnd,Qadir_nopic,"È una brutta situazione, ma non senza un possibile lieto fine all’orizzonte… quindi spero che tu riesca a incanalare quella rabbia in qualcosa di produttivo."
+124,336,en-us,MQ5_NightEnd,,Posso provarci.
+124,346,Menu Text en-us,MQ5_NightEnd,Player,A proposito di quella Juno...
+124,359,en-us,MQ5_NightEnd,,"Se non fosse per la lealtà che provo verso Qadir, Samira e il mio sire – Dio sa che il ricordo del mio Abbraccio ha ancora troppa presa su di me – avrei ordito una vendetta contro questi stronzi da un pezzo."
+124,361,en-us,MQ5_NightEnd,,"Ma diciamocelo: anche se pensassi che mentire a Mia ieri sulla mia simpatia per gli Anarchici di New York possa giovarmi, probabilmente non lo farei comunque. Mi sembrerebbe un tradimento."
+124,362,en-us,MQ5_NightEnd,,C’è qualcosa negli ideali della Camarilla che ancora mi suona vero. La fede nell’eccellenza e nella nobiltà individuali. O il modo in cui Tradizioni collaudate possono ancorarci a questa nuova esistenza terrificante.
+124,363,en-us,MQ5_NightEnd,,"Ma stare dal lato di chi la subisce, questa schifosa struttura neofeudale… e vedere in prima persona come le élite giochino comunque con regole tutte loro."
+124,364,en-us,MQ5_NightEnd,,Non posso fare a meno di pensare che là fuori debba esserci qualcosa di meglio. Il tipo di Camarilla che meriterebbe davvero la lealtà cieca di Fratelli come Qadir.
+124,368,en-us,MQ5_NightEnd,PlayerNoPic,"Fai strada, Lupo Cattivo."
+124,371,en-us,MQ5_NightEnd,Qadir_nopic,Non hai ancora finito con questa storia?
+124,372,en-us,MQ5_NightEnd,PlayerNoPic,Non finché continua a darti fastidio.
+124,373,en-us,MQ5_NightEnd,Qadir_nopic,...Ti lascio indietro se non stai al passo.
+124,428,en-us,MQ5_NightEnd,,...
 125,11,en-us,Night4_Side1,,Ma cosa mi è passato per la testa?
 125,12,en-us,Night4_Side1,,"Cioè, anche gli introversi più disperati desiderano compagnia ogni tanto, che sia quella di qualcuno che conoscono o di un perfetto sconosciuto che si rivela l’anima gemella cercata da sempre."
 125,13,en-us,Night4_Side1,,Perfino per una nevrotica come me c’è qualcosa di affascinante nell’idea di barattare per un attimo il proprio individualismo con un posto nella folla.
