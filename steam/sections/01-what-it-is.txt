@@ -1,0 +1,5 @@
+Una traduzione italiana completa di Shadows of New York: tutte le 5699 battute di dialogo, il dizionario in gioco, i nomi dei personaggi e i testi delle quest.
+
+L'italiano viene aggiunto come [b]quinta lingua nel menu delle opzioni[/b], accanto a inglese, francese, portoghese e russo. Non sostituisce nessuna lingua esistente.
+
+[b]Nessun file del gioco viene modificato.[/b] È un plugin che carica il testo in memoria all'avvio: per disinstallarlo basta cancellare una cartella, e i salvataggi non vengono toccati in nessun momento.

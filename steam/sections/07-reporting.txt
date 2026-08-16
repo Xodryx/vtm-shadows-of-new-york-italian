@@ -1,0 +1,5 @@
+Le segnalazioni sono l'unico modo in cui questi errori vengono corretti.
+
+[url=https://github.com/Xodryx/vtm-shadows-of-new-york-italian/issues]Segnalazioni su GitHub[/url] — oppure scrivete nei commenti qui sotto.
+
+Se trovate una frase sbagliata, riportate [b]il testo italiano così come appare a schermo[/b]. Bastano poche parole: servono a individuare la riga esatta tra 5699.

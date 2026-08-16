@@ -1,0 +1,5 @@
+La terminologia di gioco non è inventata. È ripresa dalla traduzione italiana ufficiale di [i]Coteries of New York[/i], lo stesso studio e la stessa ambientazione, ed è verificata automaticamente: [i]Kindred[/i] è [b]Fratelli[/b], [i]Final Death[/i] è [b]Morte Ultima[/b], [i]Kine[/i] è [b]vacche[/b].
+
+[b]Avvertenza importante.[/b] Il testo italiano e il plugin sono stati scritti da un'intelligenza artificiale sotto la direzione di una persona, che ha rivisto il lavoro riga per riga. Nessuno ha però ancora giocato il gioco per intero in italiano per rileggerlo. Consideratela una prima versione funzionante, non una localizzazione rifinita.
+
+In pratica: la terminologia dovrebbe essere affidabile, mentre gli errori staranno soprattutto nel tono e nel registro, e qualche riga potrebbe uscire dal riquadro.

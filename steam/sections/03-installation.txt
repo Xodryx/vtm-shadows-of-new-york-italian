@@ -1,0 +1,24 @@
+Tutti i passaggi avvengono nella cartella che contiene [i]VtM Shadows of New York.exe[/i]. Su un'installazione Steam predefinita è:
+
+[code]C:\Program Files (x86)\Steam\steamapps\common\Vampire The Masquerade - Shadows of New York[/code]
+
+Se la vostra libreria Steam sta su un altro disco il percorso è diverso. Invece di cercarla, fatevela aprire da Steam: [b]tasto destro sul gioco nella libreria → Gestisci → Sfoglia i file locali[/b].
+
+[olist]
+[*][b]Installate BepInEx.[/b] Scompattate [i]BepInEx_win_x64_5.4.*.zip[/i] nella cartella del gioco, in modo che [i]winhttp.dll[/i] finisca accanto a [i]VtM Shadows of New York.exe[/i].
+[*][b]Avviate il gioco una volta e chiudetelo.[/b] Serve a BepInEx per creare le sue cartelle. Al primo avvio non vedrete ancora nulla di diverso: è normale.
+[*][b]Scompattate la traduzione nella stessa cartella.[/b] L'archivio contiene già il percorso completo, quindi i file si sistemano da soli. Se Windows chiede di unire le cartelle, confermate.
+[*][b]Avviate il gioco, aprite le opzioni e scegliete Italiano.[/b]
+[/olist]
+
+A installazione riuscita la cartella si presenta così:
+
+[code]Vampire The Masquerade - Shadows of New York\
+├─ winhttp.dll
+├─ BepInEx\
+│  └─ plugins\
+│     └─ SoNY-ITA\
+│        ├─ SoNY.Ita.dll
+│        ├─ it.csv
+│        └─ ui_it.csv
+└─ VtM Shadows of New York.exe[/code]
