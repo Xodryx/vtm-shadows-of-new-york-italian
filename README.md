@@ -11,9 +11,12 @@ yet been proofread in-game — corrections are welcome.
 
 ## Installing
 
+**[⬇ Download the latest release](../../releases/latest)** — one zip, nothing else from
+this repository is needed to play.
+
 1. Install [BepInEx 5.4.x (x64)](https://github.com/BepInEx/BepInEx/releases) into the
    game folder and run the game once so it generates its directories.
-2. Copy everything from [`release/`](release/) into
+2. Unzip the release into the game folder, so the files land in
    `BepInEx/plugins/SoNY-ITA/`.
 3. Launch the game and pick **Italiano** in the options.
 

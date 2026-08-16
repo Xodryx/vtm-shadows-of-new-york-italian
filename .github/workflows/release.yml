@@ -50,4 +50,4 @@ jobs:
             `BepInEx/plugins/SoNY-ITA/`, then pick **Italiano** in the options.
 
             Requires BepInEx 5.4.x (x64). ${{ steps.progress.outputs.lines }} dialogue
-            lines translated; anything not yet translated stays in English.
+            lines translated; any line the plugin cannot resolve stays in English.
