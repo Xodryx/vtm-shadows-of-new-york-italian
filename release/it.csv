@@ -1362,6 +1362,8 @@
 119,59,en-us,MQ4_NightEnd,,Eh.
 119,60,en-us,MQ4_NightEnd,PlayerNoPic,Aspetta. Non dirmi che…
 119,61,Menu Text en-us,MQ4_NightEnd,PlayerNoPic,Andiamo a ucciderlo?
+119,62,Menu Text en-us,MQ4_NightEnd,PlayerNoPic,È morto?
+119,63,Menu Text en-us,MQ4_NightEnd,PlayerNoPic,Se ne sono liberati gli Anarchici?
 119,64,en-us,MQ4_NightEnd,PlayerNoPic,Quindi mi stai dicendo che stiamo andando nel suo ufficio… per ucciderlo?
 119,65,en-us,MQ4_NightEnd,Qadir_nopic,Cosa? Ma... Cosa? No. Assolutamente no.
 119,66,en-us,MQ4_NightEnd,,Pare che abbia sbagliato bersaglio. Di parecchio.
@@ -1370,6 +1372,11 @@
 119,69,en-us,MQ4_NightEnd,Qadir_nopic,...non ce ne sarebbe alcun bisogno. Quell’uomo ha cessato di esistere.
 119,70,en-us,MQ4_NightEnd,PlayerNoPic,Aspetta. È morto? Più morto di morto?
 119,71,en-us,MQ4_NightEnd,Qadir_nopic,Al 99% quel bastardo ha incontrato la sua Morte Ultima.
+119,72,en-us,MQ4_NightEnd,PlayerNoPic,È morto? Più morto di morto?
+119,73,en-us,MQ4_NightEnd,PlayerNoPic,Se ne sono liberati gli Anarchici?
+119,74,en-us,MQ4_NightEnd,,Un ghigno malvagio.
+119,75,en-us,MQ4_NightEnd,Qadir_nopic,"Forse. Forse no. Non conosco i dettagli, ma so per certo che non c’è più. "
+119,76,en-us,MQ4_NightEnd,PlayerNoPic,Wow. Non c’è più nel senso che è morto? Più morto di morto?
 119,77,en-us,MQ4_NightEnd,PlayerNoPic,Come fai a saperlo?
 119,78,en-us,MQ4_NightEnd,Qadir_nopic,Abbiamo fonti affidabili nelle cerchie interne degli Anarchici. Pare che stia per scatenarsi l’inferno. C’è una riunione d’emergenza a The Art Hole.
 119,79,en-us,MQ4_NightEnd,PlayerNoPic,Cristo. E porti me con te? Perché?
@@ -1548,8 +1555,28 @@
 119,252,en-us,MQ4_NightEnd,AddisonServant,È come dice lei. Osserverò con grande interesse il modo in cui gestirà la situazione.
 119,253,en-us,MQ4_NightEnd,ThomasArturoShadows,"Bene, allora, signorina Sowinski. Pare che abbia la sua occasione per il grande salto."
 119,254,Menu Text en-us,MQ4_NightEnd,Player,Ditemi solo cosa fare.
+119,255,Menu Text en-us,MQ4_NightEnd,Player,Nessuno ha chiesto a me.
+119,256,en-us,MQ4_NightEnd,Player,Ho delle condizioni.
 119,257,en-us,MQ4_NightEnd,Player,...Sì. Indicatemi la direzione giusta e ditemi cosa fare.
 119,258,en-us,MQ4_NightEnd,,"Inutile fingere che io abbia una scelta, no?"
+119,259,en-us,MQ4_NightEnd,Player,E come mai nessuno mi ha chiesto se sono d’accordo?
+119,260,en-us,MQ4_NightEnd,QadirShadowsMasked,Credi davvero di essere nella posizione di rifiutare?
+119,261,en-us,MQ4_NightEnd,,"Guardo lui, guardo Arturo, guardo il Principe e so la risposta. "
+119,262,en-us,MQ4_NightEnd,,"Posso rifiutare, certo. L’unico problema è che se lo faccio sono completamente fottuta."
+119,263,en-us,MQ4_NightEnd,Player,Era una domanda retorica. Come quella che il signor Arturo si è dimenticato di fare. Credo solo che sarebbe stato educato da parte sua fingere che il mio consenso gli importasse.
+119,264,en-us,MQ4_NightEnd,,Gli occhi di Arturo si stringono. Qadir cerca di trattenere un sorrisetto furbo che gli sale sulle labbra.
+119,265,en-us,MQ4_NightEnd,QadirShadowsMasked,"Credo che la ragazza abbia ragione. Come ha detto lei stesso una volta, signor Arturo. È l’etichetta che ci distingue dagli animali."
+119,266,en-us,MQ4_NightEnd,ThomasArturoShadows,"E va bene, allora. È d’accordo, signorina Sowinski?"
+119,267,en-us,MQ4_NightEnd,,No. Andate all’inferno.
+119,268,en-us,MQ4_NightEnd,Player,Certamente. Indicatemi solo la direzione giusta e ditemi cosa fare.
+119,269,en-us,MQ4_NightEnd,Player,"«Grande salto» da solo non vuol dire granché. Io vedo solo una grande responsabilità messa sulle mie spalle. Cosa ci guadagno, esattamente?"
+119,270,en-us,MQ4_NightEnd,,"Anche se di solito salterei al volo sull’occasione di rendermi utile, faccio la disinvolta."
+119,271,en-us,MQ4_NightEnd,,"All’improvviso non solo tutti riconoscono la mia esistenza, ma credono che io sia in grado di risolvere un caso criminale delicato? Se una cosa sembra troppo bella per essere vera…"
+119,272,en-us,MQ4_NightEnd,ThomasArturoShadows,"Non scendiamo nel volgare, suvvia. Ci guadagna il miglioramento della sua posizione a Corte."
+119,273,en-us,MQ4_NightEnd,HelleneShadows,Sì. Potremo discutere i dettagli in base ai suoi risultati.
+119,274,en-us,MQ4_NightEnd,,"...già, non hanno intenzione di darmi un cazzo. Ci mancherebbe."
+119,275,en-us,MQ4_NightEnd,,"Non è che possa rifiutare, ma è una cosa di cui devo tenere conto mentre mi occupo di questo caso. Mi serve una posizione negoziale, se voglio cavarne qualcosa."
+119,276,en-us,MQ4_NightEnd,Player,"...Sì, lo farò. Indicatemi solo la direzione giusta e ditemi cosa fare."
 119,277,en-us,MQ4_NightEnd,ThomasArturoShadowsMasked,"Eccellente. Ci resta una sola questione, sulla quale spero possiamo trovarci d’accordo."
 119,278,en-us,MQ4_NightEnd,,Il Principe Panhard fa un cenno a qualcuno con la mano. La figura emerge da dietro l’angolo.
 119,279,en-us,MQ4_NightEnd,KatherineWiese,Buonasera. 
@@ -1633,11 +1660,15 @@
 119,357,en-us,MQ4_NightEnd,,"Non so cosa dire. Mi sta provocando, o…"
 119,358,en-us,MQ4_NightEnd,KatherineWiese,Mia dovrebbe arrivare da un momento all’altro. Hai tempo per un’altra domanda.
 119,359,Menu Text en-us,MQ4_NightEnd,Player,Cosa la rende importante?
+119,360,Menu Text en-us,MQ4_NightEnd,Player,Chi è Mia?
 119,361,en-us,MQ4_NightEnd,Julia_doubtCross,Cosa fa per avere tanto peso in questa città?
 119,362,en-us,MQ4_NightEnd,KatherineWiese,Ho il mestiere più bello del mondo... e mi sono assicurata che nessuno lo faccia meglio di me.
 119,363,en-us,MQ4_NightEnd,Julia_baseCross,E questo mestiere sarebbe...
 119,364,en-us,MQ4_NightEnd,KatherineWiese,La socialite.
 119,365,en-us,MQ4_NightEnd,KatherineWiese,E quella era la tua ultima domanda. Le altre rivolgile a lei.
+119,366,en-us,MQ4_NightEnd,Julia_doubtCross,Chi è Mia?
+119,367,en-us,MQ4_NightEnd,,"Scuote la testa, mezza delusa e mezza divertita."
+119,368,en-us,MQ4_NightEnd,KatherineWiese,Davvero? Che noia. Guarda dietro di te. Ecco la tua risposta. 
 119,369,en-us,MQ4_NightEnd,,Una donna più o meno della mia età sbuca dall’angolo della strada.
 119,370,en-us,MQ4_NightEnd,MiaShadows,...
 119,371,en-us,MQ4_NightEnd,,"Non l’ho mai incontrata, ma se dovessi descriverla in due parole basandomi solo sulla sua aura, direi «perennemente incazzata». Ancora più dell’Anarchico medio."
@@ -1707,15 +1738,126 @@
 119,435,en-us,MQ4_NightEnd,,"L’arredamento della stanza è piuttosto scarno, quindi non ci sono molti punti d’interesse che possano illuminare il caso. Comincio a innervosirmi."
 119,436,en-us,MQ4_NightEnd,,Indico il quadro alla parete.
 119,437,en-us,MQ4_NightEnd,Julia_angry,Ovviamente non hai idea di chi sia.
+119,438,en-us,MQ4_NightEnd,MiaShadows,"Un antenato di Callihan, immagino?"
+119,439,en-us,MQ4_NightEnd,,Sono a corto di idee. Tutto quello che guardo sembra un altro vicolo cieco.
+119,440,en-us,MQ4_NightEnd,,Sono frustrata. Mi sembra di aver fallito questa indagine prima ancora che cominciasse. Ci dev’essere qualcos’altro.
+119,441,en-us,MQ4_NightEnd,,"Comincio a girare per la stanza, cercando di trovare un solo indizio. Mia si limita a guardarmi con indifferenza."
+119,442,en-us,MQ4_NightEnd,,Dammi qualcosa.
+119,443,en-us,MQ4_NightEnd,,"Qualcosa, maledizione."
+119,444,en-us,MQ4_NightEnd,,Qualcosa.
+119,445,en-us,MQ4_NightEnd,,Qual...
+119,446,en-us,MQ4_NightEnd,MQ4_Ghost_,...
+119,447,en-us,MQ4_NightEnd,,"Un’ombra lampeggia dentro e fuori dall’esistenza, vicino ai resti di Callihan."
+119,448,en-us,MQ4_NightEnd,,Mi blocco sul posto. 
+119,449,en-us,MQ4_NightEnd,MiaShadows,Hai finito qui?
+119,450,en-us,MQ4_NightEnd,,Non sembra che Mia l’abbia notata.  
+119,451,en-us,MQ4_NightEnd,Player,Dammi solo un altro momento.
+119,452,en-us,MQ4_NightEnd,,Borbotta sottovoce e torna a messaggiare con qualcuno sul telefono.
+119,453,en-us,MQ4_NightEnd,,"Appena lo fa, l’ombra ricompare."
+119,454,en-us,MQ4_NightEnd,MQ4_Ghost_,...
+119,455,en-us,MQ4_NightEnd,,"Ancora una volta, appare e scompare. Ci… ci potrebbe essere qualcosa lì?"
+119,456,en-us,MQ4_NightEnd,,Mi avvicino agli abiti e comincio a frugarli in cerca di un indizio. Magari si sono persi qualcosa…
+119,457,en-us,MQ4_NightEnd,MiaShadows,"Cominci a disperarti, eh."
+119,458,en-us,MQ4_NightEnd,Player,Sono solo scrupolosa.
+119,459,en-us,MQ4_NightEnd,MiaShadows,Quel bastardo l’abbiamo perquisito tipo tre volte. Non aveva niente di interessante addosso…
+119,460,en-us,MQ4_NightEnd,Player,E questo?
+119,461,en-us,MQ4_NightEnd,,"Un bigliettino, quasi invisibile, che sembra una lista della spesa, è infilato in fondo a uno strappo quasi impercettibile nel tessuto."
+119,462,en-us,MQ4_NightEnd,,Lo tiro fuori e lo mostro a Mia.
+119,463,en-us,MQ4_NightEnd,MiaShadows,"Eh. Non ce l’avrai messo tu, vero?"
+119,464,en-us,MQ4_NightEnd,Player,No. Tu?
+119,465,en-us,MQ4_NightEnd,MiaShadows,Levati. Cosa c’è scritto?
+119,466,en-us,MQ4_NightEnd,Player,È un elenco di quattro nomi. «D’Angelo. Hope. Agathon. Tamika.»
+119,467,en-us,MQ4_NightEnd,MiaShadows,Mmh.
+119,468,en-us,MQ4_NightEnd,Player,Hai idea di cosa significhi?
+119,469,en-us,MQ4_NightEnd,MiaShadows,Boh.
+119,470,en-us,MQ4_NightEnd,,"Sta mentendo, ma non m’importa. Domani notte incontrerò Qadir e gli chiederò di aiutarmi a capirci qualcosa."
+119,471,en-us,MQ4_NightEnd,Player,Direi che qui ho finito.
+119,472,en-us,MQ4_NightEnd,MiaShadows,Che la porta non ti sbatta sul culo mentre esci.
+119,473,en-us,MQ4_NightEnd,,Immagino che mi veda solo come un’agente nemica. 
+119,474,en-us,MQ4_NightEnd,Player,Quando potrò incontrare Torque?
+119,477,en-us,MQ4_NightEnd,,"Si sta facendo tardi. O presto, dipende da come la si guarda. Appena lascio l’ufficio di Callihan vado dritta all’appartamento di Dakota."
+119,478,en-us,MQ4_NightEnd,,"Provo a sgattaiolare in camera mia, ma lei è sveglia e mi aspetta."
+119,479,en-us,MQ4_NightEnd,Dakota,Com’è andata la notte?
+119,480,en-us,MQ4_NightEnd,,Merda.
+119,481,en-us,MQ4_NightEnd,Julia_angry,Domani. 
+119,482,en-us,MQ4_NightEnd,Dakota,Cos’è successo? Sembri uno straccio.
+119,483,en-us,MQ4_NightEnd,Player,Domani. Te lo prometto.
+119,484,en-us,MQ4_NightEnd,Dakota,Ma sono preoccupata.
+119,485,en-us,MQ4_NightEnd,Player,Non esserlo. Domani.
+119,486,en-us,MQ4_NightEnd,,"Mi rivolge uno sguardo preoccupato, poi chiude gli occhi, lascia cadere le spalle e aggrotta la fronte."
+119,487,en-us,MQ4_NightEnd,Dakota,...va bene.
+119,488,en-us,MQ4_NightEnd,Player,Sei la migliore.
+119,489,en-us,MQ4_NightEnd,,Raggiungo la mia stanza buia pesta e mi butto sul letto.
+119,490,en-us,MQ4_NightEnd,,Le responsabilità. La posta in gioco. Il modo in cui mi sento sempre troppo lenta a reagire come si deve in queste situazioni.
+119,491,en-us,MQ4_NightEnd,,Non voglio pensare. Voglio spegnere il cervello. Voglio andare alla deriva nel vuoto.
+119,492,en-us,MQ4_NightEnd,,Nel vuoto. Nel vuoto. Nel vuoto.
 119,493,en-us,MQ4_NightEnd,,Ancora una volta mi torna in mente un vecchio stronzo convinto di poter governare il mondo.
 119,494,en-us,MQ4_NightEnd,,"Be’, pare che il mondo se lo sia lasciato alle spalle."
+119,495,en-us,MQ4_NightEnd,MiaShadows,"Se, e sarebbe un grosso «se», accetterà di vederti a quattr’occhi, te lo farà sapere Katherine. "
+119,496,en-us,MQ4_NightEnd,MiaShadows,Probabilmente comunque non si farà vedere da un cagnolino fedele della Camarilla come te senza la sua supervisione. 
+119,497,en-us,MQ4_NightEnd,,"Un cagnolino della Camarilla, eh."
+119,498,en-us,MQ4_NightEnd,,"È una mossa rischiosa, ovvio, e potrebbe ritorcermisi contro… ma forse mi converrebbe mettere in dubbio la mia fedeltà alla Corte. "
+119,499,Menu Text en-us,MQ4_NightEnd,Player,Un cagnolino della Camarilla? Non direi.
+119,500,Menu Text en-us,MQ4_NightEnd,Player,(No. Non ne vale la pena.)
+119,501,en-us,MQ4_NightEnd,Player,Un cagnolino della Camarilla? Ma per favore.
+119,502,en-us,MQ4_NightEnd,MiaShadows,"Be’, non lo sei?"
+119,503,en-us,MQ4_NightEnd,Player,"Fidati, non sono il tipo che morde la mano che la nutre… ma il passatempo preferito della Corte è tenermi affamata."
+119,504,en-us,MQ4_NightEnd,MiaShadows,"Ah, quindi è così, eh."
+119,505,en-us,MQ4_NightEnd,Player,Già.
+119,506,en-us,MQ4_NightEnd,,Mi studia con attenzione.
+119,507,en-us,MQ4_NightEnd,MiaShadows,"Me lo… terrò a mente, a seconda di come si mette la situazione."
+119,508,en-us,MQ4_NightEnd,Player,"Bene. Nel frattempo, buona notte."
+119,509,en-us,MQ4_NightEnd,MiaShadows,Anche a te.
+119,510,en-us,MQ4_NightEnd,,"Ehh. Giocare su due tavoli suona come una ricetta per i guai, troppo rischioso e stressante. Passo."
+119,511,en-us,MQ4_NightEnd,Player,"Capisco. Be’, buona notte."
 119,513,en-us,MQ4_NightEnd,QadirShadows,...
 119,514,en-us,MQ4_NightEnd,Julia_doubtCross,"Mi darai un vestito meraviglioso e mi accompagnerai alla festa? Oh, ma è già passata mezzanotte!"
+119,515,Menu Text en-us,MQ4_NightEnd,Julia_baseCross,...lupo cattivo?
+119,516,en-us,MQ4_NightEnd,Julia_baseCross,Attenti tutti… È arrivato il Lupo Cattivo. Soffierà e soffierà e la nostra casa abbatterà.
+119,517,en-us,MQ4_NightEnd,QadirShadows,...
+119,518,en-us,MQ4_NightEnd,Julia_doubtCross,"Perché mi pedini, Lupo? Sappi che non casco più nel travestimento da nonna."
+119,519,Menu Text en-us,MQ4_NightEnd,Julia_baseCross,...Vin Diesel?
+119,520,en-us,MQ4_NightEnd,Julia_baseCross,"Pare che le mie preghiere siano state esaudite. È arrivato Vin Diesel in persona, pronto a portarmi via da questo posto orrendo sulla sua scintillante Dodge Charger."
+119,521,en-us,MQ4_NightEnd,QadirShadows,...
+119,522,en-us,MQ4_NightEnd,Julia_doubtCross,Michelle Rodriguez è di nuovo nei guai? Hai fatto pace con The Rock? Avremo giustizia per Han? Andiamo a una gara? Mi insegnerai a vivere la vita un quarto di miglio alla volta?
+119,523,en-us,MQ4_NightEnd,PlayerNoPic,Un’alleanza inaspettata tra il Lupo Cattivo e la povera Cappuccetto Rosso.
+119,524,en-us,MQ4_NightEnd,PlayerNoPic,"Come sempre, il mio personalissimo Vin Diesel si prende cura della familia."
 119,525,Menu Text en-us,MQ4_NightEnd,Player,Buonasera...?
+119,526,Menu Text en-us,MQ4_NightEnd,Player,Temo di sì.
+119,527,en-us,MQ4_NightEnd,Player,Temo di sì.
+119,528,Menu Text en-us,MQ4_NightEnd,Player,(Lascia parlare Qadir.)
+119,530,en-us,MQ4_NightEnd,,Do una gomitata a Qadir perché prenda lui la parola.
 119,531,Menu Text en-us,MQ4_NightEnd,Player,...è corretto.
+119,532,Menu Text en-us,MQ4_NightEnd,Player,...e allora?
+119,533,en-us,MQ4_NightEnd,Julia_baseCross,"Sì, ehm, ma… e allora?"
+119,534,Menu Text en-us,MQ4_NightEnd,Player,...è stato tanto tempo fa.
+119,535,en-us,MQ4_NightEnd,Player,Ehm… è stato tanto tempo fa. In una vita in cui non voglio tornare.
+119,536,en-us,MQ4_NightEnd,ThomasArturoShadows,Capisco. Eppure...
 119,537,Menu Text en-us,MQ4_NightEnd,Player,Lei che bugie si racconta?
 119,538,en-us,MQ4_NightEnd,Player,Eccome. 
+119,539,Menu Text en-us,MQ4_NightEnd,Player,Ieri ha detto che...
+119,540,en-us,MQ4_NightEnd,Julia_doubtCross,"A proposito di bugie... Lei sembra sincera, ma ieri mi ha detto di non avere fretta."
+119,541,en-us,MQ4_NightEnd,KatherineWiese,"E lo confermo. Fa’ come dico, non come faccio. È il miglior consiglio che posso darti."
+119,542,en-us,MQ4_NightEnd,Player,Ho decisamente bisogno di più consigli di così.
+119,543,Menu Text en-us,MQ4_NightEnd,Player,Mi serve una guida.
+119,544,en-us,MQ4_NightEnd,Player,"Non c’è tempo per filosofeggiare. Mi serve aiuto, adesso."
+119,545,Menu Text en-us,MQ4_NightEnd,Player,Perché si nasconde il viso?
+119,546,en-us,MQ4_NightEnd,Player,"Spero di non essere scortese, ma ehm… C’è un motivo per cui tiene il viso nascosto?"
+119,547,en-us,MQ4_NightEnd,KatherineWiese,…
+119,548,en-us,MQ4_NightEnd,KatherineWiese,"Sì, un motivo c’è, e sì, sei scortese."
+119,549,en-us,MQ4_NightEnd,Julia_baseCross,"Scusi, è solo... curiosità."
+119,550,en-us,MQ4_NightEnd,KatherineWiese,"Capisco, ma… Diciamo che preferisco che ognuno si faccia le proprie teorie."
+119,551,en-us,MQ4_NightEnd,KatherineWiese,"Più storie inventeranno, meno sarà rilevante la verità. "
+119,552,en-us,MQ4_NightEnd,KatherineWiese,"Comunque, ecco Mia."
 119,553,en-us,MQ4_NightEnd,,Gioco un po’ con la serratura.
+119,554,Menu Text en-us,MQ4_NightEnd,Player,...
+119,555,Menu Text en-us,MQ4_NightEnd,Player,Non aver paura...
+119,556,Menu Text en-us,MQ4_NightEnd,Player,Stai provando a... aiutarmi?
+119,557,en-us,MQ4_NightEnd,,"Ho paura di parlare, per non spaventare… qualunque cosa o chiunque fosse."
+119,558,en-us,MQ4_NightEnd,Julia_doubtCross,Non aver paura di me...
+119,559,en-us,MQ4_NightEnd,MiaShadows,L’unica cosa di cui ho paura è che tu mi faccia perdere troppo tempo.
+119,560,en-us,MQ4_NightEnd,Julia_doubtCross,Stai provando a… aiutarmi?
+119,561,en-us,MQ4_NightEnd,MiaShadows,"Ma cosa stai borbottando? Nel caso ti fosse sfuggito, la tua setta non mi piace granché."
 120,1,en-us,MQ5_NightStart,Dakota_nopic,Te l’ho sempre detto che avresti sfondato.
 120,2,en-us,MQ5_NightStart,PlayerNoPic,Ma per favore. Questi stronzi mi usano solo come pedina in una stupida partita a scacchi quadridimensionale.
 120,3,en-us,MQ5_NightStart,Dakota_nopic,Invece di tenerti proprio fuori dalla scacchiera. Non fare la guastafeste col bicchiere mezzo vuoto.
