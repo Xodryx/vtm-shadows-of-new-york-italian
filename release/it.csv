@@ -2416,26 +2416,56 @@
 124,155,en-us,MQ5_NightEnd,,Prendo la piuma che era nel diario e la intingo nella mia vitae.
 124,156,en-us,MQ5_NightEnd,,Poi scrivo…
 124,157,Menu Text en-us,MQ5_NightEnd,Player,«Compassione.»
+124,158,Menu Text en-us,MQ5_NightEnd,Player,«Confusione.»
+124,159,Menu Text en-us,MQ5_NightEnd,Player,«Disprezzo.»
 124,160,en-us,MQ5_NightEnd,Julia_baseCig,Proviamo con «compassione».
 124,161,en-us,MQ5_NightEnd,AgathonShadows,"Può chiamarmi con tutti i nomi che vuole. Proverò comunque pietà per lei, vecchio. "
 124,162,en-us,MQ5_NightEnd,BossCallihan,"Be’, che ge---rosità la tua."
 124,163,en-us,MQ5_NightEnd,AgathonShadows,"Vedo cosa è. In un certo senso, la compassione da parte di uno come me è probabilmente il peggior regalo che potesse ricevere."
 124,164,en-us,MQ5_NightEnd,BossCallihan,Eh. Ehehehehe---ehehe.
 124,165,en-us,MQ5_NightEnd,AgathonShadows,(Sensazione di aver fatto centro.)
+124,166,en-us,MQ5_NightEnd,Julia_baseCig,Proviamo con «confusione».
+124,167,en-us,MQ5_NightEnd,AgathonShadows,"Capisco perché ha accettato di vedermi, vecchio. Ma non capisco perché si tormenti per quella scelta davanti a me. La fa sembrare debole. Nevrotico. Indeciso."
+124,168,en-us,MQ5_NightEnd,BossCallihan,"Ho un mio codice d’onore, [30;succhiatore]. Non che tu possa cap---o."
+124,169,en-us,MQ5_NightEnd,AgathonShadows,(Come no.)
+124,170,en-us,MQ5_NightEnd,BossCallihan,Veniamo al d---o.
+124,171,en-us,MQ5_NightEnd,Julia_baseCig,Proviamo con «disprezzo».
+124,172,en-us,MQ5_NightEnd,AgathonShadows,"Ha svenduto i suoi ideali da un pezzo, vecchio. È una testa di cazzo. Un codardo. Un bigotto. Un capo fallito, odiato da tutti quelli che lo servono. Ovvio che per lei non provo altro che disprezzo."
+124,173,en-us,MQ5_NightEnd,BossCallihan,"Ehehehehe---ehe. Bene. Fina---nte, un po’ di onestà. Adesso possiamo parlarci da pari."
 124,174,en-us,MQ5_NightEnd,,Non sembra che gli eventi si siano svolti così… è più un modo per esplorare la verità emotiva di Agathon su come è andata.
 124,175,en-us,MQ5_NightEnd,,"In ogni caso il diario reagisce a me, e una sfumatura di verità è meglio di niente. È uno strumento comodo, e se lo uso bene potrei trovare qualche indizio utile all’indagine."
 124,176,en-us,MQ5_NightEnd,,"Ho qualche pensiero che mi fluttua in testa, come entità aliene che cercano di uscire. Anche questo è un effetto del potere del diario? Proviamo con…"
 124,177,Menu Text en-us,MQ5_NightEnd,Player,«Morte.»
+124,178,Menu Text en-us,MQ5_NightEnd,Player,«Destino.»
+124,179,Menu Text en-us,MQ5_NightEnd,Player,«Sogno.»
 124,180,en-us,MQ5_NightEnd,AgathonShadows,È la paura della morte che l’ha spinta a contattarmi?
 124,181,en-us,MQ5_NightEnd,BossCallihan,"Non essere rid---lo. Sono pronto a morire da prima che tu uscissi dal ventre di tua madre, ragazzo. No. Temo qual---sa di peggio."
 124,182,en-us,MQ5_NightEnd,AgathonShadows,Quindi quando ha saputo del loro complotto...
 124,183,en-us,MQ5_NightEnd,BossCallihan,Sì. Non avevo paura che fallisse e mi lasciasse alla Morte Ultima. Av---o paura che riuscisse.
+124,184,en-us,MQ5_NightEnd,AgathonShadows,Sono curioso. Qual è il destino che vede davanti a sé?
+124,185,en-us,MQ5_NightEnd,BossCallihan,"Vedo due strade davanti a me. La prima è la libertà, comprata a un prezzo orribile. La sec---a… è l’abiezione totale e completa."
+124,186,en-us,MQ5_NightEnd,AgathonShadows,Ma non ha ancora scelto una delle due strade.
+124,187,en-us,MQ5_NightEnd,BossCallihan,No. Ma ho pa---a che la scelta sia già stata fatta per me.
+124,188,en-us,MQ5_NightEnd,AgathonShadows,Mettiamo che io la aiuti e che ne usciamo vivi entrambi. Dopo cosa farebbe?
+124,189,en-us,MQ5_NightEnd,BossCallihan,"Forse ucciderei la d---a che una volta credevo di amare. Forse andrei a rivedere il vecchio paese. F---e mi Abbraccerei un figlio nuovo. Nessuna idea, il mondo sarebbe mio. A te che importa, ragazzo?"
+124,190,en-us,MQ5_NightEnd,AgathonShadows,"Mi importa perché voglio, come dire, immaginare il mio futuro in rapporto a questi piani."
+124,191,en-us,MQ5_NightEnd,BossCallihan,"Saresti sotto la mia prot---ne per tutto il tempo che resti in città. Se scegliessi di andartene, ti aiuterei. Se c’è una c---a ancora intatta in me, è il mio onore."
+124,192,en-us,MQ5_NightEnd,AgathonShadows,(Sospetto.)
 124,193,en-us,MQ5_NightEnd,,"Maledizione, di cosa state parlando voi due? Perché vi siete incontrati?"
 124,194,Menu Text en-us,MQ5_NightEnd,Player,«Resistere.»
+124,195,Menu Text en-us,MQ5_NightEnd,Player,«Spiega.»
+124,196,Menu Text en-us,MQ5_NightEnd,Player,«Ellis Island.»
 124,197,en-us,MQ5_NightEnd,AgathonShadows,"Dobbiamo solo resistere. Le ho detto quello che so, e dovrebbe farci guadagnare un po’ di tempo. Vedrò cos’altro riesco a scoprire."
 124,198,en-us,MQ5_NightEnd,BossCallihan,"Tempo? Non c’è t---po. Non abbiamo a che fare con dei coglioni come te! Dobbiamo comportarci come se ci avessero già sco---ti, e in fretta! Per quel che ne so potrebbero aver già ordinato le nostre morti!"
 124,199,en-us,MQ5_NightEnd,AgathonShadows,Sono l’allievo dell’Alto Reggente. Sono il suo braccio destro da anni. Non è possibile che permetta che io...
 124,200,en-us,MQ5_NightEnd,BossCallihan,"Brutto succhia---zi. Nel momento in cui ti vedrà come un esperimento fallito, ti tratterà come tratta tutti i suoi esperi---ti falliti."
+124,201,en-us,MQ5_NightEnd,AgathonShadows,Ho condiviso con lei le mie informazioni. C’è qualcosa che sa e che dovrei sapere anch’io?
+124,202,en-us,MQ5_NightEnd,BossCallihan,"Ti sei cacciato in un casino enorme, ragazzo. Credi che quello che sai sia brutto? Non ne sai nemmeno la metà."
+124,203,en-us,MQ5_NightEnd,BossCallihan,"Ma se vuoi resistere, per prima cosa dovrai mordere la mano che ti ha nutrito per tutto questo tempo."
+124,204,en-us,MQ5_NightEnd,AgathonShadows,Perché ha scelto proprio questo posto per incontrarci?
+124,205,en-us,MQ5_NightEnd,BossCallihan,"È appartato, e c’è qual---a nell’aria qui che manda in tilt tutta la magia del sangue. Cosa particolarmente importante..."
+124,206,en-us,MQ5_NightEnd,AgathonShadows,Per via mia? Ha ancora paura che io faccia parte dell’esperimento?
+124,207,en-us,MQ5_NightEnd,BossCallihan,No. Per c---a di quella donna diabolica. 
 124,208,en-us,MQ5_NightEnd,AgathonShadows,(Sangue che si gela.)
 124,209,en-us,MQ5_NightEnd,AgathonShadows,…
 124,210,en-us,MQ5_NightEnd,,"Tutti gli scarabocchi spariscono, e altri cominciano a prendere il loro posto."
@@ -2447,10 +2477,18 @@
 124,216,en-us,MQ5_NightEnd,,"Ma se la persona di cui parlava, e che gli suscitava una reazione emotiva così forte… fosse Aisling?"
 124,217,en-us,MQ5_NightEnd,,Il diario attende il mio prossimo comando.
 124,218,Menu Text en-us,MQ5_NightEnd,Player,«Perché?»
+124,219,Menu Text en-us,MQ5_NightEnd,Player,«Quando?»
+124,220,Menu Text en-us,MQ5_NightEnd,Player,«Chi?»
 124,221,en-us,MQ5_NightEnd,AgathonShadows,Alto Reggente… Perché?
+124,222,en-us,MQ5_NightEnd,AgathonShadows,Alto Reggente… Quando?
+124,223,en-us,MQ5_NightEnd,AgathonShadows,Alto Reggente… chi?
 124,224,en-us,MQ5_NightEnd,AislingCoteries,"Perché? Non puoi dire sul serio. Questi esperi---ti richiedono risorse, e non sarei in grado di procurarmi tutti i materiali necessari in tempi ragionevoli da sola."
 124,225,en-us,MQ5_NightEnd,AislingCoteries,È un quid pro quo. E non è che la mia ricerca non giovi a tutti i Fratelli sul lu--- periodo.
 124,226,en-us,MQ5_NightEnd,AgathonShadows,"Non mi sento affatto a mio agio a farne parte. Ho sempre pensato che ci occupassimo di scienza, non di politica."
+124,227,en-us,MQ5_NightEnd,AislingCoteries,Non dovrebbe sorprenderti che questi accordi fossero già in pi---i quando hai cominciato a lavorare per me. 
+124,228,en-us,MQ5_NightEnd,AislingCoteries,"Le prove ti sono sempre state into---o, eri solo tu a scegliere di non guardarle. Non fare come se non fossi complice, Agathon."
+124,229,en-us,MQ5_NightEnd,AislingCoteries,Ma che domanda ing---a è?
+124,230,en-us,MQ5_NightEnd,AislingCoteries,Mi impongo di avere addosso meno vincoli possibile. I pochi che ho tenuto per i vantaggi che offrono dovrebbero esserti dolorosa---te ovvi.
 124,231,en-us,MQ5_NightEnd,AislingCoteries,"Queste sono parole da bambino, Agat---. La scienza si è sempre appoggiata alla politica, e la politica alla scienza. "
 124,232,en-us,MQ5_NightEnd,AgathonShadows,"Non così, Alto Reggente."
 124,233,en-us,MQ5_NightEnd,AislingCoteries,"Non mettermi in imbaraz---, Agathon."
@@ -2459,7 +2497,11 @@
 124,236,en-us,MQ5_NightEnd,,Quello che compare stavolta è un’altra faccia familiare.
 124,237,en-us,MQ5_NightEnd,ThomasArturoCoteries,"Ah, sì. Agathon. Cos’---a che volevi dirmi?"
 124,238,Menu Text en-us,MQ5_NightEnd,Player,«Vaffanculo.»
+124,239,Menu Text en-us,MQ5_NightEnd,Player,«Va’ all’inferno.»
+124,240,Menu Text en-us,MQ5_NightEnd,Player,«Maledetto verme.»
 124,241,en-us,MQ5_NightEnd,AgathonShadows,Vaffanculo.
+124,242,en-us,MQ5_NightEnd,AgathonShadows,Va’ all’inferno.
+124,243,en-us,MQ5_NightEnd,AgathonShadows,Maledetto verme.
 124,244,en-us,MQ5_NightEnd,ThomasArturoCoteries,"...Come, sc---i?"
 124,245,en-us,MQ5_NightEnd,,L’Arpia svanisce. 
 124,246,en-us,MQ5_NightEnd,AgathonShadows,"Sì, come no. Come se avessi mai il coraggio di dirtelo in faccia."
@@ -2467,14 +2509,19 @@
 124,248,en-us,MQ5_NightEnd,,"Il diario finisce qui. Verso ancora un po’ di vitae sulla pagina, ma non funziona più. "
 124,249,en-us,MQ5_NightEnd,,Immagino sia tutto. Ancora nessuna idea di cosa sia successo ad Agathon. È vivo? O è morto?
 124,250,Menu Text en-us,MQ5_NightEnd,Player,[Vivo]
+124,251,Menu Text en-us,MQ5_NightEnd,Player,[Morto]
 124,252,en-us,MQ5_NightEnd,,Forse Dakota ha ragione. Ho fatto troppo spesso la guastafeste col bicchiere mezzo vuoto.
 124,253,en-us,MQ5_NightEnd,,"Mi preparerò al peggio, ma spererò nel meglio."
 124,254,en-us,MQ5_NightEnd,,"Il modo in cui ha lasciato il diario perché qualcuno portasse avanti il suo lavoro, gli indizi che ci ha messo dentro di proposito… ha pianificato tutto, non c’è dubbio."
 124,255,en-us,MQ5_NightEnd,,Scelgo di credere che una notte lo rivedrò. Magari gli farò pure i complimenti per quella giacca che ha.
+124,256,en-us,MQ5_NightEnd,,È morto. Non c’è dubbio.
+124,257,en-us,MQ5_NightEnd,,"Ci sono troppe persone potenti coinvolte, e tutto quello che ho visto nel diario sembrava un cappio che gli si stringeva intorno al collo."
+124,258,en-us,MQ5_NightEnd,,Scelgo di credere che sia morto perché è la cosa più razionale da fare.
+124,259,en-us,MQ5_NightEnd,,Immagino che Dakota abbia ragione. Sono una guastafeste col bicchiere mezzo vuoto.
 124,260,en-us,MQ5_NightEnd,,"So che Arturo tende a uscire spesso dall’Elysium per prendere una boccata d’aria e messaggiare con la gente sul suo Blackberry, quindi aspetto finché non lo vedo."
 124,261,en-us,MQ5_NightEnd,,La tattica funziona. È sorpreso di vedermi.
 124,262,en-us,MQ5_NightEnd,ThomasArturoShadowsMasked,Signorina Sowinski? Non dovrebbe essere impegnata con la sua indagine?
-124,263,en-us,MQ5_NightEnd,Player,"Lo sono, in effetti. Ed è proprio per questo che sono venuta da lei."
+124,263,en-us,MQ5_NightEnd,Player,"Lo sono, infatti. Ed è per questo che sono venuta da lei."
 124,264,en-us,MQ5_NightEnd,ThomasArturoShadowsMasked,"Curioso, perché sono assolutamente certo di non entrarci niente con questo caso. Non starà sbagliando bersaglio?"
 124,265,en-us,MQ5_NightEnd,Player,È quello che sono qui per scoprire. Ho immaginato che le facesse piacere vedermi scrupolosa.
 124,266,en-us,MQ5_NightEnd,ThomasArturoShadowsMasked,"Sì, certo, immagino sia lodevole. Di cosa si tratta, allora?"
@@ -2547,18 +2594,46 @@
 124,334,en-us,MQ5_NightEnd,PlayerNoPic,"I miei livelli di rabbia sono sopra il solito, immagino."
 124,335,en-us,MQ5_NightEnd,Qadir_nopic,"È una brutta situazione, ma non senza un possibile lieto fine all’orizzonte… quindi spero che tu riesca a incanalare quella rabbia in qualcosa di produttivo."
 124,336,en-us,MQ5_NightEnd,,Posso provarci.
+124,337,Menu Text en-us,MQ5_NightEnd,PlayerNoPic,"È la Camarilla, no?"
+124,338,en-us,MQ5_NightEnd,PlayerNoPic,"Dopo questi ultimi mesi di nonnismo, non mi aspettavo un atto di gentilezza gratuito. Stronzate del genere sono, be’, semplicemente il modo in cui funziona la Camarilla, no? "
+124,339,en-us,MQ5_NightEnd,Qadir_nopic,"Più spesso del necessario, direi. Ma stavolta è una mossa rischiosa. Per esperienza, basta mostrare un po’ di astuzia per ribaltare inaspettatamente una situazione così a proprio vantaggio."
+124,340,en-us,MQ5_NightEnd,Qadir_nopic,"La Corte. Una parte della Corte dà per scontato che tu non sia in grado di sorprenderli su questo. Ma se lo fai, alla fine di questa indagine potresti anche tirarti fuori dal fosso in cui sei."
+124,341,en-us,MQ5_NightEnd,PlayerNoPic,"Sarebbe una notte da ricordare. Allora, ehm..."
+124,342,Menu Text en-us,MQ5_NightEnd,PlayerNoPic,Ehh… vabbè.
+124,343,en-us,MQ5_NightEnd,PlayerNoPic,"Che… peccato. Ma è inutile piangere sul latte versato, no? La vita ti dà limoni, tu fai la limonata. Sbrighiamocela e basta."
+124,344,en-us,MQ5_NightEnd,Qadir_nopic,"Questa è una risposta… inaspettatamente matura, detta da te."
+124,345,en-us,MQ5_NightEnd,PlayerNoPic,"Eh eh eh. Risparmiami, e ehm, dimmi solo..."
 124,346,Menu Text en-us,MQ5_NightEnd,Player,A proposito di quella Juno...
+124,347,Menu Text en-us,MQ5_NightEnd,Player,C’erano segnali di una partenza?
+124,348,en-us,MQ5_NightEnd,Player,C’erano segnali che stesse per andarsene? O qualcosa che renda la sua scomparsa sospetta?
+124,349,en-us,MQ5_NightEnd,AislingShadows,"No, niente."
+124,350,Menu Text en-us,MQ5_NightEnd,Player,C’erano conflitti tra voi due?
+124,351,en-us,MQ5_NightEnd,Player,Eravate in conflitto su qualcosa? Qualcosa che possa aver creato una frattura tra voi?
+124,352,en-us,MQ5_NightEnd,,Una pausa appena troppo lunga perché io non mi insospettisca.
+124,353,en-us,MQ5_NightEnd,AislingShadows,Niente che mi venga in mente. Una cosa però l’ho presa male.
 124,354,en-us,MQ5_NightEnd,Player,Dakota...
+124,355,Menu Text en-us,MQ5_NightEnd,Player,Quella volta al liceo...
+124,356,Menu Text en-us,MQ5_NightEnd,Player,...non pensarci.
+124,357,en-us,MQ5_NightEnd,,"...So cosa stai facendo, Julia, ma questa non è una tana del bianconiglio in cui vorresti restare incastrata adesso. Continua a leggere."
+124,358,en-us,MQ5_NightEnd,,"Oddio, Julia, non è il momento di tornare su quello che consideri meschinamente il punto zero del tuo stato mentale di merda. Vai avanti."
 124,359,en-us,MQ5_NightEnd,,"Se non fosse per la lealtà che provo verso Qadir, Samira e il mio sire – Dio sa che il ricordo del mio Abbraccio ha ancora troppa presa su di me – avrei ordito una vendetta contro questi stronzi da un pezzo."
+124,360,en-us,MQ5_NightEnd,,"Forse dovrei davvero chiamare Mia e farle, sai che ti dico, fanculo questi pagliacci paternalisti della Torre d’Avorio, voglio lavorare con te."
 124,361,en-us,MQ5_NightEnd,,"Ma diciamocelo: anche se pensassi che mentire a Mia ieri sulla mia simpatia per gli Anarchici di New York possa giovarmi, probabilmente non lo farei comunque. Mi sembrerebbe un tradimento."
 124,362,en-us,MQ5_NightEnd,,C’è qualcosa negli ideali della Camarilla che ancora mi suona vero. La fede nell’eccellenza e nella nobiltà individuali. O il modo in cui Tradizioni collaudate possono ancorarci a questa nuova esistenza terrificante.
 124,363,en-us,MQ5_NightEnd,,"Ma stare dal lato di chi la subisce, questa schifosa struttura neofeudale… e vedere in prima persona come le élite giochino comunque con regole tutte loro."
 124,364,en-us,MQ5_NightEnd,,Non posso fare a meno di pensare che là fuori debba esserci qualcosa di meglio. Il tipo di Camarilla che meriterebbe davvero la lealtà cieca di Fratelli come Qadir.
+124,365,en-us,MQ5_NightEnd,,"Ma d’altra parte, se stessi con gli Anarchici mi rifilerebbero probabilmente compiti ancora più di merda. Se, e sarebbe un «se» enorme, non mi prendessero per una specie di infiltrata."
+124,366,en-us,MQ5_NightEnd,,"Meglio restare con la Camarilla. Ma se sono decisi a pugnalarmi alle spalle a ogni occasione… forse è ora di pensare a come ricambiare il favore. Giocare sporco, checché ne pensi Qadir."
+124,367,en-us,MQ5_NightEnd,,"In fondo, da dove sto adesso, non si può che salire."
 124,368,en-us,MQ5_NightEnd,PlayerNoPic,"Fai strada, Lupo Cattivo."
+124,369,en-us,MQ5_NightEnd,PlayerNoPic,"Fa’ la tua magia, Fata Madrina."
+124,370,en-us,MQ5_NightEnd,PlayerNoPic,Vin Diesel colpisce ancora.
 124,371,en-us,MQ5_NightEnd,Qadir_nopic,Non hai ancora finito con questa storia?
 124,372,en-us,MQ5_NightEnd,PlayerNoPic,Non finché continua a darti fastidio.
 124,373,en-us,MQ5_NightEnd,Qadir_nopic,...Ti lascio indietro se non stai al passo.
 124,374,Menu Text en-us,MQ5_NightEnd,Player,Io...
+124,375,Menu Text en-us,MQ5_NightEnd,Player,Ehm...
+124,376,Menu Text en-us,MQ5_NightEnd,Player,"Magari se, ehm..."
 124,377,en-us,MQ5_NightEnd,,Mi siedo accanto a lei.
 124,378,en-us,MQ5_NightEnd,Dakota,"Non di lavoro, ricevuto. E allora cos’hai per la testa?"
 124,379,en-us,MQ5_NightEnd,Julia_baseCross,Il passato… credo.
@@ -2580,6 +2655,35 @@
 124,395,en-us,MQ5_NightEnd,Player,"Tu eri Kung Fu, e io sono finita come Prof... il che era offensivo."
 124,396,en-us,MQ5_NightEnd,Dakota,Eri vestita come una secchiona totale. Non è colpa mia. Cos’era quel completo?
 124,397,en-us,MQ5_NightEnd,Player,A me quel completo piaceva.
+124,398,en-us,MQ5_NightEnd,Dakota,"Sì, non era male. Mi ricordo che ti davo una mano con la grafica ogni volta che ti serviva…"
+124,399,en-us,MQ5_NightEnd,Player,"Buffo. Io mi ricordo che eri tu ad avere bisogno d’aiuto con i testi, e capitava molto più spesso."
+124,400,en-us,MQ5_NightEnd,,"Già. Abbiamo sviluppato un’estetica condivisa divertente, con preoccupazioni di superficie simili, e ci ha legate ancora prima di verificare se fossimo davvero compatibili in profondità come persone."
+124,401,en-us,MQ5_NightEnd,,"Anzi, non sono ancora sicura che lo siamo. Soprattutto adesso che non sono più una persona."
+124,402,en-us,MQ5_NightEnd,,"Ma ehi, almeno siamo d’accordo entrambe che questa camera da letto è comodissima."
+124,403,en-us,MQ5_NightEnd,Player,Mi ricordo di essermi sempre sentita esclusa dalle tue cerchie sociali. 
+124,404,en-us,MQ5_NightEnd,,Sempre a bussare alla porta da fuori.
+124,405,en-us,MQ5_NightEnd,Dakota,"Oh, lascia perdere. Le mie «cerchie sociali» erano piene di stronzi snob e fuori dal mondo."
+124,406,en-us,MQ5_NightEnd,Player,"Sì, ma era strano quanto mi evitassero. E poi c’è stata quella volta con Isabella…"
+124,407,en-us,MQ5_NightEnd,,"All’improvviso una cosa che Isabella disse a quella festa mi torna in mente con una chiarezza sconcertante. Dopo mezzanotte, in quella cucina, senza contesto, mi si avvicinò e..."
+124,408,en-us,MQ5_NightEnd,,"«Ti isolerà, ti prosciugherà, e passerà al bersaglio successivo. È l’unica cosa che sa fare.» "
+124,409,en-us,MQ5_NightEnd,Dakota,Uffa. Non ricordarmi Isabella. Mi ha sempre portato rancore.
+124,410,en-us,MQ5_NightEnd,,"È passato tanto tempo, ed è tutta congettura senza fondamento adesso, ma se… se mi avesse davvero isolata di proposito, allora? "
+124,411,en-us,MQ5_NightEnd,,...
+124,412,en-us,MQ5_NightEnd,,"No. Il bicchiere è mezzo pieno. Il passato è il gatto di Schrödinger, e via dicendo. Meglio credere alla versione positiva dei fatti."
+124,413,en-us,MQ5_NightEnd,,"Bicchiere mezzo vuoto un corno. Qui c’è qualcosa che non torna, e potrebbe farne parte. Almeno non posso escluderlo."
+124,414,en-us,MQ5_NightEnd,,"Non dirò niente, ma vale la pena tenerlo a mente per il futuro. Essere sospettose per natura è una virtù, checché ne dica Dakota."
+124,415,en-us,MQ5_NightEnd,,Andiamo avanti come se niente fosse.
+124,416,en-us,MQ5_NightEnd,,"A pensarci bene… amico o nemico, se non credi che stiano dalla tua parte, in un modo o nell’altro lo capiranno, e allora è certo al cento per cento che dalla tua parte non ci staranno. "
+124,417,en-us,MQ5_NightEnd,,Forse l’ottimismo è davvero la strada.
+124,418,en-us,MQ5_NightEnd,Player,"Sì, lascia stare Isabella, chiudiamo il discorso. Sono già abbastanza frustrata. Mi serve un reset."
+124,419,en-us,MQ5_NightEnd,Dakota,Mi sembra una buona idea. A nanna?
+124,420,en-us,MQ5_NightEnd,Player,Sì. Devo prepararmi a tornare all’inferno domani.
+124,421,en-us,MQ5_NightEnd,Dakota,Va bene. Io torno al lavoro.
+124,422,en-us,MQ5_NightEnd,Player,Lavori di nuovo da remoto?
+124,423,en-us,MQ5_NightEnd,Dakota,"Sì, in ufficio stanno impazzendo per un sacco di motivi. E poi comincio ad ammuffire chiusa in casa."
+124,424,en-us,MQ5_NightEnd,Player,Prendi un po’ di sole. Ti farà bene.
+124,425,en-us,MQ5_NightEnd,Dakota,"Senti chi parla. Buonanotte, raggio di sole."
+124,426,en-us,MQ5_NightEnd,Player,’Notte...
 124,427,en-us,MQ5_NightEnd,,"In ogni caso, credo sia ora di fare una visita a The Art Hole."
 124,428,en-us,MQ5_NightEnd,,...
 125,11,en-us,Night4_Side1,,Ma cosa mi è passato per la testa?
