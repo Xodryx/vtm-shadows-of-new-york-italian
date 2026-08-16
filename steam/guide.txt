@@ -1,0 +1,116 @@
+[h1]Cos'è[/h1]
+
+Una traduzione italiana completa di Shadows of New York: tutte le 5699 battute di dialogo, il dizionario in gioco, i nomi dei personaggi e i testi delle quest.
+
+L'italiano viene aggiunto come [b]quinta lingua nel menu delle opzioni[/b], accanto a inglese, francese, portoghese e russo. Non sostituisce nessuna lingua esistente.
+
+[b]Nessun file del gioco viene modificato.[/b] È un plugin che carica il testo in memoria all'avvio: per disinstallarlo basta cancellare una cartella, e i salvataggi non vengono toccati in nessun momento.
+
+[hr][/hr]
+
+[h1]Prima di cominciare[/h1]
+
+[b]Serve la versione Windows su PC.[/b]
+
+[list]
+[*][b]Switch, PS4, Xbox: non è possibile.[/b] Il mod funziona grazie a BepInEx, che deve caricarsi dentro il gioco prima che parta. Una console non lo consente e non esiste alcuna soluzione alternativa.
+[*][b]macOS e Linux: non provato.[/b] Il gioco esiste per entrambi e BepInEx li supporta, quindi potrebbe funzionare, ma nessuno l'ha ancora verificato.
+[/list]
+
+[b]Vi serviranno due download:[/b]
+
+[list]
+[*][url=https://github.com/BepInEx/BepInEx/releases]BepInEx 5.4.x (x64)[/url] — il file si chiama [i]BepInEx_win_x64_5.4.*.zip[/i]. Attenzione alla versione [b]x64[/b], non x86: è l'errore più comune.
+[*][url=https://github.com/Xodryx/vtm-shadows-of-new-york-italian/releases/latest]La traduzione italiana[/url] — un solo archivio.
+[/list]
+
+[hr][/hr]
+
+[h1]Dove sta la cartella del gioco[/h1]
+
+Tutti i passaggi avvengono nella cartella che contiene [i]VtM Shadows of New York.exe[/i]. Su un'installazione Steam predefinita è:
+
+[code]C:\Program Files (x86)\Steam\steamapps\common\Vampire The Masquerade - Shadows of New York[/code]
+
+Se la vostra libreria Steam sta su un altro disco il percorso è diverso. Invece di cercarla, fatevela aprire da Steam: [b]tasto destro sul gioco nella libreria → Gestisci → Sfoglia i file locali[/b].
+
+[hr][/hr]
+
+[h1]Installazione[/h1]
+
+[olist]
+[*][b]Installate BepInEx.[/b] Scompattate [i]BepInEx_win_x64_5.4.*.zip[/i] nella cartella del gioco, in modo che [i]winhttp.dll[/i] finisca accanto a [i]VtM Shadows of New York.exe[/i].
+[*][b]Avviate il gioco una volta e chiudetelo.[/b] Serve a BepInEx per creare le sue cartelle. Al primo avvio non vedrete ancora nulla di diverso: è normale.
+[*][b]Scompattate la traduzione nella stessa cartella.[/b] L'archivio contiene già il percorso completo, quindi i file si sistemano da soli. Se Windows chiede di unire le cartelle, confermate.
+[*][b]Avviate il gioco, aprite le opzioni e scegliete Italiano.[/b]
+[/olist]
+
+A installazione riuscita la cartella si presenta così:
+
+[code]Vampire The Masquerade - Shadows of New York\
+├─ winhttp.dll
+├─ BepInEx\
+│  └─ plugins\
+│     └─ SoNY-ITA\
+│        ├─ SoNY.Ita.dll
+│        ├─ it.csv
+│        └─ ui_it.csv
+└─ VtM Shadows of New York.exe[/code]
+
+[hr][/hr]
+
+[h1]Se qualcosa non va[/h1]
+
+Il file [i]BepInEx\LogOutput.log[/i], nella cartella del gioco, dice quasi sempre cosa è successo. Se il mod è partito contiene una riga simile a:
+
+[code]it.csv: 5699 translations loaded.[/code]
+
+I tre problemi più frequenti:
+
+[list]
+[*][b]Italiano non compare nel menu.[/b] Quasi sempre è la versione sbagliata di BepInEx: serve la [b]x64[/b], non la x86.
+[*][b]I file sono nel posto sbagliato.[/b] Devono stare in [i]BepInEx\plugins\SoNY-ITA\[/i], non nella cartella principale del gioco.
+[*][b]Non avete avviato il gioco dopo aver installato BepInEx.[/b] Senza quel primo avvio la cartella [i]plugins[/i] non esiste ancora.
+[/list]
+
+[hr][/hr]
+
+[h1]Disinstallazione[/h1]
+
+[b]Rimettete prima l'inglese nelle opzioni del gioco.[/b] La lingua scelta è salvata come posizione in un elenco, e l'italiano sta in fondo. Tolto il mod l'elenco si accorcia, e il gioco riporta quella posizione all'ultima lingua rimasta: il russo. Non si rompe nulla, ma un gioco che di colpo parla russo sembra un'installazione guasta. Riscegliere l'inglese lo risolve in qualsiasi momento.
+
+Poi cancellate la cartella [i]BepInEx\plugins\SoNY-ITA\[/i].
+
+Per togliere anche BepInEx: [i]winhttp.dll[/i], [i]doorstop_config.ini[/i], [i].doorstop_version[/i], [i]changelog.txt[/i] e la cartella [i]BepInEx[/i].
+
+[b]Non cancellate[/b] [i]UnityPlayer.dll[/i] né [i]WinPixEventRuntime.dll[/i]: sono file del gioco, non di BepInEx.
+
+[hr][/hr]
+
+[h1]Come è fatta la traduzione[/h1]
+
+La terminologia di gioco non è inventata. È ripresa dalla traduzione italiana ufficiale di [i]Coteries of New York[/i], lo stesso studio e la stessa ambientazione, ed è verificata automaticamente: [i]Kindred[/i] è [b]Fratelli[/b], [i]Final Death[/i] è [b]Morte Ultima[/b], [i]Kine[/i] è [b]vacche[/b].
+
+[b]Avvertenza importante.[/b] Il testo italiano e il plugin sono stati scritti da un'intelligenza artificiale sotto la direzione di una persona, che ha rivisto il lavoro riga per riga. Nessuno ha però ancora giocato il gioco per intero in italiano per rileggerlo. Consideratela una prima versione funzionante, non una localizzazione rifinita.
+
+In pratica: la terminologia dovrebbe essere affidabile, mentre gli errori staranno soprattutto nel tono e nel registro, e qualche riga potrebbe uscire dal riquadro.
+
+[hr][/hr]
+
+[h1]Segnalare un errore[/h1]
+
+Le segnalazioni sono l'unico modo in cui questi errori vengono corretti.
+
+[url=https://github.com/Xodryx/vtm-shadows-of-new-york-italian/issues]Segnalazioni su GitHub[/url] — oppure scrivete nei commenti qui sotto.
+
+Se trovate una frase sbagliata, riportate [b]il testo italiano così come appare a schermo[/b]. Bastano poche parole: servono a individuare la riga esatta tra 5699.
+
+[hr][/hr]
+
+[h1]Link[/h1]
+
+[list]
+[*][url=https://github.com/Xodryx/vtm-shadows-of-new-york-italian/releases/latest]Scarica la traduzione[/url]
+[*][url=https://github.com/BepInEx/BepInEx/releases]Scarica BepInEx[/url]
+[*][url=https://github.com/Xodryx/vtm-shadows-of-new-york-italian]Codice sorgente e traduzioni[/url] — tutto è pubblico e verificabile
+[/list]
