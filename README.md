@@ -36,6 +36,16 @@ quest texts. Every conversation, both endings, every optional branch.
 **[⬇ Download the latest release](../../releases/latest)** — one zip, nothing else from
 this repository is needed to play.
 
+Everything below happens in the **game folder**: the one containing
+`VtM Shadows of New York.exe`. On a default Steam install that is
+
+```
+C:\Program Files (x86)\Steam\steamapps\common\Vampire The Masquerade - Shadows of New York
+```
+
+If your Steam library lives elsewhere, let Steam tell you: right-click the game in the
+library → **Manage** → **Browse local files**.
+
 1. Install [BepInEx 5.4.x (x64)](https://github.com/BepInEx/BepInEx/releases) into the
    game folder and run the game once so it generates its directories.
 2. Unzip the release into the game folder, so the files land in

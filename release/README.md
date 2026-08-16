@@ -3,12 +3,26 @@
 Everything in this folder goes into your game directory. Nothing else from the
 repository is needed to play.
 
+## Finding the game folder
+
+Every step below happens in the **game folder**: the one containing
+`VtM Shadows of New York.exe`. On a default Steam install that is
+
+```
+C:\Program Files (x86)\Steam\steamapps\common\Vampire The Masquerade - Shadows of New York
+```
+
+Steam lets you put libraries on other drives, so yours may instead be something like
+`D:\SteamLibrary\steamapps\common\Vampire The Masquerade - Shadows of New York`. Rather
+than guessing, let Steam open it for you: right-click the game in your library →
+**Manage** → **Browse local files**.
+
 ## Install
 
-1. Install **BepInEx 5.4.x (x64)** into the game folder — the directory that contains
-   `VtM Shadows of New York.exe`. Download it from
-   <https://github.com/BepInEx/BepInEx/releases> (`BepInEx_x64_5.4.*.zip`) and unpack it
-   there.
+1. Install **BepInEx 5.4.x (x64)** into the game folder. Download it from
+   <https://github.com/BepInEx/BepInEx/releases> — the file is named
+   `BepInEx_win_x64_5.4.*.zip` — and unpack it there, so that `winhttp.dll` sits next to
+   `VtM Shadows of New York.exe`.
 2. Launch the game once and quit. BepInEx creates its folders on that first run.
 3. Unpack the release archive into the same folder. It carries the full
    `BepInEx/plugins/SoNY-ITA/` path, so the files land in the right place on their own —
@@ -18,7 +32,7 @@ repository is needed to play.
 Installed correctly, you should end up with:
 
 ```
-Vampire The Masquerade - Shadows of New York/
+...\Steam\steamapps\common\Vampire The Masquerade - Shadows of New York\
 ├─ winhttp.dll                  ← BepInEx
 ├─ BepInEx/
 │  └─ plugins/
