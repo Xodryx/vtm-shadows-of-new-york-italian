@@ -5,8 +5,9 @@ plugin. The game ships English, French, Brazilian Portuguese and Russian; this a
 **Italiano** as a fifth entry in the language selector and injects the translated text
 at runtime. **No game file is modified.**
 
-Work in progress: **2256 of 5699 dialogue lines**, plus the in-game dictionary, actor
-names and quest texts.
+**Complete: 5699 of 5699 dialogue lines**, plus the in-game dictionary, actor names and
+quest texts. Every conversation, both endings, every optional branch. The text has not
+yet been proofread in-game — corrections are welcome.
 
 ## Installing
 
@@ -16,8 +17,8 @@ names and quest texts.
    `BepInEx/plugins/SoNY-ITA/`.
 3. Launch the game and pick **Italiano** in the options.
 
-Untranslated lines fall back to English, so the mod is safe to use at any stage of
-completion.
+Any line the plugin cannot resolve falls back to English, so a partial or mismatched
+`it.csv` degrades gracefully instead of breaking the game.
 
 ## How it works
 
@@ -39,7 +40,7 @@ configuration options.
 | `apply.py` | merges the blocks into `it.csv`, checking glossary markers and overflow |
 | `reading_order.py` | recovers reading order from the dialogue graph |
 | `match_official_ui.py` | builds `ui_it.csv` for the dictionary, actor names and quests |
-| `official_glossary.json` | 60 VtM glossary terms with their official Italian |
+| `official_glossary.json` | 60 VtM glossary terms, 141 inflected forms, with their official Italian |
 | `ui_manual.json` | hand-written translations for the Shadows-specific UI tables |
 | `links.csv` | the dialogue graph, 5940 links |
 | `release/` | the installable build — DLL plus the translation CSVs |
@@ -54,6 +55,12 @@ Italian renderings are extracted from the official translation of *Coteries of N
 — same studio, same setting — rather than invented. `Kindred` is **Fratelli**, `Kine` is
 **vacche**, `Final Death` is **Morte Ultima**, `Scourge` is **Frusta**. `apply.py`
 rejects any glossary marker that departs from the official rendering.
+
+Shadows introduces nicknames Coteries never used, and those are translated freely: the
+checker only constrains a marker when the English term inside it has a recorded official
+rendering. Where Coteries recorded a single gender for a term the game later applies to
+the other, the glossary carries an explicit inflection (`lick (m)`, `neonate (f)`) rather
+than loosening the check.
 
 ## Licence
 

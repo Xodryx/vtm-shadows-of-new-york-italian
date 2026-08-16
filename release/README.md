@@ -18,8 +18,10 @@ repository is needed to play.
 
 ## Notes
 
-- The translation is still in progress. Lines that are not translated yet appear in
-  English; nothing breaks and no save is affected.
+- The translation is complete: all 5699 dialogue lines, the dictionary, actor names and
+  quests. It has not been proofread in-game yet, so expect the occasional rough edge.
+- Any line the plugin cannot resolve falls back to English; nothing breaks and no save
+  is affected.
 - No game file is modified. To uninstall, delete `winhttp.dll`, `doorstop_config.ini`
   and the `BepInEx` folder.
 - Updating means replacing `it.csv` and `ui_it.csv` — the plugin reloads them on every
