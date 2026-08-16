@@ -1,0 +1,74 @@
+name: "Il mod non funziona"
+description: "L'italiano non compare, il gioco resta in inglese, il gioco non parte"
+title: "[Non funziona] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Prima di tutto, tre controlli che risolvono la maggior parte dei casi:
+
+        1. I file stanno in `BepInEx/plugins/SoNY-ITA/`, **non** nella cartella del gioco.
+        2. Hai avviato il gioco una volta dopo aver installato BepInEx, prima di copiarci
+           il mod.
+        3. Hai scelto **Italiano** nelle opzioni del gioco.
+
+        Se sono tutti a posto, il log dice quasi sempre cosa è andato storto.
+
+  - type: textarea
+    id: cosa
+    attributes:
+      label: "Cosa succede"
+      placeholder: "Nel menu delle lingue non compare Italiano."
+    validations:
+      required: true
+
+  - type: textarea
+    id: log
+    attributes:
+      label: "Contenuto di BepInEx/LogOutput.log"
+      description: "Il file sta nella cartella del gioco, dentro BepInEx. Incollalo tutto: è la fonte di informazione più utile."
+      render: text
+    validations:
+      required: true
+
+  - type: dropdown
+    id: store
+    attributes:
+      label: "Dove hai comprato il gioco"
+      options:
+        - "Steam"
+        - "GOG"
+        - "Altro"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: so
+    attributes:
+      label: "Sistema operativo"
+      description: "Il mod è stato provato solo su Windows. Su macOS e Linux potrebbe funzionare, ma nessuno l'ha ancora verificato."
+      options:
+        - "Windows"
+        - "macOS"
+        - "Linux"
+    validations:
+      required: true
+
+  - type: input
+    id: versioni
+    attributes:
+      label: "Versione del mod e di BepInEx"
+      placeholder: "mod 0.9.0, BepInEx 5.4.23.5"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: verifiche
+    attributes:
+      label: "Controlli fatti"
+      options:
+        - label: "Ho BepInEx 5.4.x **x64** (non x86)"
+        - label: "I file sono in `BepInEx/plugins/SoNY-ITA/`"
+        - label: "Ho avviato il gioco una volta dopo aver installato BepInEx"
+        - label: "Ho scelto Italiano nelle opzioni"

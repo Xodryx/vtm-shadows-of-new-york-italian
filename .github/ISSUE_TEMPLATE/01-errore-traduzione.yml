@@ -1,0 +1,56 @@
+name: "Errore di traduzione"
+description: "Una frase tradotta male, poco naturale, con il tono o il registro sbagliato"
+title: "[Traduzione] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Grazie: le segnalazioni sono l'unico modo in cui questi errori vengono corretti.
+
+        **Il campo più importante è il primo.** Con qualche parola del testo italiano si
+        risale alla riga esatta in mezzo a 5.699. Senza, la ricerca diventa molto più
+        lunga.
+
+  - type: textarea
+    id: testo
+    attributes:
+      label: "Il testo italiano, così come appare a schermo"
+      description: "Bastano poche parole, purché copiate esattamente. Se hai uno screenshot, trascrivi comunque la frase."
+      placeholder: "Vuoi fare la pazza? Va bene. Facciamo i pazzi."
+    validations:
+      required: true
+
+  - type: textarea
+    id: problema
+    attributes:
+      label: "Cosa non va"
+      description: "Anche solo «suona strano» va bene. Se sai l'originale inglese, indicalo."
+      placeholder: |
+        Il personaggio dà del lei in questa scena, ma nella precedente dava del tu.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposta
+    attributes:
+      label: "Come lo scriveresti tu"
+      description: "Facoltativo, ma una proposta concreta accorcia molto i tempi."
+    validations:
+      required: false
+
+  - type: input
+    id: dove
+    attributes:
+      label: "In che punto del gioco"
+      description: "Facoltativo. Notte, scena o personaggio che parla."
+      placeholder: "Notte 6, colloquio con Hope alla Double Spiral"
+    validations:
+      required: false
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "Screenshot"
+      description: "Facoltativo. Trascina qui l'immagine."
+    validations:
+      required: false

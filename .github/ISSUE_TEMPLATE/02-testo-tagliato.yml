@@ -1,0 +1,54 @@
+name: "Testo tagliato o fuori dal riquadro"
+description: "La frase italiana non ci sta, esce dal bordo o viene troncata"
+title: "[Testo tagliato] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        L'italiano è mediamente più lungo dell'inglese. Le traduzioni sono controllate
+        contro un limite di lunghezza, ma quel limite è una stima: non è il vero
+        renderer del gioco. Quindi questo tipo di problema è previsto, e si corregge
+        accorciando la frase.
+
+        **Lo screenshot qui serve davvero**, perché mostra quanto spazio manca.
+
+  - type: textarea
+    id: testo
+    attributes:
+      label: "Il testo italiano, per quanto se ne legge"
+      description: "Serve a individuare la riga esatta. Se è troncato, copia la parte visibile."
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "Screenshot"
+      description: "Trascina qui l'immagine."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: dove
+    attributes:
+      label: "Dove appare"
+      options:
+        - "Battuta di dialogo"
+        - "Opzione di scelta"
+        - "Voce del dizionario"
+        - "Nome di un personaggio"
+        - "Quest o diario"
+        - "Menu o interfaccia"
+        - "Altro / non so"
+    validations:
+      required: true
+
+  - type: input
+    id: risoluzione
+    attributes:
+      label: "Risoluzione dello schermo"
+      description: "Facoltativo, ma utile: lo spazio disponibile cambia."
+      placeholder: "2560x1440"
+    validations:
+      required: false

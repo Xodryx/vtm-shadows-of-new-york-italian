@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "Console: Switch, PS4, Xbox"
+    url: "https://github.com/Xodryx/vtm-shadows-of-new-york-italian#compatibility"
+    about: "Il mod non può funzionare su console. È un plugin BepInEx, e BepInEx deve caricarsi prima del gioco: una console non lo permette."
+  - name: "Come si installa e come si disinstalla"
+    url: "https://github.com/Xodryx/vtm-shadows-of-new-york-italian#installing"
+    about: "Istruzioni passo passo, percorso della cartella di gioco e struttura dei file."
