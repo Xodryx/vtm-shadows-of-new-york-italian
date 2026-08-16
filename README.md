@@ -6,8 +6,30 @@ plugin. The game ships English, French, Brazilian Portuguese and Russian; this a
 at runtime. **No game file is modified.**
 
 **Complete: 5699 of 5699 dialogue lines**, plus the in-game dictionary, actor names and
-quest texts. Every conversation, both endings, every optional branch. The text has not
-yet been proofread in-game — corrections are welcome.
+quest texts. Every conversation, both endings, every optional branch.
+
+> ### Made with AI — expect mistakes
+>
+> Both the Italian text and the C# plugin were written by an AI assistant (Claude),
+> directed and reviewed line by line by a human, but **no human has yet played the game
+> through in Italian to proofread the result.** Treat this as a first draft that runs,
+> not as a finished localisation.
+>
+> What that means in practice:
+>
+> - **Terminology should be reliable.** Glossary terms are not invented — they are
+>   extracted from the official Italian translation of *Coteries of New York* and checked
+>   automatically on every build. A rendering that departs from the official one is
+>   rejected before it reaches the game.
+> - **Tone, register and context are where errors will be.** An automated check can tell
+>   that `[27;Fratelli]` is correct; it cannot tell that a line meant to be sarcastic
+>   reads as sincere, or that a character is addressed as *tu* in one scene and *lei* in
+>   the next.
+> - **Text may still overflow its box.** Lines are checked against a length budget, but
+>   the budget is an estimate, not the game's actual renderer.
+>
+> Please [open an issue](../../issues) for anything that reads wrong. Mistakes in a
+> translation nobody reports simply stay in it.
 
 ## Installing
 

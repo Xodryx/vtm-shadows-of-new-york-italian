@@ -18,8 +18,14 @@ repository is needed to play.
 
 ## Notes
 
+- **Made with AI — expect mistakes.** Both the Italian text and the plugin were written
+  by an AI assistant (Claude) under human direction. Nobody has yet played the game
+  through in Italian to proofread it, so treat this as a working first draft. Glossary
+  terms are taken from the official Italian of *Coteries of New York* and checked
+  automatically, so those should be right; tone, register and the odd overflowing text
+  box are where problems will be. Reports of anything that reads wrong are welcome.
 - The translation is complete: all 5699 dialogue lines, the dictionary, actor names and
-  quests. It has not been proofread in-game yet, so expect the occasional rough edge.
+  quests.
 - Any line the plugin cannot resolve falls back to English; nothing breaks and no save
   is affected.
 - Updating means replacing `it.csv` and `ui_it.csv` — the plugin reloads them on every
