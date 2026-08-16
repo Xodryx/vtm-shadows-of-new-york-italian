@@ -51,14 +51,22 @@ def check(source, translations):
         # checking the ID alone would reject them.
         italian_by_id = dict(italian_markers)
         for marker_id, english_term in english_markers:
-            official = glossary.get(marker_id, {}).get(english_term.strip(TRIMMED))
+            entries = glossary.get(marker_id, {})
+            english_term = english_term.strip(TRIMMED)
+            official = entries.get(english_term)
             if official is None or marker_id not in italian_by_id:
                 continue
+            # Coteries only ever used one gender for some terms. An inflection
+            # recorded explicitly as "lick (m)" counts as the same rendering;
+            # anything else does not.
+            accepted = {official}
+            accepted.update(v for k, v in entries.items()
+                            if k.startswith(english_term + " ("))
             term = italian_by_id[marker_id]
-            if term.strip(TRIMMED) != official.strip(TRIMMED):
+            if term.strip(TRIMMED) not in {a.strip(TRIMMED) for a in accepted}:
                 problems.append(
                     f"{key}: [{marker_id};{term}] is not the official rendering "
-                    f"of '{english_term}' ({official})")
+                    f"of '{english_term}' ({sorted(accepted)})")
 
         # A percentage says nothing about short lines ("...Sigh." -> "...Sospiro."
         # is +38% but it is 11 characters). What counts is the risk of overflowing
